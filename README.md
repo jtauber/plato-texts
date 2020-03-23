@@ -14,7 +14,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 ## Progress
 
-Crito text preparation done with speech and entence-level textparts. English translation aligned at sentence-level.
+Crito text preparation done with speech and sentence-level textparts. English translation aligned at sentence-level.
 
 ## License
 
