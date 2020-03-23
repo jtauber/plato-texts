@@ -16,6 +16,8 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 Crito text preparation done with speech and sentence-level textparts. English translation aligned at sentence-level.
 
+Initial lemma disambiguation started in Google spreadsheet.
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
