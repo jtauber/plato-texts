@@ -16,4 +16,4 @@ jobs:
     - name: Run text
       run: |
         pip install text-validator
-        validate-text text-validator.toml texts/crito.txt 
+        validate-text text-validator.toml text/crito.txt
