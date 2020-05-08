@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext');
+
+body {
+  font-family: 'Noto Serif', serif;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  max-width: 800px;
+  margin: 1em;
+}
+nav {
+  font-size: 120%;
+  text-align: center;
+}
+a {
+  color: #C00;
+  text-decoration: none;
+}
+a:hover {
+  color: #F33;
+  text-decoration: underline;
+}
+h1 {
+  text-align: center;
+}
+body.index h1 {
+  font-size: 3em;
+  margin-bottom: 0;
+}
+body.index h2 {
+  font-size: 1.6em;
+  margin-top: 0;
+  font-weight: normal;
+  text-align: center;
+}
+p.lead {
+  font-size: 120%;
+  margin-top: 1em;
+}
+ul {
+  margin: 2em 0 3em;
+}
+li {
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+.section {
+  margin: 2em 0;
+}
+.section-title {
+  font-weight: bold;
+  font-size: 1.6em;
+  text-align: center;
+}
+
+.chapter {
+  margin: 1em 0;
+  line-height: 1.8em;
+  font-size: 1.3em;
+}
+.chapter > .ref {
+  font-size: 1.2em;
+  margin: 1em 0 0.3em;
+  text-align: center;
+  color: #C00;
+}
+
+.verse {
+  display: inline;
+}
+.verse > .ref {
+  color: #C00;
+  font-size: 70%;
+  font-family: sans-serif;
+  line-height: 1;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+}
+
+.speech {
+  margin: 2em 0;
+  line-height: 1.8em;
+  font-size: 1.3em;
+}
+.speech > .ref {
+  float: right;
+  color: #C00;
+  font-size: 70%;
+  font-family: sans-serif;
+}
+.speaker {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.sentence {
+  display: inline;
+}
+.sentence > .ref {
+  color: #C00;
+  font-size: 70%;
+  font-family: sans-serif;
+  line-height: 1;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+}

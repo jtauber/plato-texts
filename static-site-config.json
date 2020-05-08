@@ -1,0 +1,14 @@
+{
+    "SRC_PATTERN": "./text/{source}.txt",
+    "OUTPUT_DIRECTORY": "docs/",
+    "collection": "Plato",
+    "subtitle": "Converted to GLTP format by James Tauber",
+    "repo_link": "xxx",
+    "works": [
+        {
+            "source": "crito",
+            "title": "Crito",
+            "levels": ["speech", "sentence"]
+        }
+    ]
+}
