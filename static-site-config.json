@@ -3,7 +3,7 @@
     "OUTPUT_DIRECTORY": "docs/",
     "collection": "Plato",
     "subtitle": "Converted to GLTP format by James Tauber",
-    "repo_link": "xxx",
+    "repo_link": "https://github.com/jtauber/plato-texts",
     "works": [
         {
             "source": "crito",
