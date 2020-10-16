@@ -8,15 +8,26 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 * James Tauber
 
-## Source
+## Sources
 
 * Perseus Digital Library
+* Diorisis
+* AGLDT
+* Vanessa Gorman
 
 ## Progress
 
 Crito text preparation done with speech and sentence-level textparts. English translation aligned at sentence-level.
 
-Initial lemma disambiguation started in Google spreadsheet.
+Initial lemma disambiguation of Crito started in Google spreadsheet.
+
+Base texts for Apology, Crito, Euthyphro, Republic, and Symposium extracted from Perseus.
+
+Tagging of Apology, Crito, Euthyphro, Republic, and Symposium extracted from Diorisis.
+
+Syntactic analysis of Euthyphro extracted from AGLDT.
+
+Syntactic analysis of Apology extracted from Vanessa Gorman's Treebanks.
 
 ## License
 
