@@ -10266,9 +10266,6 @@
         <punct mark="."/>
       </sentence>
       <sentence id="123" location="7">
-        <word form="g" id="1">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
-        </word>
         <word form="ou)kou=n" id="2">
           <lemma id="nlsj80462" entry="οὐκοῦν" POS="adverb" TreeTagger="false" disambiguated="n/a">
             <analysis morph="indeclform (adverb)"/>
@@ -11647,10 +11644,12 @@
             <analysis morph="indeclform (adverb)"/>
           </lemma>
         </word>
-        <word form="ga/rg" id="2">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="ga/r" id="2">
+          <lemma id="21618" entry="γάρ" POS="particle" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="indeclform (particle)"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="143" location="7">
         <word form="o)rqw=s" id="1">
@@ -15578,10 +15577,12 @@
             <analysis morph="indeclform (exclam)"/>
           </lemma>
         </word>
-        <word form="*sw/kratesg" id="5">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="*sw/krates" id="5">
+          <lemma id="101976" entry="Σωκράτης" POS="proper" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="masc voc sg"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="196" location="9">
         <word form="ou)de\n" id="1">
@@ -16198,10 +16199,12 @@
             <analysis morph="neut nom/voc/acc sg"/>
           </lemma>
         </word>
-        <word form="e)sting" id="15">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="e)stin" id="15">
+          <lemma id="31130" entry="εἰμί" POS="verb" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="pres ind act 3rd sg"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="205" location="10">
         <word form="ou)k" id="1">
@@ -16593,10 +16596,12 @@
             <analysis morph="neut nom/voc/acc sg"/>
           </lemma>
         </word>
-        <word form="tig" id="14">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="ti" id="14">
+          <lemma id="104051" entry="τις" POS="pronoun" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="neut nom/voc/acc sg"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="212" location="10">
         <word form="ou)/k" id="1">
@@ -17474,10 +17479,12 @@
             <analysis morph="masc nom sg"/>
           </lemma>
         </word>
-        <word form="lo/gosg" id="10">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="lo/gos" id="10">
+          <lemma id="63772" entry="λόγος" POS="noun" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="masc nom sg"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="230" location="10">
         <word form="nai/" id="1">
@@ -17866,10 +17873,12 @@
             <analysis morph="indeclform (exclam)"/>
           </lemma>
         </word>
-        <word form="*sw/kratesg" id="4">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="*sw/krates" id="4">
+          <lemma id="101976" entry="Σωκράτης" POS="proper" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="masc voc sg"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="239" location="10">
         <word form="o(/ti" id="1">
@@ -20963,109 +20972,6 @@
           </lemma>
         </word>
         <punct mark=";"/>
-      </sentence>
-      <sentence id="279" location="12">
-        <word form="*zh=na" isquote="true" id="1">
-          <lemma id="46195" entry="Ζεύς" POS="proper" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="masc acc sg"/>
-          </lemma>
-        </word>
-        <word form="de\" isquote="true" id="2">
-          <lemma id="23596" entry="δέ" POS="particle" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="indeclform (particle)"/>
-          </lemma>
-        </word>
-        <word form="to\n" isquote="true" id="3">
-          <lemma id="71882" entry="ὁ" POS="article" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="masc acc sg"/>
-          </lemma>
-        </word>
-        <word form="e)/rcanta" isquote="true" id="4">
-          <lemma id="42230" entry="ἔρδω" POS="verb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="aor part act neut nom/voc/acc pl"/>
-            <analysis morph="aor part act masc acc sg"/>
-          </lemma>
-        </word>
-        <word form="kai\" isquote="true" id="5">
-          <lemma id="51951" entry="καί" POS="conjunction" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="indeclform (conj)"/>
-          </lemma>
-        </word>
-        <word form="o(\s" isquote="true" id="6">
-          <lemma id="75512" entry="ὅς" POS="pronoun" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="masc nom sg"/>
-          </lemma>
-        </word>
-        <word form="ta/de" isquote="true" id="7">
-          <lemma id="72010" entry="ὅδε" POS="pronoun" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="neut acc pl"/>
-            <analysis morph="neut nom pl"/>
-            <analysis morph="fem acc dual"/>
-            <analysis morph="fem nom/voc dual"/>
-          </lemma>
-        </word>
-        <word form="pa/nt'" isquote="true" id="8">
-          <lemma id="79904" entry="πᾶς" POS="adjective" disambiguated="1.0" TreeTagger="true">
-            <analysis morph="masc acc sg"/>
-            <analysis morph="neut nom/voc/acc pl"/>
-          </lemma>
-        </word>
-        <word form="e)fu/teusen" isquote="true" id="9">
-          <lemma id="112755" entry="φυτεύω" POS="verb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="aor ind act 3rd sg"/>
-          </lemma>
-        </word>
-        <word form="ou)k" isquote="true" id="10">
-          <lemma id="75730" entry="οὐ" POS="adverb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="proclitic indeclform (adverb)"/>
-          </lemma>
-        </word>
-        <word form="e)qe/lei" isquote="true" id="11">
-          <lemma id="30790" entry="ἐθέλω" POS="verb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="pres ind mp 2nd sg"/>
-            <analysis morph="pres ind act 3rd sg"/>
-          </lemma>
-        </word>
-        <word form="neikei=n" isquote="true" id="12">
-          <lemma id="70035" entry="νεικέω" POS="verb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="pres inf act (attic epic doric)"/>
-          </lemma>
-        </word>
-        <punct mark=":"/>
-      </sentence>
-      <sentence id="280" location="12">
-        <word form="i(/na" isquote="true" id="1">
-          <lemma id="50492" entry="ἵνα" POS="conjunction" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="indeclform (adverb)"/>
-            <analysis morph="indeclform (conj)"/>
-          </lemma>
-        </word>
-        <word form="ga\r" isquote="true" id="2">
-          <lemma id="21618" entry="γάρ" POS="particle" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="indeclform (particle)"/>
-          </lemma>
-        </word>
-        <word form="de/os" isquote="true" id="3">
-          <lemma id="nlsj32161" entry="δέος" POS="noun" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="neut nom/voc/acc sg"/>
-          </lemma>
-        </word>
-        <word form="e)/nqa" isquote="true" id="4">
-          <lemma id="35541" entry="ἔνθα" POS="adverb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="indeclform (adverb)"/>
-          </lemma>
-        </word>
-        <word form="kai\" isquote="true" id="5">
-          <lemma id="51951" entry="καί" POS="conjunction" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="indeclform (conj)"/>
-          </lemma>
-        </word>
-        <word form="ai)dw/s" isquote="true" id="6">
-          <lemma id="2271" entry="αἰδώς" POS="adjective" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="fem nom sg"/>
-          </lemma>
-        </word>
-        <punct mark="."/>
       </sentence>
       <sentence id="281" location="12">
         <word form="pa/nu" id="1">
@@ -25078,10 +24984,12 @@
             <analysis morph="indeclform (conj)"/>
           </lemma>
         </word>
-        <word form="ou)/g" id="2">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="ou)/" id="2">
+          <lemma id="75730" entry="οὐ" POS="adverb" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="proclitic indeclform (adverb)"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="363" location="14">
         <word form="pw=s" id="1">
@@ -27464,10 +27372,13 @@
             <analysis morph="masc/fem gen 1st pl"/>
           </lemma>
         </word>
-        <word form="lamba/nousing" id="13">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="lamba/nousin" id="13">
+          <lemma id="61791" entry="λαμβάνω" POS="verb" TreeTagger="false" disambiguated="n/a">
+            <analysis morph="pres part act masc/neut dat pl (attic epic doric ionic)"/>
+            <analysis morph="pres ind act 3rd pl (attic epic doric ionic)"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="400" location="15">
         <word form="a)lla\" id="1">
@@ -27710,10 +27621,12 @@
             <analysis morph="masc/neut dat pl"/>
           </lemma>
         </word>
-        <word form="qeoi=sg" id="14">
-          <lemma id="unknown" TreeTagger="false" disambiguated="n/a"/>
+        <word form="qeoi=s" id="14">
+          <lemma id="48291" entry="θεός" POS="noun" disambiguated="1.0" TreeTagger="true">
+            <analysis morph="masc dat pl"/>
+          </lemma>
         </word>
-        <punct mark=";γ"/>
+        <punct mark=";"/>
       </sentence>
       <sentence id="403" location="15">
         <word form="oi)=mai" id="1">
