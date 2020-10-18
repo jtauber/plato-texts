@@ -21,9 +21,9 @@ Crito text preparation done with speech and sentence-level textparts. English tr
 
 Initial lemma disambiguation of Crito started in Google spreadsheet.
 
-Base texts for Apology, Crito, Euthyphro, Republic, and Symposium extracted from Perseus.
+Base texts for Euthyphro, Apology, Crito, Phaedo, Symposium, Meno, and Republic extracted from Perseus with new tokenization and segmentation.
 
-Tagging of Apology, Crito, Euthyphro, Republic, and Symposium extracted from Diorisis.
+Tagging of Euthyphro, Apology, Crito, Phaedo, Symposium, Meno, and Republic extracted from Diorisis.
 
 Syntactic analysis of Euthyphro extracted from AGLDT.
 
