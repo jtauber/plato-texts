@@ -2050,40 +2050,6 @@
         </word>
         <punct mark="."/>
       </sentence>
-      <sentence id="35" location="44">
-        <word form="h)/mati/" isquote="true" id="1">
-          <lemma id="46956" entry="ἦμαρ" POS="noun" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="neut dat sg"/>
-          </lemma>
-        </word>
-        <word form="ken" isquote="true" id="2">
-          <lemma id="6207" entry="ἄν" POS="particle" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="epic (enclitic indeclform particle)"/>
-          </lemma>
-        </word>
-        <word form="trita/tw|" isquote="true" id="3">
-          <lemma id="105316" entry="τρίτατος" POS="adjective" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="masc/neut dat sg"/>
-          </lemma>
-        </word>
-        <word form="*fqi/hn" isquote="true" id="4">
-          <lemma id="nlsj5549" entry="Φθῖος" POS="proper" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="fem acc sg (epic ionic)"/>
-          </lemma>
-        </word>
-        <word form="e)ri/bwlon" isquote="true" id="5">
-          <lemma id="42411" entry="ἐρίβωλος" POS="adjective" disambiguated="1.0" TreeTagger="true">
-            <analysis morph="masc/fem acc sg"/>
-            <analysis morph="neut nom/voc/acc sg"/>
-          </lemma>
-        </word>
-        <word form="i(/koio" isquote="true" id="6">
-          <lemma id="50284" entry="ἱκνέομαι" POS="verb" TreeTagger="false" disambiguated="n/a">
-            <analysis morph="aor opt mid 2nd sg"/>
-          </lemma>
-        </word>
-        <punct mark="."/>
-      </sentence>
       <sentence id="36" location="44">
         <word form="a)/topon" id="1">
           <lemma id="17154" entry="ἄτοπος" POS="adjective" TreeTagger="false" disambiguated="n/a">
