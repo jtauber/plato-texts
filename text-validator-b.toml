@@ -8,7 +8,7 @@ CHECK_NO_EOF_NEWLINE = true
 CONFIRM_UTF_8_NFC = true
 
 ["text_validator.plugins.ref_line_format"]
-REF_REGEX = "\\d+\\.\\d+$"
+REF_REGEX = "\\d+\\.\\d+\\.\\d+$"
 
 ["text_validator.plugins.characters"]
 REPLACE_CHARS = [
@@ -23,18 +23,16 @@ REPLACE_CHARS = [
 ]
 TOKEN_REGEXES = [
     # each whitespace-separated token must match one of these regexes
-    "\\d+\\.\\d+$",
+    "\\d+\\.\\d+\\.\\d+$",
     "\\{\\d+[a-z]\\}$",
     "\\{p\\}$",
+    "\\{gap\\}$",
     "\\{/?q}$",
-    "\\{/?del}$",
     "\\{/?add}$",
-    "\\{/?sic}$",
+    "\\{/?del}$",
     "\\{/?quote}$",
-    "\\{/?pers}$",
-    "\\{/?name}$",
-    "\\{/?place}$",
-    "\\{/?rs}$",
+    "\\{/?corr}$",
+    "\\{/?sic}$",
     "[.,:;·—]$",
-    "[\u0370-\u03FF\u1F00-\u1FFF]+\u2019?[.,:;·]*$",
+    "\u2019?[\u0370-\u03FF\u1F00-\u1FFF+]+\u2019?[.,:;·]*$",
 ]

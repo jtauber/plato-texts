@@ -16,4 +16,10 @@ jobs:
     - name: Run text
       run: |
         pip install text-validator
+        validate-text text-validator-b.toml text/apology.txt
         validate-text text-validator.toml text/crito.txt
+        validate-text text-validator.toml text/euthyphro.txt
+        validate-text text-validator.toml text/meno.txt
+        validate-text text-validator.toml text/phaedo.txt
+        validate-text text-validator-b.toml text/republic.txt
+        validate-text text-validator-b.toml text/symposium.txt
