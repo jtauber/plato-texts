@@ -21,5 +21,6 @@ jobs:
         validate-text text-validator.toml text/euthyphro.txt
         validate-text text-validator.toml text/meno.txt
         validate-text text-validator.toml text/phaedo.txt
+        validate-text text-validator.toml text/ion.txt
         validate-text text-validator-b.toml text/republic.txt
         validate-text text-validator-b.toml text/symposium.txt
