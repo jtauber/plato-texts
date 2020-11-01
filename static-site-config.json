@@ -6,9 +6,44 @@
     "repo_link": "https://github.com/jtauber/plato-texts",
     "works": [
         {
+            "source": "euthyphro",
+            "title": "Euthyphro",
+            "levels": ["speech", "sentence"]
+        },
+        {
             "source": "crito",
             "title": "Crito",
             "levels": ["speech", "sentence"]
+        },
+        {
+            "source": "meno",
+            "title": "Meno",
+            "levels": ["speech", "sentence"]
+        },
+        {
+            "source": "phaedo",
+            "title": "Phaedo",
+            "levels": ["speech", "sentence"]
+        },
+        {
+            "source": "ion",
+            "title": "Ion",
+            "levels": ["speech", "sentence"]
+        },
+        {
+            "source": "apology",
+            "title": "Apology",
+            "levels": ["chapter", "paragraph", "sentence"]
+        },
+        {
+            "source": "symposium",
+            "title": "Symposium",
+            "levels": ["chapter", "paragraph", "sentence"]
+        },
+        {
+            "source": "republic",
+            "title": "Republic",
+            "levels": ["chapter", "paragraph", "sentence"]
         }
     ]
 }

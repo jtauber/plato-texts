@@ -6,8 +6,9 @@ body {
   justify-content: center;
 }
 .container {
+  position: relative;
   max-width: 800px;
-  margin: 1em;
+  margin: 1em 4em;
 }
 nav {
   font-size: 120%;
@@ -86,7 +87,9 @@ li {
   font-size: 1.3em;
 }
 .speech > .ref {
-  float: right;
+  position: absolute;
+  right: 100%;
+  margin-right: 1.5em;
   color: #C00;
   font-size: 70%;
   font-family: sans-serif;
@@ -108,4 +111,31 @@ li {
   position: relative;
   vertical-align: baseline;
   top: -0.5em;
+}
+
+.paragraph {
+  margin: 1.8em 0;
+}
+.paragraph > .ref {
+  position: absolute;
+  right: 100%;
+  margin-right: 1.5em;
+  color: #C00;
+  font-family: sans-serif;
+}
+
+.stephanus {
+  position: absolute;
+  left: 100%;
+  margin-left: 1.5em;
+  color: #666;
+  font-size: 14pt;
+  font-weight: normal;
+}
+
+q::before {
+  content: "«";
+}
+q::after {
+  content: "»";
 }
