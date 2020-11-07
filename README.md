@@ -2,7 +2,7 @@
 
 Learner-oriented Greek texts of Plato (eventually) with linguistic annotation
 
-This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
+These texts are being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
