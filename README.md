@@ -19,7 +19,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 Base Greek texts for Euthyphro, Apology, Crito, Phaedo, Symposium, Meno, Ion, and Republic extracted from Perseus.
 
-Base English text for Euthyphro extracted from Perseus.
+Base English text for Euthyphro, and Apology extracted from Perseus.
 
 Tagging of Euthyphro, Apology, Crito, Phaedo, Symposium, Meno, Ion, and Republic extracted from Diorisis.
 
