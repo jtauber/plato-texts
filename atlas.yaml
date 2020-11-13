@@ -1,0 +1,32 @@
+text_groups:
+  - urn: "urn:cts:greekLit:tlg0059:"
+    node_kind: "textgroup"
+    name:
+      - lang: "eng"
+        value: "Plato"
+    works:
+    - urn: 'urn:cts:greekLit:tlg0059.tlg003:'
+      group_urn: 'urn:cts:greekLit:tlg0059:'
+      node_kind: work
+      lang: grc
+      title:
+      - lang: eng
+        value: Crito
+      versions:
+      - urn: 'urn:cts:greekLit:tlg0059.tlg003.jkt-1:'
+        format: gltp
+        path: text/crito.txt
+        node_kind: version
+        version_kind: edition
+        lang: grc
+        first_passage_urn: urn:cts:greekLit:tlg0059.tlg003.jkt-1:001-006
+        default_toc_urn: urn:cite:scaife-viewer:toc.crito-stephanus-jkt-1
+        citation_scheme:
+        - speech
+        - sentence
+        label:
+        - lang: eng
+          value: Crito (Burnet; by sentence)
+        description:
+        - lang: eng
+          value: OUP 1900–1906 Edition of Burnet with sentence-level structuring by jtauber
