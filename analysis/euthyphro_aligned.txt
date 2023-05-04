@@ -1,0 +1,1348 @@
+001.00 {2a} ΕΥΘ.
+001.01@grc τί νεώτερον, ὦ Σώκρατες, γέγονεν, ὅτι σὺ τὰς ἐν Λυκείῳ καταλιπὼν διατριβὰς ἐνθάδε νῦν διατρίβεις περὶ τὴν τοῦ βασιλέως στοάν;
+001.01~en What strange thing has happened, Socrates, that you have left your accustomed haunts in the Lyceum and are now haunting the portico where the king archon sits?
+001.02@grc οὐ γάρ που καὶ σοί γε δίκη τις οὖσα τυγχάνει πρὸς τὸν βασιλέα ὥσπερ ἐμοί.
+001.02@en For it cannot be that you have an action before the king, as I have.
+
+002.00 ΣΩ.
+002.01@grc οὔτοι δὴ Ἀθηναῖοί γε, ὦ Εὐθύφρων, δίκην αὐτὴν καλοῦσιν ἀλλὰ γραφήν.
+002.02@en Our Athenians, Euthyphro, do not call it an action, but an indictment.
+
+003.00 {2b} ΕΥΘ.
+003.01@grc τί φῄς;
+003.01@en What?
+003.02@grc γραφὴν σέ τις, ὡς ἔοικε, γέγραπται·
+003.02@en Somebody has, it seems, brought an indictment against you;
+003.03@grc οὐ γὰρ ἐκεῖνό γε καταγνώσομαι, ὡς σὺ ἕτερον.
+003.03@en for I don’t accuse you of having brought one against anyone else.
+
+004.00 ΣΩ.
+004.01@grc οὐ γὰρ οὖν.
+004.01@en Certainly not.
+
+005.00 ΕΥΘ.
+005.01@grc ἀλλὰ σὲ ἄλλος;
+005.01@en But someone else against you?
+
+006.00 ΣΩ.
+006.01@grc πάνυ γε.
+006.01@en Quite so.
+
+007.00 ΕΥΘ.
+007.01@grc τίς οὗτος;
+007.01@en Who is he?
+
+008.00 ΣΩ.
+008.01@grc οὐδ’ αὐτὸς πάνυ τι γιγνώσκω, ὦ Εὐθύφρων, τὸν ἄνδρα, νέος γάρ τίς μοι φαίνεται καὶ ἀγνώς·
+008.01@en I don’t know the man very well myself, Euthyphro, for he seems to be a young and unknown person.
+008.02@grc ὀνομάζουσι μέντοι αὐτόν, ὡς ἐγᾦμαι, Μέλητον.
+008.02@en His name, however, is Meletus, I believe.
+008.03@grc ἔστι δὲ τῶν δήμων Πιτθεύς, εἴ τινα νῷ ἔχεις Πιτθέα Μέλητον οἷον τετανότριχα καὶ οὐ πάνυ εὐγένειον, ἐπίγρυπον δέ.
+008.03@en And he is of the deme of Pitthus, if you remember any Pitthian Meletus, with long hair and only a little beard, but with a hooked nose.
+
+009.00 ΕΥΘ.
+009.01@grc οὐκ ἐννοῶ, ὦ Σώκρατες·
+009.01@en Euthyphro. I don’t remember him, Socrates.
+009.02@grc ἀλλὰ δὴ τίνα γραφήν {2c} σε γέγραπται;
+009.02@en But what sort of an indictment has he brought against you?
+
+010.00 ΣΩ.
+010.01@grc ἥντινα;
+010.01@en What sort?
+010.02@grc οὐκ ἀγεννῆ, ἔμοιγε δοκεῖ·
+010.02@en No mean one, it seems to me;
+010.03@grc τὸ γὰρ νέον ὄντα τοσοῦτον πρᾶγμα ἐγνωκέναι οὐ φαῦλόν ἐστιν.
+010.03@en for the fact that, young as he is, he has apprehended so important a matter reflects no small credit upon him.
+010.04@grc ἐκεῖνος γάρ, ὥς φησιν, οἶδε τίνα τρόπον οἱ νέοι διαφθείρονται καὶ τίνες οἱ διαφθείροντες αὐτούς.
+010.04@en For he says he knows how the youth are corrupted and who those are who corrupt them.
+010.05@grc καὶ κινδυνεύει σοφός τις εἶναι, καὶ τὴν ἐμὴν ἀμαθίαν κατιδὼν ὡς διαφθείροντος τοὺς ἡλικιώτας αὐτοῦ, ἔρχεται κατηγορήσων μου ὥσπερ πρὸς μητέρα πρὸς τὴν πόλιν.
+010.05@en He must be a wise man; who, seeing my lack of wisdom and that I am corrupting his fellows, comes to the State, as a boy runs to his mother, to accuse me.
+010.06@grc καὶ φαίνεταί μοι τῶν πολιτικῶν {2d} μόνος ἄρχεσθαι ὀρθῶς·
+010.06@en And he seems to me to be the only one of the public men who begins in the right way;
+010.07@grc ὀρθῶς γάρ ἐστι τῶν νέων πρῶτον ἐπιμεληθῆναι ὅπως ἔσονται ὅτι ἄριστοι, ὥσπερ γεωργὸν ἀγαθὸν τῶν νέων φυτῶν εἰκὸς πρῶτον ἐπιμεληθῆναι, μετὰ δὲ τοῦτο καὶ τῶν ἄλλων.
+010.07@en for the right way is to take care of the young men first, to make them as good as possible, just as a good husbandman will naturally take care of the young plants first and afterwards of the rest.
+
+011.00 ΣΩ.
+011.01@grc καὶ δὴ καὶ Μέλητος ἴσως πρῶτον {3a} μὲν ἡμᾶς ἐκκαθαίρει τοὺς τῶν νέων τὰς βλάστας διαφθείροντας, ὥς φησιν·
+011.01@en And so Meletus, perhaps, is first clearing away us who corrupt the young plants, as he says;
+011.02@grc ἔπειτα μετὰ τοῦτο δῆλον ὅτι τῶν πρεσβυτέρων ἐπιμεληθεὶς πλείστων καὶ μεγίστων ἀγαθῶν αἴτιος τῇ πόλει γενήσεται, ὥς γε τὸ εἰκὸς συμβῆναι ἐκ τοιαύτης ἀρχῆς ἀρξαμένῳ.
+011.02@en then after this, when he has turned his attention to the older men, he will bring countless most precious blessings upon the State, — at least, that is the natural outcome of the beginning he has made.
+
+012.00 ΕΥΘ.
+012.01@grc βουλοίμην ἄν, ὦ Σώκρατες, ἀλλ’ ὀρρωδῶ μὴ τοὐναντίον γένηται·
+012.01@en I hope it may be so, Socrates;but I fear the opposite may result.
+012.02@grc ἀτεχνῶς γάρ μοι δοκεῖ ἀφ’ ἑστίας ἄρχεσθαι κακουργεῖν τὴν πόλιν, ἐπιχειρῶν ἀδικεῖν σέ.
+012.02@en For it seems to me that he begins by injuring the State at its very heart, when he undertakes to harm you.
+012.03@grc καί μοι λέγε, τί καὶ ποιοῦντά σέ φησι διαφθείρειν τοὺς νέους;
+012.03@en Now tell me, what does he say you do that corrupts the young?
+
+013.00 {3b} ΣΩ.
+013.01@grc ἄτοπα, ὦ θαυμάσιε, ὡς οὕτω γ’ ἀκοῦσαι.
+013.01@en Absurd things, my friend, at first hearing.
+013.02@grc φησὶ γάρ με ποιητὴν εἶναι θεῶν, καὶ ὡς καινοὺς ποιοῦντα θεοὺς τοὺς δ’ ἀρχαίους οὐ νομίζοντα ἐγράψατο τούτων αὐτῶν ἕνεκα, ὥς φησιν.
+013.02@en For he says I am a maker of gods; and because I make new gods and do not believe in the old ones, he indicted me for the sake of these old ones, as he says.
+
+014.00 ΕΥΘ.
+014.01@grc μανθάνω, ὦ Σώκρατες·
+014.01@en I understand, Socrates;
+014.02@grc ὅτι δὴ σὺ τὸ δαιμόνιον φῂς σαυτῷ ἑκάστοτε γίγνεσθαι.
+014.02@en it is because you say the divine monitor keeps coming to you.
+014.03@grc ὡς οὖν καινοτομοῦντός σου περὶ τὰ θεῖα γέγραπται ταύτην τὴν γραφήν, καὶ ὡς διαβαλῶν δὴ ἔρχεται εἰς τὸ δικαστήριον, εἰδὼς ὅτι εὐδιάβολα τὰ τοιαῦτα πρὸς τοὺς πολλούς.
+014.03@en So he has brought the indictment against you for making innovations in religion, and he is going into court to slander you, knowing that slanders on such subjects are readily accepted by the people.
+014.04@grc καὶ ἐμοῦ γάρ τοι, {3c} ὅταν τι λέγω ἐν τῇ ἐκκλησίᾳ περὶ τῶν θείων, προλέγων αὐτοῖς τὰ μέλλοντα, καταγελῶσιν ὡς μαινομένου·
+014.04@en Why, they even laugh at me and say I am crazy when I say anything in the assembly about divine things and foretell the future to them.
+014.05@grc καίτοι οὐδὲν ὅτι οὐκ ἀληθὲς εἴρηκα ὧν προεῖπον, ἀλλ’ ὅμως φθονοῦσιν ἡμῖν πᾶσι τοῖς τοιούτοις.
+014.05@en And yet there is not one of the things I have foretold that is not true; but they are jealous of all such men as you and I are.
+014.06@grc ἀλλ’ οὐδὲν αὐτῶν χρὴ φροντίζειν, ἀλλ’ ὁμόσε ἰέναι.
+014.06@en However, we must not be disturbed, but must come to close quarters with them.
+
+015.00 ΣΩ.
+015.01@grc ὦ φίλε Εὐθύφρων, ἀλλὰ τὸ μὲν καταγελασθῆναι ἴσως οὐδὲν πρᾶγμα.
+015.01@en My dear Euthyphro, their ridicule is perhaps of no consequence.
+015.02@grc Ἀθηναίοις γάρ τοι, ὡς ἐμοὶ δοκεῖ, οὐ σφόδρα μέλει ἄν τινα δεινὸν οἴωνται εἶναι, μὴ μέντοι διδασκαλικὸν τῆς αὑτοῦ σοφίας·
+015.02@en For the Athenians, I fancy, are not much concerned, if they think a man is clever, provided he does not impart his clever notions to others;
+015.03@grc ὃν δ’ ἂν καὶ ἄλλους οἴωνται {3d} ποιεῖν τοιούτους, θυμοῦνται, εἴτ’ οὖν φθόνῳ ὡς σὺ λέγεις, εἴτε δι’ ἄλλο τι.
+015.03@en but when they think he makes others to be like himself, {3d} they are angry with him, either through jealousy, as you say, or for some other reason.
+
+016.00 ΕΥΘ.
+016.01@grc τούτου οὖν πέρι ὅπως ποτὲ πρὸς ἐμὲ ἔχουσιν, οὐ πάνυ ἐπιθυμῶ πειραθῆναι.
+016.01@en I don’t much desire to test their sentiments toward me in this matter.
+
+017.00 ΣΩ.
+017.01@grc ἴσως γὰρ σὺ μὲν δοκεῖς σπάνιον σεαυτὸν παρέχειν καὶ διδάσκειν οὐκ ἐθέλειν τὴν σεαυτοῦ σοφίαν·
+017.01@en No, for perhaps they think that you are reserved and unwilling to impart your wisdom.
+017.02@grc ἐγὼ δὲ φοβοῦμαι μὴ ὑπὸ φιλανθρωπίας δοκῶ αὐτοῖς ὅτιπερ ἔχω ἐκκεχυμένως παντὶ ἀνδρὶ λέγειν, οὐ μόνον ἄνευ μισθοῦ, ἀλλὰ καὶ προστιθεὶς ἂν ἡδέως εἴ τίς μου ἐθέλει ἀκούειν.
+017.02@en But I fear that because of my love of men they think that I not only pour myself out copiously to anyone and everyone without payment, but that I would even pay something myself, if anyone would listen to me.
+017.03@grc εἰ μὲν οὖν, ὃ νυνδὴ ἔλεγον, μέλλοιέν μου καταγελᾶν ὥσπερ {3e} σὺ φῂς σαυτοῦ, οὐδὲν ἂν εἴη ἀηδὲς παίζοντας καὶ γελῶντας ἐν τῷ δικαστηρίῳ διαγαγεῖν·
+017.03@en Now if, as I was saying just now, they were to laugh at me, as you say they do at you, it would not be at all unpleasant to pass the time in the court with jests and laughter;
+017.04@grc εἰ δὲ σπουδάσονται, τοῦτ’ ἤδη ὅπῃ ἀποβήσεται ἄδηλον πλὴν ὑμῖν τοῖς μάντεσιν.
+017.04@en but if they are in earnest, then only soothsayers like you can tell how this will end.
+
+018.00 ΕΥΘ.
+018.01@grc ἀλλ’ ἴσως οὐδὲν ἔσται, ὦ Σώκρατες, πρᾶγμα, ἀλλὰ σύ τε κατὰ νοῦν ἀγωνιῇ τὴν δίκην, οἶμαι δὲ καὶ ἐμὲ τὴν ἐμήν.
+018.01@en Well, Socrates, perhaps it won’t amount to much, and you will bring your case to a satisfactory ending, as I think I shall mine.
+
+019.00 ΣΩ.
+019.01@grc ἔστιν δὲ δὴ σοί, ὦ Εὐθύφρων, τίς ἡ δίκη;
+019.01@en What is your case, Euthyphro?
+019.02@grc φεύγεις αὐτὴν ἢ διώκεις;
+019.02@en Are you defending or prosecuting?
+
+020.00 ΕΥΘ.
+020.01@grc διώκω.
+020.01@en Prosecuting.
+
+021.00 ΣΩ.
+021.01@grc τίνα;
+021.01@en Whom?
+
+022.00 {4a} ΕΥΘ.
+022.01@grc ὃν διώκων αὖ δοκῶ μαίνεσθαι.
+022.01@en Such a man that they think I am insane because I am prosecuting him.
+
+023.00 ΣΩ.
+023.01@grc τί δέ;
+023.01@en Why?
+023.02@grc πετόμενόν τινα διώκεις;
+023.02@en Are you prosecuting one who has wings to fly away with?
+
+024.00 ΕΥΘ.
+024.01@grc πολλοῦ γε δεῖ πέτεσθαι, ὅς γε τυγχάνει ὢν εὖ μάλα πρεσβύτης.
+024.01@en No flying for him at his ripe old age.
+
+025.00 ΣΩ.
+025.01@grc τίς οὗτος;
+025.01@en Who is he?
+
+026.00 ΕΥΘ.
+026.01@grc ὁ ἐμὸς πατήρ.
+026.01@en My father.
+
+027.00 ΣΩ.
+027.01@grc ὁ σός, ὦ βέλτιστε;
+027.01@en Your father, my dear man?
+
+028.00 ΕΥΘ.
+028.01@grc πάνυ μὲν οὖν.
+028.01@en Certainly.
+
+029.00 ΣΩ.
+029.01@grc ἔστιν δὲ τί τὸ ἔγκλημα καὶ τίνος ἡ δίκη;
+029.01@en But what is the charge, and what is the suit about?
+
+030.00 ΕΥΘ.
+030.01@grc φόνου, ὦ Σώκρατες.
+030.01@en Murder, Socrates.
+
+031.00 ΣΩ.
+031.01@grc Ἡράκλεις.
+031.01@en Heracles!
+031.02@grc ἦ που, ὦ Εὐθύφρων, ἀγνοεῖται ὑπὸ τῶν πολλῶν ὅπῃ ποτὲ ὀρθῶς ἔχει·
+031.02@en Surely, Euthyphro, most people do not know where the right lies;
+031.03@grc οὐ γὰρ οἶμαί γε τοῦ ἐπιτυχόντος {4b} {del} ὀρθῶς {/del} αὐτὸ πρᾶξαι ἀλλὰ πόρρω που ἤδη σοφίας ἐλαύνοντος.
+031.03@en for I fancy it is not everyone who can rightly do what you are doing, but only one who is already very far advanced in wisdom.
+
+032.00 ΕΥΘ.
+032.01@grc πόρρω μέντοι νὴ Δία, ὦ Σώκρατες.
+032.01@en Very far, indeed, Socrates, by Zeus.
+
+033.00 ΣΩ.
+033.01@grc ἔστιν δὲ δὴ τῶν οἰκείων τις ὁ τεθνεὼς ὑπὸ τοῦ σοῦ πατρός;
+033.01@en Is the one who was killed by your father a relative?
+033.02@grc ἢ δῆλα δή;
+033.02@en But of course he was;
+033.03@grc οὐ γὰρ ἄν που ὑπέρ γε ἀλλοτρίου ἐπεξῇσθα φόνου αὐτῷ.
+033.03@en for you would not bring a charge of murder against him on a stranger’s account.
+
+034.00 ΕΥΘ.
+034.01@grc γελοῖον, ὦ Σώκρατες, ὅτι οἴει τι διαφέρειν εἴτε ἀλλότριος εἴτε οἰκεῖος ὁ τεθνεώς, ἀλλ’ οὐ τοῦτο μόνον δεῖν φυλάττειν, εἴτε ἐν δίκῃ ἔκτεινεν ὁ κτείνας εἴτε μή, καὶ εἰ μὲν ἐν δίκῃ, ἐᾶν, εἰ δὲ μή, ἐπεξιέναι, ἐάνπερ ὁ κτείνας συνέστιός {4c} σοι καὶ ὁμοτράπεζος ᾖ·
+034.01@en It is ridiculous, Socrates, that you think it matters whether the man who was killed was a stranger or a relative, and do not see that the only thing to consider is whether the action of the slayer was justified or not, and that if it was justified one ought to let him alone, and if not, one ought to proceed against him, even if he share one’s hearth and eat at one’s table.
+034.02@grc ἴσον γὰρ τὸ μίασμα γίγνεται ἐὰν συνῇς τῷ τοιούτῳ συνειδὼς καὶ μὴ ἀφοσιοῖς σεαυτόν τε καὶ ἐκεῖνον τῇ δίκῃ ἐπεξιών.
+034.02@en For the pollution is the same if you associate knowingly with such a man and do not purify yourself and him by proceeding against him.
+034.03@grc ἐπεὶ ὅ γε ἀποθανὼν πελάτης τις ἦν ἐμός, καὶ ὡς ἐγεωργοῦμεν ἐν τῇ Νάξῳ, ἐθήτευεν ἐκεῖ παρ’ ἡμῖν.
+034.03@en In this case, the man who was killed was a hired workman of mine, and when we were farming at Naxos, he was working there on our land. 
+034.04@grc παροινήσας οὖν καὶ ὀργισθεὶς τῶν οἰκετῶν τινι τῶν ἡμετέρων ἀποσφάττει αὐτόν.
+034.04@en Now he got drunk, got angry with one of our house slaves, and butchered him. 
+034.05@grc ὁ οὖν πατὴρ συνδήσας τοὺς πόδας καὶ τὰς χεῖρας αὐτοῦ, καταβαλὼν εἰς τάφρον τινά, πέμπει δεῦρο ἄνδρα πευσόμενον τοῦ ἐξηγητοῦ ὅτι χρείη {4d} ποιεῖν.
+034.05@en So my father bound him hand and foot, threw him into a ditch, and sent a man here to Athens to ask the religious adviser what he ought to do.
+034.06@grc ἐν δὲ τούτῳ τῷ χρόνῳ τοῦ δεδεμένου ὠλιγώρει τε καὶ ἠμέλει ὡς ἀνδροφόνου καὶ οὐδὲν ὂν πρᾶγμα εἰ καὶ ἀποθάνοι, ὅπερ οὖν καὶ ἔπαθεν·
+034.06@en In the meantime he paid no attention to the man as he lay there bound, and neglected him, thinking that he was a murderer and it did not matter if he were to die. And that is just what happened to him.
+034.07@grc ὑπὸ γὰρ λιμοῦ καὶ ῥίγους καὶ τῶν δεσμῶν ἀποθνῄσκει πρὶν τὸν ἄγγελον παρὰ τοῦ ἐξηγητοῦ ἀφικέσθαι.
+034.07@en For he died of hunger and cold and his bonds before the messenger came back from the adviser.
+034.08@grc ταῦτα δὴ οὖν καὶ ἀγανακτεῖ ὅ τε πατὴρ καὶ οἱ ἄλλοι οἰκεῖοι, ὅτι ἐγὼ ὑπὲρ τοῦ ἀνδροφόνου τῷ πατρὶ φόνου ἐπεξέρχομαι οὔτε ἀποκτείναντι, ὥς φασιν ἐκεῖνοι, οὔτ’ εἰ ὅτι μάλιστα ἀπέκτεινεν, ἀνδροφόνου γε ὄντος τοῦ ἀποθανόντος, οὐ δεῖν φροντίζειν ὑπὲρ τοῦ τοιούτου —
+034.08@en Now my father and the rest of my relatives are angry with me, because for the sake of this murderer I am prosecuting my father for murder. For they say he did not kill him, and if he had killed him never so much, yet since the dead man was a murderer, I ought not to trouble myself about such a fellow,
+034.09@grc ἀνόσιον {4e} γὰρ εἶναι τὸ ὑὸν πατρὶ φόνου ἐπεξιέναι —
+034.09@en because it is unholy for a son to prosecute his father for murder.
+034.10@grc κακῶς εἰδότες, ὦ Σώκρατες, τὸ θεῖον ὡς ἔχει τοῦ ὁσίου τε πέρι καὶ τοῦ ἀνοσίου.
+034.10@en Which shows how little they know what the divine law is in regard to holiness and unholiness.
+
+035.00 ΣΩ.
+035.01@grc σὺ δὲ δὴ πρὸς Διός, ὦ Εὐθύφρων, οὑτωσὶ ἀκριβῶς οἴει ἐπίστασθαι περὶ τῶν θείων ὅπῃ ἔχει, καὶ τῶν ὁσίων τε καὶ ἀνοσίων, ὥστε τούτων οὕτω πραχθέντων ὡς σὺ λέγεις, οὐ φοβῇ δικαζόμενος τῷ πατρὶ ὅπως μὴ αὖ σὺ ἀνόσιον πρᾶγμα τυγχάνῃς πράττων;
+035.01@en But, in the name of Zeus, Euthyphro, do you think your knowledge about divine laws and holiness and unholiness is so exact that, when the facts are as you say, you are not afraid of doing something unholy yourself in prosecuting your father for murder?
+
+036.00 ΕΥΘ.
+036.01@grc οὐδὲν γὰρ ἄν μου ὄφελος εἴη, ὦ Σώκρατες, οὐδέ {5a} τῳ ἂν διαφέροι Εὐθύφρων τῶν πολλῶν ἀνθρώπων, εἰ μὴ τὰ τοιαῦτα πάντα ἀκριβῶς εἰδείην.
+036.01@en I should be of no use, Socrates, and Euthyphro would be in no way different from other men, if I did not have exact knowledge about all such things.
+
+037.00 ΣΩ.
+037.01@grc ἆρ’ οὖν μοι, ὦ θαυμάσιε Εὐθύφρων, κράτιστόν ἐστι μαθητῇ σῷ γενέσθαι, καὶ πρὸ τῆς γραφῆς τῆς πρὸς Μέλητον αὐτὰ ταῦτα προκαλεῖσθαι αὐτόν, λέγοντα ὅτι ἔγωγε καὶ ἐν τῷ ἔμπροσθεν χρόνῳ τὰ θεῖα περὶ πολλοῦ ἐποιούμην εἰδέναι, καὶ νῦν ἐπειδή με ἐκεῖνος αὐτοσχεδιάζοντά φησι καὶ καινοτομοῦντα περὶ τῶν θείων ἐξαμαρτάνειν, μαθητὴς δὴ γέγονα σός —
+037.01@en Then the best thing for me, my admirable Euthyphro, is to become your pupil and, before the suit with Meletus comes on, to challenge him and say that I always thought it very important before to know about divine matters and that now, since he says I am doing wrong by acting carelessly and making innovations in matters of religion, I have become your pupil.
+037.02@grc {q} καὶ εἰ μέν, ὦ Μέλητε, {/q} φαίην ἄν, {q} Εὐθύφρονα ὁμολογεῖς {/q} {5b} σοφὸν εἶναι τὰ τοιαῦτα, {del} καὶ {/del} ὀρθῶς νομίζειν καὶ ἐμὲ ἡγοῦ καὶ μὴ δικάζου·
+037.02@en And {q} Meletus, {/q} I should say, {q} if you acknowledge that Euthyphro is wise in such matters, then believe that I also hold correct opinions, and do not bring me to trial;
+037.03@grc εἰ δὲ μή, ἐκείνῳ τῷ διδασκάλῳ λάχε δίκην πρότερον ἢ ἐμοί, ὡς τοὺς πρεσβυτέρους διαφθείροντι ἐμέ τε καὶ τὸν αὑτοῦ πατέρα, ἐμὲ μὲν διδάσκοντι, ἐκεῖνον δὲ νουθετοῦντί τε καὶ κολάζοντι —
+037.03@en and if you do not acknowledge that, then bring a suit against him, my teacher, rather than against me, and charge him with corrupting the old, namely, his father and me, which he does by teaching me and by correcting and punishing his father. {/q}
+037.04@grc καὶ ἂν μή μοι πείθηται μηδὲ ἀφίῃ τῆς δίκης ἢ ἀντ’ ἐμοῦ γράφηται σέ, αὐτὰ ταῦτα λέγειν ἐν τῷ δικαστηρίῳ ἃ προυκαλούμην αὐτόν;
+037.04@en And if he does not do as I ask and does not release me from the indictment or bring it against you in my stead, I could say in the court the same things I said in my challenge to him, could I not?
+
+038.00 ΕΥΘ.
+038.01@grc ναὶ μὰ Δία, ὦ Σώκρατες, εἰ ἄρα ἐμὲ ἐπιχειρήσειε {5c} γράφεσθαι, εὕροιμ’ ἄν, ὡς οἶμαι, ὅπῃ σαθρός ἐστιν, καὶ πολὺ ἂν ἡμῖν πρότερον περὶ ἐκείνου λόγος ἐγένετο ἐν τῷ δικαστηρίῳ ἢ περὶ ἐμοῦ.
+038.01@en By Zeus, Socrates, if he should undertake to indict me, I fancy I should find his weak spot, and it would be much more a question about him in court than about me.
+
+039.00 ΣΩ.
+039.01@grc καὶ ἐγώ τοι, ὦ φίλε ἑταῖρε, ταῦτα γιγνώσκων μαθητὴς ἐπιθυμῶ γενέσθαι σός, εἰδὼς ὅτι καὶ ἄλλος πού τις καὶ ὁ Μέλητος οὗτος σὲ μὲν οὐδὲ δοκεῖ ὁρᾶν, ἐμὲ δὲ οὕτως ὀξέως {del} ἀτεχνῶς {/del} καὶ ῥᾳδίως κατεῖδεν ὥστε ἀσεβείας ἐγράψατο.
+039.01@en And I, my dear friend, perceiving this, wish to become your pupil; for I know that neither this fellow Meletus, nor anyone else, seems to notice you at all, but he has seen through me so sharply and so easily that he has indicted me for impiety.
+039.02@grc νῦν οὖν πρὸς Διὸς λέγε μοι ὃ νυνδὴ σαφῶς εἰδέναι διισχυρίζου, ποῖόν τι τὸ εὐσεβὲς φῂς εἶναι καὶ τὸ ἀσεβὲς {5d} καὶ περὶ φόνου καὶ περὶ τῶν ἄλλων;
+039.02@en Now in the name of Zeus, tell me what you just now asserted that you knew so well. What do you say is the nature of piety and impiety, both in relation to murder and to other things?
+039.03@grc ἢ οὐ ταὐτόν ἐστιν ἐν πάσῃ πράξει τὸ ὅσιον αὐτὸ αὑτῷ, καὶ τὸ ἀνόσιον αὖ τοῦ μὲν ὁσίου παντὸς ἐναντίον, αὐτὸ δὲ αὑτῷ ὅμοιον καὶ ἔχον μίαν τινὰ ἰδέαν κατὰ τὴν ἀνοσιότητα πᾶν ὅτιπερ ἂν μέλλῃ ἀνόσιον εἶναι;
+039.03@en Is not holiness always the same with itself in every action and, on the other hand, is not unholiness the opposite of all holiness, always the same with itself and whatever is to be unholy possessing some one characteristic quality?
+
+040.00 ΕΥΘ.
+040.01@grc πάντως δήπου, ὦ Σώκρατες.
+040.01@en Certainly, Socrates.
+
+041.00 ΣΩ.
+041.01@grc λέγε δή, τί φῂς εἶναι τὸ ὅσιον καὶ τί τὸ ἀνόσιον;
+041.01@en Tell me then, what do you say holiness is, and what unholiness?
+
+042.00 ΕΥΘ.
+042.01@grc λέγω τοίνυν ὅτι τὸ μὲν ὅσιόν ἐστιν ὅπερ ἐγὼ νῦν ποιῶ, τῷ ἀδικοῦντι ἢ περὶ φόνους ἢ περὶ ἱερῶν κλοπὰς ἤ τι ἄλλο τῶν τοιούτων ἐξαμαρτάνοντι ἐπεξιέναι, ἐάντε πατὴρ {5e} ὢν τυγχάνῃ ἐάντε μήτηρ ἐάντε ἄλλος ὁστισοῦν, τὸ δὲ μὴ ἐπεξιέναι ἀνόσιον·
+042.01@en Well then, I say that holiness is doing what I am doing now, prosecuting the wrongdoer who commits murder or steals from the temples or does any such thing, whether he be your father, or your mother or anyone else, and not prosecuting him is unholy. 
+042.02@grc ἐπεί, ὦ Σώκρατες, θέασαι ὡς μέγα σοι ἐρῶ τεκμήριον τοῦ νόμου ὅτι οὕτως ἔχει —
+042.02@en And, Socrates, see what a sure proof I offer you, —
+042.03@grc ὃ καὶ ἄλλοις ἤδη εἶπον, ὅτι ταῦτα ὀρθῶς ἂν εἴη οὕτω γιγνόμενα —
+042.03@en a proof I have already given to others, — that this is established and right
+042.04@grc μὴ ἐπιτρέπειν τῷ ἀσεβοῦντι μηδ’ ἂν ὁστισοῦν τυγχάνῃ ὤν.
+042.04@en and that we ought not to let him who acts impiously go unpunished, no matter who he may be.
+042.05@grc αὐτοὶ γὰρ οἱ ἄνθρωποι τυγχάνουσι νομίζοντες τὸν Δία τῶν θεῶν ἄριστον καὶ δικαιότατον, {6a} καὶ τοῦτον ὁμολογοῦσι τὸν αὑτοῦ πατέρα δῆσαι ὅτι τοὺς ὑεῖς κατέπινεν οὐκ ἐν δίκῃ, κἀκεῖνόν γε αὖ τὸν αὑτοῦ πατέρα ἐκτεμεῖν δι’ ἕτερα τοιαῦτα·
+042.05@en Men believe that Zeus is the best and most just of the gods, and they acknowledge that he put his father in bonds because he wickedly devoured his children, and he in turn had mutilated his father for similar reasons;
+042.06@grc ἐμοὶ δὲ χαλεπαίνουσιν ὅτι τῷ πατρὶ ἐπεξέρχομαι ἀδικοῦντι, καὶ οὕτως αὐτοὶ αὑτοῖς τὰ ἐναντία λέγουσι περί τε τῶν θεῶν καὶ περὶ ἐμοῦ.
+042.06@en but they are incensed against me because I proceed against my father when he has done wrong, and so they are inconsistent in what they say about the gods and about me.
+
+043.00 ΣΩ.
+043.01@grc ἆρά γε, ὦ Εὐθύφρων, τοῦτ’ ἔστιν {del} οὗ {/del} οὕνεκα τὴν γραφὴν φεύγω, ὅτι τὰ τοιαῦτα ἐπειδάν τις περὶ τῶν θεῶν λέγῃ, δυσχερῶς πως ἀποδέχομαι;
+043.01@en Is not this, Euthyphro, the reason why I am being prosecuted, because when people tell such stories about the gods I find it hard to accept them?
+043.02@grc διὸ δή, ὡς ἔοικε, φήσει τίς με ἐξαμαρτάνειν.
+043.02@en And therefore, probably, people will say I am wrong.
+043.03@grc νῦν οὖν εἰ καὶ σοὶ ταῦτα συνδοκεῖ τῷ {6b} εὖ εἰδότι περὶ τῶν τοιούτων, ἀνάγκη δή, ὡς ἔοικε, καὶ ἡμῖν συγχωρεῖν.
+043.03@en Now if you, who know so much about such things, accept these tales, I suppose I too must give way.
+043.04@grc τί γὰρ καὶ φήσομεν, οἵ γε καὶ αὐτοὶ ὁμολογοῦμεν περὶ αὐτῶν μηδὲν εἰδέναι;
+043.04@en For what am I to say, who confess frankly that I know nothing about them?
+043.05@grc ἀλλά μοι εἰπὲ πρὸς Φιλίου, σὺ ὡς ἀληθῶς ἡγῇ ταῦτα οὕτως γεγονέναι;
+043.05@en But tell me, in the name of Zeus, the god of friendship, do you really believe these things happened?
+
+044.00 ΕΥΘ.
+044.01@grc καὶ ἔτι γε τούτων θαυμασιώτερα, ὦ Σώκρατες, ἃ οἱ πολλοὶ οὐκ ἴσασιν.
+044.01@en Yes, and still more wonderful things than these, Socrates, which most people do not know.
+
+045.00 ΣΩ.
+045.01@grc καὶ πόλεμον ἆρα ἡγῇ σὺ εἶναι τῷ ὄντι ἐν τοῖς θεοῖς πρὸς ἀλλήλους, καὶ ἔχθρας γε δεινὰς καὶ μάχας καὶ ἄλλα τοιαῦτα πολλά, οἷα λέγεταί τε ὑπὸ τῶν ποιητῶν, καὶ ὑπὸ τῶν {6c} ἀγαθῶν γραφέων τά τε ἄλλα ἱερὰ ἡμῖν καταπεποίκιλται, καὶ δὴ καὶ τοῖς μεγάλοις Παναθηναίοις ὁ πέπλος μεστὸς τῶν τοιούτων ποικιλμάτων ἀνάγεται εἰς τὴν ἀκρόπολιν;
+045.01@en And so you believe that there was really war between the gods, and fearful enmities and battles and other things of the sort, such as are told of by the poets and represented in varied designs by the great artists in our sacred places and especially on the robe which is carried up to the Acropolis at the great Panathenaea? for this is covered with such representations.
+045.02@grc ταῦτα ἀληθῆ φῶμεν εἶναι, ὦ Εὐθύφρων;
+045.02@en Shall we agree that these things are true, Euthyphro?
+
+046.00 ΕΥΘ.
+046.01@grc μὴ μόνον γε, ὦ Σώκρατες, ἀλλ’ ὅπερ ἄρτι εἶπον, καὶ ἄλλα σοι ἐγὼ πολλά, ἐάνπερ βούλῃ, περὶ τῶν θείων διηγήσομαι, ἃ σὺ ἀκούων εὖ οἶδ’ ὅτι ἐκπλαγήσῃ.
+046.01@en Not only these things, Socrates; but, as I said just now, I will, if you like, tell you many other things about the gods, which I am sure will amaze you when you hear them.
+
+047.00 ΣΩ.
+047.01@grc οὐκ ἂν θαυμάζοιμι.
+047.01@en I dare say.
+047.02@grc ἀλλὰ ταῦτα μέν μοι εἰς αὖθις ἐπὶ σχολῆς διηγήσῃ·
+047.02@en But you can tell me those things at your leisure some other time.
+047.03@grc νυνὶ δὲ ὅπερ ἄρτι σε ἠρόμην πειρῶ {6d} σαφέστερον εἰπεῖν.
+047.03@en At present try to tell more clearly what I asked you just now.
+047.04@grc οὐ γάρ με, ὦ ἑταῖρε, τὸ πρότερον ἱκανῶς ἐδίδαξας ἐρωτήσαντα τὸ ὅσιον ὅτι ποτ’ εἴη, ἀλλά μοι εἶπες ὅτι τοῦτο τυγχάνει ὅσιον ὂν ὃ σὺ νῦν ποιεῖς, φόνου ἐπεξιὼν τῷ πατρί.
+047.04@en For, my friend, you did not give me sufficient information before, when I asked what holiness was, but you told me that this was holy which you are now doing, prosecuting your father for murder.
+
+048.00 ΕΥΘ.
+048.01@grc καὶ ἀληθῆ γε ἔλεγον, ὦ Σώκρατες.
+048.01@en Well, what I said was true, Socrates.
+
+049.00 ΣΩ.
+049.01@grc ἴσως.
+049.01@en Perhaps.
+049.02@grc ἀλλὰ γάρ, ὦ Εὐθύφρων, καὶ ἄλλα πολλὰ φῂς εἶναι ὅσια.
+049.02@en But, Euthyphro, you say that many other things are holy, do you not?
+
+050.00 ΕΥΘ.
+050.01@grc καὶ γὰρ ἔστιν.
+050.01@en Why, so they are.
+
+051.00 ΣΩ.
+051.01@grc μέμνησαι οὖν ὅτι οὐ τοῦτό σοι διεκελευόμην, ἕν τι ἢ δύο με διδάξαι τῶν πολλῶν ὁσίων, ἀλλ’ ἐκεῖνο αὐτὸ τὸ εἶδος ᾧ πάντα τὰ ὅσια ὅσιά ἐστιν;
+051.01@en Now call to mind that this is not what I asked you, to tell me one or two of the many holy acts, but to tell the essential aspect, by which all holy acts are holy;
+051.02@grc ἔφησθα γάρ που μιᾷ ἰδέᾳ {6e} τά τε ἀνόσια ἀνόσια εἶναι καὶ τὰ ὅσια ὅσια·
+051.02@en for you said that all unholy acts were unholy and all holy ones holy by one aspect.
+051.03@grc ἢ οὐ μνημονεύεις;
+051.03@en Or don’t you remember?
+
+052.00 ΕΥΘ.
+052.01@grc ἔγωγε.
+052.01@en I remember.
+
+053.00 ΣΩ.
+053.01@grc ταύτην τοίνυν με αὐτὴν δίδαξον τὴν ἰδέαν τίς ποτέ ἐστιν, ἵνα εἰς ἐκείνην ἀποβλέπων καὶ χρώμενος αὐτῇ παραδείγματι, ὃ μὲν ἂν τοιοῦτον ᾖ ὧν ἂν ἢ σὺ ἢ ἄλλος τις πράττῃ φῶ ὅσιον εἶναι, ὃ δ’ ἂν μὴ τοιοῦτον, μὴ φῶ.
+053.01@en Tell me then what this aspect is, that I may keep my eye fixed upon it and employ it as a model and, if anything you or anyone else does agrees with it, may say that the act is holy, and if not, that it is unholy.
+
+054.00 ΕΥΘ.
+054.01@grc ἀλλ’ εἰ οὕτω βούλει, ὦ Σώκρατες, καὶ οὕτω σοι φράσω.
+054.01@en If you wish me to explain in that way, I will do so.
+
+055.00 ΣΩ.
+055.01@grc ἀλλὰ μὴν βούλομαί γε.
+055.01@en I do wish it.
+
+056.00 ΕΥΘ.
+056.01@grc ἔστι τοίνυν τὸ μὲν τοῖς θεοῖς προσφιλὲς ὅσιον, τὸ {7a} δὲ μὴ προσφιλὲς ἀνόσιον.
+056.01@en Well then, what is dear to the gods is holy, and what is not dear to them is unholy.
+
+057.00 ΣΩ.
+057.01@grc παγκάλως, ὦ Εὐθύφρων, καὶ ὡς ἐγὼ ἐζήτουν ἀποκρίνασθαί σε, οὕτω νῦν ἀπεκρίνω.
+057.01@en Excellent, Euthyphro, now you have answered as I asked you to answer.
+057.02@grc εἰ μέντοι ἀληθῶς, τοῦτο οὔπω οἶδα, ἀλλὰ σὺ δῆλον ὅτι ἐπεκδιδάξεις ὡς ἔστιν ἀληθῆ ἃ λέγεις.
+057.02@en However, whether it is true, I am not yet sure; but you will, of course, show that what you say is true.
+
+058.00 ΕΥΘ.
+058.01@grc πάνυ μὲν οὖν.
+058.01@en Certainly.
+
+059.00 ΣΩ.
+059.01@grc φέρε δή, ἐπισκεψώμεθα τί λέγομεν.
+059.01@en Come then, let us examine our words.
+059.02@grc τὸ μὲν θεοφιλές τε καὶ θεοφιλὴς ἄνθρωπος ὅσιος, τὸ δὲ θεομισὲς καὶ ὁ θεομισὴς ἀνόσιος·
+059.02@en The thing and the person that are dear to the gods are holy, and the thing and the person that are hateful to the gods are unholy;
+059.03@grc οὐ ταὐτὸν δ’ ἐστίν, ἀλλὰ τὸ ἐναντιώτατον, τὸ ὅσιον τῷ ἀνοσίῳ·
+059.03@en and the two are not the same, but the holy and the unholy are the exact opposites of each other.
+059.04@grc οὐχ οὕτως;
+059.04@en Is not this what we have said?
+
+060.00 ΕΥΘ.
+060.01@grc οὕτω μὲν οὖν.
+060.01@en Yes, just this.
+
+061.00 ΣΩ.
+061.01@grc καὶ εὖ γε φαίνεται εἰρῆσθαι;
+061.01@en And it seems to be correct?
+
+062.00 {7b} ΕΥΘ.
+062.01@grc δοκῶ, ὦ Σώκρατες.
+062.01@en I think so, Socrates.
+062.02@grc {del} εἴρηται γάρ. {/del}
+062.02@en 
+
+063.00 ΣΩ.
+063.01@grc οὐκοῦν καὶ ὅτι στασιάζουσιν οἱ θεοί, ὦ Εὐθύφρων, καὶ διαφέρονται ἀλλήλοις καὶ ἔχθρα ἐστὶν ἐν αὐτοῖς πρὸς ἀλλήλους, καὶ τοῦτο εἴρηται;
+063.01@en Well then, have we said this also, that the gods, Euthyphro, quarrel and disagree with each other, and that there is enmity between them?
+
+064.00 ΕΥΘ.
+064.01@grc εἴρηται γάρ.
+064.01@en Yes, we have said that.
+
+065.00 ΣΩ.
+065.01@grc ἔχθραν δὲ καὶ ὀργάς, ὦ ἄριστε, ἡ περὶ τίνων διαφορὰ ποιεῖ;
+065.01@en But what things is the disagreement about, which causes enmity and anger?
+065.02@grc ὧδε δὲ σκοπῶμεν.
+065.02@en Let us look at it in this way.
+065.03@grc ἆρ’ ἂν εἰ διαφεροίμεθα ἐγώ τε καὶ σὺ περὶ ἀριθμοῦ ὁπότερα πλείω, ἡ περὶ τούτων διαφορὰ ἐχθροὺς ἂν ἡμᾶς ποιοῖ καὶ ὀργίζεσθαι ἀλλήλοις, ἢ ἐπὶ λογισμὸν ἐλθόντες περί γε τῶν τοιούτων ταχὺ ἂν {7c} ἀπαλλαγεῖμεν;
+065.03@en If you and I were to disagree about number, for instance, which of two numbers were the greater, would the disagreement about these matters make us enemies and make us angry with each other, or should we not quickly settle it by resorting to arithmetic?
+
+066.00 ΕΥΘ.
+066.01@grc πάνυ γε.
+066.01@en Of course we should.
+
+067.00 ΣΩ.
+067.01@grc οὐκοῦν καὶ περὶ τοῦ μείζονος καὶ ἐλάττονος εἰ διαφεροίμεθα, ἐπὶ τὸ μετρεῖν ἐλθόντες ταχὺ παυσαίμεθ’ ἂν τῆς διαφορᾶς;
+067.01@en Then, too, if we were to disagree about the relative size of things, we should quickly put an end to the disagreement by measuring?
+
+068.00 ΕΥΘ.
+068.01@grc ἔστι ταῦτα.
+068.01@en Yes.
+
+069.00 ΣΩ.
+069.01@grc καὶ ἐπί γε τὸ ἱστάναι ἐλθόντες, ὡς ἐγᾦμαι, περὶ τοῦ βαρυτέρου τε καὶ κουφοτέρου διακριθεῖμεν ἄν;
+069.01@en And we should, I suppose, come to terms about relative weights by weighing?
+
+070.00 ΕΥΘ.
+070.01@grc πῶς γὰρ οὔ;
+070.01@en Of course.
+
+071.00 ΣΩ.
+071.01@grc περὶ τίνος δὲ δὴ διενεχθέντες καὶ ἐπὶ τίνα κρίσιν οὐ δυνάμενοι ἀφικέσθαι ἐχθροί γε ἂν ἀλλήλοις εἶμεν καὶ ὀργιζοίμεθα;
+071.01@en But about what would a disagreement be, which we could not settle and which would cause us to be enemies and be angry with each other?
+071.02@grc ἴσως οὐ πρόχειρόν σοί ἐστιν, ἀλλ’ ἐμοῦ λέγοντος {7d} σκόπει εἰ τάδε ἐστὶ τό τε δίκαιον καὶ τὸ ἄδικον καὶ καλὸν καὶ αἰσχρὸν καὶ ἀγαθὸν καὶ κακόν.
+071.02@en Perhaps you cannot give an answer offhand; but let me suggest it. Is it not about right and wrong, and noble and disgraceful, and good and bad?
+071.03@grc ἆρα οὐ ταῦτά ἐστιν περὶ ὧν διενεχθέντες καὶ οὐ δυνάμενοι ἐπὶ ἱκανὴν κρίσιν αὐτῶν ἐλθεῖν ἐχθροὶ ἀλλήλοις γιγνόμεθα, ὅταν γιγνώμεθα, καὶ ἐγὼ καὶ σὺ καὶ οἱ ἄλλοι ἄνθρωποι πάντες;
+071.03@en Are not these the questions about which you and I and other people become enemies, when we do become enemies, because we differ about them and cannot reach any satisfactory agreement?
+
+072.00 ΕΥΘ.
+072.01@grc ἀλλ’ ἔστιν αὕτη ἡ διαφορά, ὦ Σώκρατες, καὶ περὶ τούτων.
+072.01@en Yes, Socrates, these are the questions about which we should become enemies.
+
+073.00 ΣΩ.
+073.01@grc τί δὲ οἱ θεοί, ὦ Εὐθύφρων;
+073.01@en And how about the gods?
+073.02@grc οὐκ εἴπερ τι διαφέρονται, δι’ αὐτὰ ταῦτα διαφέροιντ’ ἄν;
+073.02@en If they disagree, would they not disagree about these questions?
+
+074.00 ΕΥΘ.
+074.01@grc πολλὴ ἀνάγκη.
+074.01@en Necessarily.
+
+075.00 {7e} ΣΩ.
+075.01@grc καὶ τῶν θεῶν ἄρα, ὦ γενναῖε Εὐθύφρων, ἄλλοι ἄλλα δίκαια ἡγοῦνται κατὰ τὸν σὸν λόγον, καὶ καλὰ καὶ αἰσχρὰ καὶ ἀγαθὰ καὶ κακά·
+075.01@en Then, my noble Euthyphro, according to what you say, some of the gods too think some things are right or wrong and noble or disgraceful, and good or bad, and others disagree;
+075.02@grc οὐ γὰρ ἄν που ἐστασίαζον ἀλλήλοις εἰ μὴ περὶ τούτων διεφέροντο·
+075.02@en for they would not quarrel with each other if they did not disagree about these matters.
+075.03@grc ἦ γάρ;
+075.03@en Is that the case?
+
+076.00 ΕΥΘ.
+076.01@grc ὀρθῶς λέγεις.
+076.01@en You are right.
+
+077.00 ΣΩ.
+077.01@grc οὐκοῦν ἅπερ καλὰ ἡγοῦνται ἕκαστοι καὶ ἀγαθὰ καὶ δίκαια, ταῦτα καὶ φιλοῦσιν, τὰ δὲ ἐναντία τούτων μισοῦσιν;
+077.01@en Then the gods in each group love the things which they consider good and right and hate the opposites of these things?
+
+078.00 ΕΥΘ.
+078.01@grc πάνυ γε.
+078.01@en Certainly.
+
+079.00 ΣΩ.
+079.01@grc ταὐτὰ δέ γε, ὡς σὺ φῄς, οἱ μὲν δίκαια ἡγοῦνται, {8a} οἱ δὲ ἄδικα, περὶ ἃ καὶ ἀμφισβητοῦντες στασιάζουσί τε καὶ πολεμοῦσιν ἀλλήλοις·
+079.01@en But you say that the same things are considered right by some of them and wrong by others; and it is because they disagree about these things that they quarrel and wage war with each other.
+079.02@grc ἆρα οὐχ οὕτω;
+079.02@en Is not this what you said?
+
+080.00 ΕΥΘ.
+080.01@grc οὕτω.
+080.01@en It is.
+
+081.00 ΣΩ.
+081.01@grc ταὔτ’ ἄρα, ὡς ἔοικεν, μισεῖταί τε ὑπὸ τῶν θεῶν καὶ φιλεῖται, καὶ θεομισῆ τε καὶ θεοφιλῆ ταὔτ’ ἂν εἴη.
+081.01@en Then, as it seems, the same things are hated and loved by the gods, and the same things would be dear and hateful to the gods.
+
+082.00 ΕΥΘ.
+082.01@grc ἔοικεν.
+082.01@en So it seems.
+
+083.00 ΣΩ.
+083.01@grc καὶ ὅσια ἄρα καὶ ἀνόσια τὰ αὐτὰ ἂν εἴη, ὦ Εὐθύφρων, τούτῳ τῷ λόγῳ.
+083.01@en And then the same things would be both holy and unholy, Euthyphro, according to this statement.
+
+084.00 ΕΥΘ.
+084.01@grc κινδυνεύει.
+084.01@en I suppose so.
+
+085.00 ΣΩ.
+085.01@grc οὐκ ἄρα ὃ ἠρόμην ἀπεκρίνω, ὦ θαυμάσιε.
+085.01@en Then you did not answer my question, my friend.
+085.02@grc οὐ γὰρ τοῦτό γε ἠρώτων, ὃ τυγχάνει ταὐτὸν ὂν ὅσιόν τε καὶ ἀνόσιον·
+085.02@en For I did not ask you what is at once holy and unholy;
+085.03@grc ὃ δ’ ἂν θεοφιλὲς ᾖ καὶ θεομισές ἐστιν, ὡς ἔοικεν.
+085.03@en but, judging from your reply, what is dear to the gods is also hateful to the gods.
+085.04@grc {8b} ὥστε, ὦ Εὐθύφρων, ὃ σὺ νῦν ποιεῖς τὸν πατέρα κολάζων, οὐδὲν θαυμαστὸν εἰ τοῦτο δρῶν τῷ μὲν Διὶ προσφιλὲς ποιεῖς, τῷ δὲ Κρόνῳ καὶ τῷ Οὐρανῷ ἐχθρόν, καὶ τῷ μὲν Ἡφαίστῳ φίλον, τῇ δὲ Ἥρᾳ ἐχθρόν, καὶ εἴ τις ἄλλος τῶν θεῶν ἕτερος ἑτέρῳ διαφέρεται περὶ αὐτοῦ, καὶ ἐκείνοις κατὰ τὰ αὐτά.
+085.04@en And so, Euthyphro, it would not be surprising if, in punishing your father as you are doing, you were performing an act that is pleasing to Zeus, but hateful to Cronus and Uranus, and pleasing to Hephaestus, but hateful to Hera, and so forth in respect to the other gods, if any disagree with any other about it.
+
+086.00 ΕΥΘ.
+086.01@grc ἀλλ’ οἶμαι, ὦ Σώκρατες, περί γε τούτου τῶν θεῶν οὐδένα ἕτερον ἑτέρῳ διαφέρεσθαι, ὡς οὐ δεῖ δίκην διδόναι ἐκεῖνον ὃς ἂν ἀδίκως τινὰ ἀποκτείνῃ.
+086.01@en But I think, Socrates, that none of the gods disagrees with any other about this, or holds that he who kills anyone wrongfully ought not to pay the penalty.
+
+087.00 ΣΩ.
+087.01@grc τί δέ;
+087.01@en Well,
+087.02@grc ἀνθρώπων, ὦ Εὐθύφρων, ἤδη τινὸς ἤκουσας {8c} ἀμφισβητοῦντος ὡς τὸν ἀδίκως ἀποκτείναντα ἢ ἄλλο ἀδίκως ποιοῦντα ὁτιοῦν οὐ δεῖ δίκην διδόναι;
+087.02@en Euthyphro, to return to men, did you ever hear anybody arguing that he who had killed anyone wrongfully, or had done anything else whatever wrongfully, ought not to pay the penalty?
+
+088.00 ΕΥΘ.
+088.01@grc οὐδὲν μὲν οὖν παύονται ταῦτα ἀμφισβητοῦντες καὶ ἄλλοθι καὶ ἐν τοῖς δικαστηρίοις·
+088.01@en Why, they are always arguing these points, especially in the law courts.
+088.02@grc ἀδικοῦντες γὰρ πάμπολλα, πάντα ποιοῦσι καὶ λέγουσι φεύγοντες τὴν δίκην.
+088.02@en For they do very many wrong things; and then there is nothing they will not do or say, in defending themselves, to avoid the penalty.
+
+089.00 ΣΩ.
+089.01@grc ἦ καὶ ὁμολογοῦσιν, ὦ Εὐθύφρων, ἀδικεῖν, καὶ ὁμολογοῦντες ὅμως οὐ δεῖν φασὶ σφᾶς διδόναι δίκην;
+089.01@en Yes, but do they acknowledge, Euthyphro, that they have done wrong and, although they acknowledge it, nevertheless say that they ought not to pay the penalty?
+
+090.00 ΕΥΘ.
+090.01@grc οὐδαμῶς τοῦτό γε.
+090.01@en Oh, no, they don’t do that.
+
+091.00 ΣΩ.
+091.01@grc οὐκ ἄρα πᾶν γε ποιοῦσι καὶ λέγουσι·
+091.01@en Then there is something they do not do and say.
+091.02@grc τοῦτο γὰρ οἶμαι οὐ τολμῶσι λέγειν οὐδ’ ἀμφισβητεῖν, ὡς οὐχὶ εἴπερ {8d} ἀδικοῦσί γε δοτέον δίκην, ἀλλ’ οἶμαι οὔ φασιν ἀδικεῖν·
+091.02@en For they do not, I fancy, dare to say and argue that, if they have really done wrong, they ought not to pay the penalty; but, I think, they say they have not done wrong;
+091.03@grc ἦ γάρ;
+091.03@en do they not?
+
+092.00 ΕΥΘ.
+092.01@grc ἀληθῆ λέγεις.
+092.01@en You are right.
+
+093.00 ΣΩ.
+093.01@grc οὐκ ἄρα ἐκεῖνό γε ἀμφισβητοῦσιν, ὡς οὐ τὸν ἀδικοῦντα δεῖ διδόναι δίκην, ἀλλ’ ἐκεῖνο ἴσως ἀμφισβητοῦσιν, τὸ τίς ἐστιν ὁ ἀδικῶν καὶ τί δρῶν καὶ πότε.
+093.01@en Then they do not argue this point, that the wrongdoer must not pay the penalty; but perhaps they argue about this, who is a wrongdoer, and what he did, and when.
+
+094.00 ΕΥΘ.
+094.01@grc ἀληθῆ λέγεις.
+094.01@en That is true.
+
+095.00 ΣΩ.
+095.01@grc οὐκοῦν αὐτά γε ταῦτα καὶ οἱ θεοὶ πεπόνθασιν, εἴπερ στασιάζουσι περὶ τῶν δικαίων καὶ ἀδίκων ὡς ὁ σὸς λόγος, καὶ οἱ μέν φασιν ἀλλήλους ἀδικεῖν, οἱ δὲ οὔ φασιν;
+095.01@en Then is not the same thing true of the gods, if they quarrel about right and wrong, as you say, and some say others have done wrong, and some say they have not?
+095.02@grc ἐπεὶ ἐκεῖνό γε δήπου, ὦ θαυμάσιε, οὐδεὶς οὔτε θεῶν οὔτε {8e} ἀνθρώπων τολμᾷ λέγειν, ὡς οὐ τῷ γε ἀδικοῦντι δοτέον δίκην.
+095.02@en For surely, my friend, no one, either of gods or men, has the face to say that he who does wrong ought not to pay the penalty.
+
+096.00 ΕΥΘ.
+096.01@grc ναί, τοῦτο μὲν ἀληθὲς λέγεις, ὦ Σώκρατες, τό γε κεφάλαιον.
+096.01@en Yes, you are right about this, Socrates, in the main.
+
+097.00 ΣΩ.
+097.01@grc ἀλλ’ ἕκαστόν γε οἶμαι, ὦ Εὐθύφρων, τῶν πραχθέντων ἀμφισβητοῦσιν οἱ ἀμφισβητοῦντες, καὶ ἄνθρωποι καὶ θεοί, εἴπερ ἀμφισβητοῦσιν θεοί·
+097.01@en But I think, Euthyphro, those who dispute, both men and gods, if the gods do dispute, dispute about each separate act.
+097.02@grc πράξεώς τινος πέρι διαφερόμενοι οἱ μὲν δικαίως φασὶν αὐτὴν πεπρᾶχθαι, οἱ δὲ ἀδίκως·
+097.02@en When they differ with one another about any act, some say it was right and others that it was wrong.
+097.03@grc ἆρ’ οὐχ οὕτω;
+097.03@en Is it not so?
+
+098.00 ΕΥΘ.
+098.01@grc πάνυ γε.
+098.01@en Certainly.
+
+099.00 {9a} ΣΩ.
+099.01@grc ἴθι νυν, ὦ φίλε Εὐθύφρων, δίδαξον καὶ ἐμέ, ἵνα σοφώτερος γένωμαι, τί σοι τεκμήριόν ἐστιν ὡς πάντες θεοὶ ἡγοῦνται ἐκεῖνον ἀδίκως τεθνάναι, ὃς ἂν θητεύων ἀνδροφόνος γενόμενος, συνδεθεὶς ὑπὸ τοῦ δεσπότου τοῦ ἀποθανόντος, φθάσῃ τελευτήσας διὰ τὰ δεσμὰ πρὶν τὸν συνδήσαντα παρὰ τῶν ἐξηγητῶν περὶ αὐτοῦ πυθέσθαι τί χρὴ ποιεῖν, καὶ ὑπὲρ τοῦ τοιούτου δὴ ὀρθῶς ἔχει ἐπεξιέναι καὶ ἐπισκήπτεσθαι φόνου τὸν ὑὸν τῷ πατρί;
+099.01@en Come now, my dear Euthyphro, inform me, that I may be made wiser, what proof you have that all the gods think that the man lost his life wrongfully, who, when he was a servant, committed murder, was bound by the master of the man he killed, and died as a result of his bonds before the master who had bound him found out from the advisers what he ought to do with him, and that it is right on account of such a man for a son to proceed against his father and accuse him of murder. 
+099.02@grc ἴθι, περὶ τούτων πειρῶ τί μοι {9b} σαφὲς ἐνδείξασθαι ὡς παντὸς μᾶλλον πάντες θεοὶ ἡγοῦνται ὀρθῶς ἔχειν ταύτην τὴν πρᾶξιν·
+099.02@en Come, try to show me clearly about this, that the gods surely believe that this conduct is right;
+099.03@grc κἄν μοι ἱκανῶς ἐνδείξῃ, ἐγκωμιάζων σε ἐπὶ σοφίᾳ οὐδέποτε παύσομαι.
+099.03@en and if you show it to my satisfaction, I will glorify your wisdom as long as I live.
+
+100.00 ΕΥΘ.
+100.01@grc ἀλλ’ ἴσως οὐκ ὀλίγον ἔργον ἐστίν, ὦ Σώκρατες, ἐπεὶ πάνυ γε σαφῶς ἔχοιμι ἂν ἐπιδεῖξαί σοι.
+100.01@en But perhaps this is no small task, Socrates; though I could show you quite clearly.
+
+101.00 ΣΩ.
+101.01@grc μανθάνω·
+101.01@en I understand;
+101.02@grc ὅτι σοι δοκῶ τῶν δικαστῶν δυσμαθέστερος εἶναι, ἐπεὶ ἐκείνοις γε ἐνδείξῃ δῆλον ὅτι ὡς ἄδικά τέ ἐστιν καὶ οἱ θεοὶ ἅπαντες τὰ τοιαῦτα μισοῦσιν.
+101.02@en it is because you think I am slower to understand than the judges; since it is plain that you will show them that such acts are wrong and that all the gods hate them.
+
+102.00 ΕΥΘ.
+102.01@grc πάνυ γε σαφῶς, ὦ Σώκρατες, ἐάνπερ ἀκούωσί γέ μου λέγοντος.
+102.01@en Quite clearly, Socrates; that is, if they listen to me.
+
+103.00 {9c} ΣΩ.
+103.01@grc ἀλλ’ ἀκούσονται.
+103.01@en They will listen, 
+103.02@grc ἐάνπερ εὖ δοκῇς λέγειν.
+103.02@en if they find that you are a good speaker.
+103.03@grc τόδε δέ σου ἐνενόησα ἅμα λέγοντος καὶ πρὸς ἐμαυτὸν σκοπῶ·
+103.03@en But this occurred to me while you were talking, and I said to myself:
+103.04@grc {q} εἰ ὅτι μάλιστά με Εὐθύφρων διδάξειεν ὡς οἱ θεοὶ ἅπαντες τὸν τοιοῦτον θάνατον ἡγοῦνται ἄδικον εἶναι, τί μᾶλλον ἐγὼ μεμάθηκα παρ’ Εὐθύφρονος τί ποτ’ ἐστὶν τὸ ὅσιόν τε καὶ τὸ ἀνόσιον;
+103.04@en {q} If Euthyphro should prove to me no matter how clearly that all the gods think such a death is wrongful, what have I learned from Euthyphro about the question, what is holiness and what is unholiness?
+103.05@grc θεομισὲς μὲν γὰρ τοῦτο τὸ ἔργον, ὡς ἔοικεν, εἴη ἄν.
+103.05@en For this act would, as it seems, be hateful to the gods;
+103.06@grc ἀλλὰ γὰρ οὐ τούτῳ ἐφάνη ἄρτι ὡρισμένα τὸ ὅσιον καὶ μή·
+103.06@en but we saw just now that holiness and its opposite are not defined in this way; 
+103.07@grc τὸ γὰρ θεομισὲς ὂν καὶ θεοφιλὲς ἐφάνη. {/q}
+103.07@en for we saw that what is hateful to the gods is also dear to them; {/q}
+103.08@grc ὥστε τούτου μὲν ἀφίημί σε, ὦ Εὐθύφρων·
+103.08@en and so I let you off any discussion of this point.
+103.09@grc εἰ βούλει, πάντες αὐτὸ {9d} ἡγείσθων θεοὶ ἄδικον καὶ πάντες μισούντων.
+103.09@en If you like, all the gods may think it wrong and may hate it.
+103.10@grc ἀλλ’ ἆρα τοῦτο ὃ νῦν ἐπανορθούμεθα ἐν τῷ λόγῳ —
+103.10@en But shall we now emend our definition and say
+103.11@grc ὡς ὃ μὲν ἂν πάντες οἱ θεοὶ μισῶσιν ἀνόσιόν ἐστιν, ὃ δ’ ἂν φιλῶσιν, ὅσιον·
+103.11@en that whatever all the gods hate is unholy and whatever they all love is holy,
+103.12@grc ὃ δ’ ἂν οἱ μὲν φιλῶσιν οἱ δὲ μισῶσιν, οὐδέτερα ἢ ἀμφότερα —
+103.12@en and what some love and others hate is neither or both?
+103.13@grc ἆρ’ οὕτω βούλει ἡμῖν ὡρίσθαι νῦν περὶ τοῦ ὁσίου καὶ τοῦ ἀνοσίου;
+103.13@en Do you wish this now to be our definition of holiness and unholiness?
+
+104.00 ΕΥΘ.
+104.01@grc τί γὰρ κωλύει, ὦ Σώκρατες;
+104.01@en What is to hinder, Socrates?
+
+105.00 ΣΩ.
+105.01@grc οὐδὲν ἐμέ γε, ὦ Εὐθύφρων, ἀλλὰ σὺ δὴ τὸ σὸν σκόπει, εἰ τοῦτο ὑποθέμενος οὕτω ῥᾷστά με διδάξεις ὃ ὑπέσχου.
+105.01@en Nothing, so far as I am concerned, Euthyphro, but consider your own position, whether by adopting this definition you will most easily teach me what you promised.
+
+106.00 {9e} ΕΥΘ.
+106.01@grc ἀλλ’ ἔγωγε φαίην ἂν τοῦτο εἶναι τὸ ὅσιον ὃ ἂν πάντες οἱ θεοὶ φιλῶσιν, καὶ τὸ ἐναντίον, ὃ ἂν πάντες θεοὶ μισῶσιν, ἀνόσιον.
+106.01@en Well, I should say that what all the gods love is holy and, on the other hand, what they all hate is unholy.
+
+107.00 ΣΩ.
+107.01@grc οὐκοῦν ἐπισκοπῶμεν αὖ τοῦτο, ὦ Εὐθύφρων, εἰ καλῶς λέγεται, ἢ ἐῶμεν καὶ οὕτω ἡμῶν τε αὐτῶν ἀποδεχώμεθα καὶ τῶν ἄλλων, ἐὰν μόνον φῇ τίς τι ἔχειν οὕτω συγχωροῦντες ἔχειν;
+107.01@en Then shall we examine this again, Euthyphro, to see if it is correct, or shall we let it go and accept our own statement, and those of others, agreeing that it is so, if anyone merely says that it is?
+107.02@grc ἢ σκεπτέον τί λέγει ὁ λέγων;
+107.02@en Or ought we to inquire into the correctness of the statement?
+
+108.00 ΕΥΘ.
+108.01@grc σκεπτέον·
+108.01@en We ought to inquire.
+108.02@grc οἶμαι μέντοι ἔγωγε τοῦτο νυνὶ καλῶς λέγεσθαι.
+108.02@en However, I think this is now correct.
+
+109.00 {10a} ΣΩ.
+109.01@grc τάχ’, ὠγαθέ, βέλτιον εἰσόμεθα.
+109.01@en We shall soon know more about this, my friend.
+109.02@grc ἐννόησον γὰρ τὸ τοιόνδε·
+109.02@en Just consider this question: — 
+109.03@grc ἆρα τὸ ὅσιον ὅτι ὅσιόν ἐστιν φιλεῖται ὑπὸ τῶν θεῶν, ἢ ὅτι φιλεῖται ὅσιόν ἐστιν;
+109.03@en Is that which is holy loved by the gods because it is holy, or is it holy because it is loved by the gods?
+
+110.00 ΕΥΘ.
+110.01@grc οὐκ οἶδ’ ὅτι λέγεις, ὦ Σώκρατες.
+110.01@en I don’t know what you mean, Socrates.
+
+111.00 ΣΩ.
+111.01@grc ἀλλ’ ἐγὼ πειράσομαι σαφέστερον φράσαι.
+111.01@en Then I will try to speak more clearly.
+111.02@grc λέγομέν τι φερόμενον καὶ φέρον καὶ ἀγόμενον καὶ ἄγον καὶ ὁρώμενον καὶ ὁρῶν καὶ πάντα τὰ τοιαῦτα μανθάνεις ὅτι ἕτερα ἀλλήλων ἐστὶ καὶ ᾗ ἕτερα;
+111.02@en We speak of being carried and of carrying, of being led and of leading, of being seen and of seeing; and you understand — do you not? — that in all such expressions the two parts differ one from the other in meaning, and how they differ.
+
+112.00 ΕΥΘ.
+112.01@grc ἔγωγέ μοι δοκῶ μανθάνειν.
+112.01@en I think I understand.
+
+113.00 ΣΩ.
+113.01@grc οὐκοῦν καὶ φιλούμενόν τί ἐστιν καὶ τούτου ἕτερον τὸ φιλοῦν;
+113.01@en Then, too, we conceive of a thing being loved and of a thing loving, and the two are different?
+
+114.00 ΕΥΘ.
+114.01@grc πῶς γὰρ οὔ;
+114.01@en Of course.
+
+115.00 {10b} ΣΩ.
+115.01@grc λέγε δή μοι, πότερον τὸ φερόμενον διότι φέρεται φερόμενόν ἐστιν, ἢ δι’ ἄλλο τι;
+115.01@en Now tell me, is a thing which is carried a carried thing because one carries it, or for some other reason?
+
+116.00 ΕΥΘ.
+116.01@grc οὔκ, ἀλλὰ διὰ τοῦτο.
+116.01@en No, for that reason.
+
+117.00 ΣΩ.
+117.01@grc καὶ τὸ ἀγόμενον δὴ διότι ἄγεται, καὶ τὸ ὁρώμενον διότι ὁρᾶται;
+117.01@en And a thing which is led is led because one leads it, and a thing which is seen is so because one sees it?
+
+118.00 ΕΥΘ.
+118.01@grc πάνυ γε.
+118.01@en Certainly.
+
+119.00 ΣΩ.
+119.01@grc οὐκ ἄρα διότι ὁρώμενόν γέ ἐστιν, διὰ τοῦτο ὁρᾶται, ἀλλὰ τὸ ἐναντίον διότι ὁρᾶται, διὰ τοῦτο ὁρώμενον·
+119.01@en Then one does not see it because its a seen thing, but, on the contrary, it is a seen thing because one sees it;
+119.02@grc οὐδὲ διότι ἀγόμενόν ἐστιν, διὰ τοῦτο ἄγεται, ἀλλὰ διότι ἄγεται, διὰ τοῦτο ἀγόμενον·
+119.02@en and one does not lead it because it is a led thing, but it is a led thing because one leads it;
+119.03@grc οὐδὲ διότι φερόμενον φέρεται, ἀλλὰ διότι φέρεται φερόμενον.
+119.03@en and one does not carry it because it is a carried thing, but it is a carried thing because one carries it.
+119.04@grc ἆρα κατάδηλον, ὦ Εὐθύφρων, ὃ {10c} βούλομαι λέγειν;
+119.04@en Is it clear, Euthyphro, what I am trying to say?
+119.05@grc βούλομαι δὲ τόδε, ὅτι εἴ τι γίγνεται ἤ τι πάσχει, οὐχ ὅτι γιγνόμενόν ἐστι γίγνεται, ἀλλ’ ὅτι γίγνεται γιγνόμενόν ἐστιν·
+119.05@en I am trying to say this, that if anything becomes or undergoes, it does not become because it is in a state of becoming, but it is in a state of becoming because it becomes,
+119.06@grc οὐδ’ ὅτι πάσχον ἐστὶ πάσχει, ἀλλ’ ὅτι πάσχει πάσχον ἐστίν·
+119.06@en and it does not undergo because it is a thing which undergoes, but because it undergoes it is a thing which undergoes;
+119.07@grc ἢ οὐ συγχωρεῖς οὕτω;
+119.07@en or do you not agree to this?
+
+120.00 ΕΥΘ.
+120.01@grc ἔγωγε.
+120.01@en I agree.
+
+121.00 ΣΩ.
+121.01@grc οὐκοῦν καὶ τὸ φιλούμενον ἢ γιγνόμενόν τί ἐστιν ἢ πάσχον τι ὑπό του;
+121.01@en Is not that which is beloved a thing which is either becoming or undergoing something?
+
+122.00 ΕΥΘ.
+122.01@grc πάνυ γε.
+122.01@en Certainly.
+
+123.00 ΣΩ.
+123.01@grc καὶ τοῦτο ἄρα οὕτως ἔχει ὥσπερ τὰ πρότερα·
+123.01@en And is this case like the former ones:
+123.02@grc οὐχ ὅτι φιλούμενόν ἐστιν φιλεῖται ὑπὸ ὧν φιλεῖται, ἀλλ’ ὅτι φιλεῖται φιλούμενον;
+123.02@en those who love it do not love it because it is a bad thing, but it is a beloved thing because they love it?
+
+124.00 ΕΥΘ.
+124.01@grc ἀνάγκη.
+124.01@en Obviously.
+
+125.00 {10d} ΣΩ.
+125.01@grc τί δὴ οὖν λέγομεν περὶ τοῦ ὁσίου, ὦ Εὐθύφρων;
+125.01@en Now what do you say about that which is holy?
+125.02@grc ἄλλο τι φιλεῖται ὑπὸ θεῶν πάντων, ὡς ὁ σὸς λόγος;
+125.02@en It is loved by all the gods, is it not, according to what you said?
+
+126.00 ΕΥΘ.
+126.01@grc ναί.
+126.01@en Yes.
+
+127.00 ΣΩ.
+127.01@grc ἆρα διὰ τοῦτο, ὅτι ὅσιόν ἐστιν, ἢ δι’ ἄλλο τι;
+127.01@en For this reason, because it is holy, or for some other reason?
+
+128.00 ΕΥΘ.
+128.01@grc οὔκ, ἀλλὰ διὰ τοῦτο.
+128.01@en No, for this reason.
+
+129.00 ΣΩ.
+129.01@grc διότι ἄρα ὅσιόν ἐστιν φιλεῖται, ἀλλ’ οὐχ ὅτι φιλεῖται, διὰ τοῦτο ὅσιόν ἐστιν;
+129.01@en It is loved because it is holy, not holy because it is loved?
+
+130.00 ΕΥΘ.
+130.01@grc ἔοικεν.
+130.01@en I think so.
+
+131.00 ΣΩ.
+131.01@grc ἀλλὰ μὲν δὴ διότι γε φιλεῖται ὑπὸ θεῶν φιλούμενόν ἐστι καὶ θεοφιλές.
+131.01@en But that which is dear to the gods is dear to them and beloved by them because they love it.
+
+132.00 ΕΥΘ.
+132.01@grc πῶς γὰρ οὔ;
+132.01@en Of course.
+
+133.00 ΣΩ.
+133.01@grc οὐκ ἄρα τὸ θεοφιλὲς ὅσιόν ἐστιν, ὦ Εὐθύφρων, οὐδὲ τὸ ὅσιον θεοφιλές, ὡς σὺ λέγεις, ἀλλ’ ἕτερον τοῦτο τούτου.
+133.01@en Then that which is dear to the gods and that which is holy are not identical, but differ one from the other.
+
+134.00 {10e} ΕΥΘ.
+134.01@grc πῶς δή, ὦ Σώκρατες;
+134.01@en How so, Socrates?
+
+135.00 ΣΩ.
+135.01@grc ὅτι ὁμολογοῦμεν τὸ μὲν ὅσιον διὰ τοῦτο φιλεῖσθαι, ὅτι ὅσιόν ἐστιν, ἀλλ’ οὐ διότι φιλεῖται ὅσιον εἶναι·
+135.01@en Because we are agreed that the holy is loved because it is holy and that it is not holy because it is loved;
+135.02@grc ἦ γάρ;
+135.02@en are we not?
+
+136.00 ΕΥΘ.
+136.01@grc ναί.
+136.01@en Yes.
+
+137.00 ΣΩ.
+137.01@grc τὸ δέ γε θεοφιλὲς ὅτι φιλεῖται ὑπὸ θεῶν, αὐτῷ τούτῳ τῷ φιλεῖσθαι θεοφιλὲς εἶναι, ἀλλ’ οὐχ ὅτι θεοφιλές, διὰ τοῦτο φιλεῖσθαι.
+137.01@en But we are agreed that what is dear to the gods is dear to them because they love it, that is, by reason of this love, not that they love it because it is dear.
+
+138.00 ΕΥΘ.
+138.01@grc ἀληθῆ λέγεις.
+138.01@en Very true.
+
+139.00 ΣΩ.
+139.01@grc ἀλλ’ εἴ γε ταὐτὸν ἦν, ὦ φίλε Εὐθύφρων, τὸ θεοφιλὲς καὶ τὸ ὅσιον, εἰ μὲν διὰ τὸ ὅσιον εἶναι ἐφιλεῖτο τὸ {11a} ὅσιον, καὶ διὰ τὸ θεοφιλὲς εἶναι ἐφιλεῖτο ἂν τὸ θεοφιλές, εἰ δὲ διὰ τὸ φιλεῖσθαι ὑπὸ θεῶν τὸ θεοφιλὲς θεοφιλὲς ἦν, καὶ τὸ ὅσιον ἂν διὰ τὸ φιλεῖσθαι ὅσιον ἦν·
+139.01@en But if that which is dear to the gods and that which is holy were identical, my dear Euthyphro, then if the holy were loved because it is holy, that which is dear to the gods would be loved because it is dear, and if that which is dear to the gods is dear because it is loved, then that which is holy would be holy because it is loved; 
+139.02@grc νῦν δὲ ὁρᾷς ὅτι ἐναντίως ἔχετον, ὡς παντάπασιν ἑτέρω ὄντε ἀλλήλων.
+139.02@en but now you see that the opposite is the case, showing that the two are different from each other.
+139.03@grc τὸ μὲν γάρ, ὅτι φιλεῖται, ἐστὶν οἷον φιλεῖσθαι·
+139.03@en For the one becomes lovable from the fact that it is loved,
+139.04@grc τὸ δ’ ὅτι ἐστὶν οἷον φιλεῖσθαι, διὰ τοῦτο φιλεῖται.
+139.04@en whereas the other is loved because it is in itself lovable.
+139.05@grc καὶ κινδυνεύεις, ὦ Εὐθύφρων, ἐρωτώμενος τὸ ὅσιον ὅτι ποτ’ ἐστίν, τὴν μὲν οὐσίαν μοι αὐτοῦ οὐ βούλεσθαι δηλῶσαι, πάθος δέ τι περὶ αὐτοῦ λέγειν, ὅτι πέπονθε τοῦτο τὸ ὅσιον, φιλεῖσθαι ὑπὸ πάντων {11b} θεῶν·
+139.05@en And, Euthyphro, it seems that when you were asked what holiness is you were unwilling to make plain its essence, but you mentioned something that has happened to this holiness, namely, that it is loved by the gods.
+139.06@grc ὅτι δὲ ὄν, οὔπω εἶπες.
+139.06@en But you did not tell as yet what it really is.
+139.07@grc εἰ οὖν σοι φίλον, μή με ἀποκρύψῃ ἀλλὰ πάλιν εἰπὲ ἐξ ἀρχῆς τί ποτε ὂν τὸ ὅσιον εἴτε φιλεῖται ὑπὸ θεῶν εἴτε ὁτιδὴ πάσχει —
+139.07@en So, if you please, do not hide it from me, but begin over again and tell me what holiness is, no matter whether it is loved by the gods or anything else happens it;
+139.08@grc οὐ γὰρ περὶ τούτου διοισόμεθα —
+139.08@en for we shall not quarrel about that.
+139.09@grc ἀλλ’ εἰπὲ προθύμως τί ἐστιν τό τε ὅσιον καὶ τὸ ἀνόσιον;
+139.09@en But tell me frankly, What is holiness, and what is unholiness?
+
+140.00 ΕΥΘ.
+140.01@grc ἀλλ’, ὦ Σώκρατες, οὐκ ἔχω ἔγωγε ὅπως σοι εἴπω ὃ νοῶ·
+140.01@en But, Socrates, I do not know how to say what I mean. 
+140.02@grc περιέρχεται γάρ πως ἡμῖν ἀεὶ ὃ ἂν προθώμεθα καὶ οὐκ ἐθέλει μένειν ὅπου ἂν ἱδρυσώμεθα αὐτό.
+140.02@en For whatever statement we advance, somehow or other it moves about and won’t stay where we put it.
+
+141.00 ΣΩ.
+141.01@grc τοῦ ἡμετέρου προγόνου, ὦ Εὐθύφρων, ἔοικεν εἶναι {11c} Δαιδάλου τὰ ὑπὸ σοῦ λεγόμενα.
+141.01@en Your statements, Euthyphro, are like works of my ancestor Daedalus,
+141.02@grc καὶ εἰ μὲν αὐτὰ ἐγὼ ἔλεγον καὶ ἐτιθέμην, ἴσως ἄν με ἐπέσκωπτες ὡς ἄρα καὶ ἐμοὶ κατὰ τὴν ἐκείνου συγγένειαν τὰ ἐν τοῖς λόγοις ἔργα ἀποδιδράσκει καὶ οὐκ ἐθέλει μένειν ὅπου ἄν τις αὐτὰ θῇ·
+141.02@en and if I were the one who made or advanced them, you might laugh at me and say that on account of my relationship to him my works in words run away and won’t stay where they are put.
+141.03@grc νῦν δὲ σαὶ γὰρ αἱ ὑποθέσεις εἰσίν.
+141.03@en But now — well, the statements are yours;
+141.04@grc ἄλλου δή τινος δεῖ σκώμματος·
+141.04@en so some other jest is demanded;
+141.05@grc οὐ γὰρ ἐθέλουσι σοὶ μένειν, ὡς καὶ αὐτῷ σοι δοκεῖ.
+141.05@en for they stay fixed, as you yourself see.
+
+142.00 ΕΥΘ.
+142.01@grc ἐμοὶ δὲ δοκεῖ σχεδόν τι τοῦ αὐτοῦ σκώμματος, ὦ Σώκρατες, δεῖσθαι τὰ λεγόμενα·
+142.01@en I think the jest does very well as it is;
+142.02@grc τὸ γὰρ περιιέναι αὐτοῖς τοῦτο καὶ μὴ μένειν ἐν τῷ αὐτῷ οὐκ ἐγώ εἰμι ὁ ἐντιθείς, {11d} ἀλλὰ σύ μοι δοκεῖς ὁ Δαίδαλος, ἐπεὶ ἐμοῦ γε ἕνεκα ἔμενεν ἂν ταῦτα οὕτως.
+142.02@en for I am not the one who makes these statements move about and not stay in the same place, but you are the Daedalus; for they would have stayed, so far as I am concerned.
+
+143.00 ΣΩ.
+143.01@grc κινδυνεύω ἄρα, ὦ ἑταῖρε, ἐκείνου τοῦ ἀνδρὸς δεινότερος γεγονέναι τὴν τέχνην τοσούτῳ, ὅσῳ ὁ μὲν τὰ αὑτοῦ μόνα ἐποίει οὐ μένοντα, ἐγὼ δὲ πρὸς τοῖς ἐμαυτοῦ, ὡς ἔοικε, καὶ τὰ ἀλλότρια.
+143.01@en Apparently then, my friend, I am a more clever artist than Daedalus, inasmuch as he made only his own works move, whereas I, as it seems, give motion to the works of others as well as to my own.
+143.02@grc καὶ δῆτα τοῦτό μοι τῆς τέχνης ἐστὶ κομψότατον, ὅτι ἄκων εἰμὶ σοφός·
+143.02@en And the most exquisite thing about my art is that I am clever against my will;
+143.03@grc ἐβουλόμην γὰρ ἄν μοι τοὺς λόγους μένειν καὶ ἀκινήτως ἱδρῦσθαι μᾶλλον ἢ πρὸς τῇ {11e} Δαιδάλου σοφίᾳ τὰ Ταντάλου χρήματα γενέσθαι.
+143.03@en for I would rather have my words stay fixed and stable than possess the wisdom of Daedalus and the wealth of Tantalus besides.
+143.04@grc καὶ τούτων μὲν ἅδην·
+143.04@en But enough of this.
+143.05@grc ἐπειδὴ δέ μοι δοκεῖς σὺ τρυφᾶν, αὐτός σοι συμπροθυμήσομαι {del} δεῖξαι {/del} ὅπως ἄν με διδάξῃς περὶ τοῦ ὁσίου.
+143.05@en Since you seem to be indolent, I will aid you myself, so that you may instruct me about holiness.
+143.06@grc καὶ μὴ προαποκάμῃς·
+143.06@en And do not give it up beforehand.
+143.07@grc ἰδὲ γὰρ εἰ οὐκ ἀναγκαῖόν σοι δοκεῖ δίκαιον εἶναι πᾶν τὸ ὅσιον.
+143.07@en Just see whether you do not think that everything that is holy is right.
+
+144.00 ΕΥΘ.
+144.01@grc ἔμοιγε.
+144.01@en I do.
+
+145.00 ΣΩ.
+145.01@grc ἆρ’ οὖν καὶ πᾶν τὸ δίκαιον ὅσιον;
+145.01@en But is everything that is right also holy?
+145.02@grc ἢ τὸ μὲν ὅσιον {12a} πᾶν δίκαιον, τὸ δὲ δίκαιον οὐ πᾶν ὅσιον, ἀλλὰ τὸ μὲν αὐτοῦ ὅσιον, τὸ δέ τι καὶ ἄλλο;
+145.02@en Or is all which is holy right, and not all which is right holy, but part of it holy and part something else?
+
+146.00 ΕΥΘ.
+146.01@grc οὐχ ἕπομαι, ὦ Σώκρατες, τοῖς λεγομένοις.
+146.01@en I can’t follow you, Socrates.
+
+147.00 ΣΩ.
+147.01@grc καὶ μὴν νεώτερός γέ μου εἶ οὐκ ἔλαττον ἢ ὅσῳ σοφώτερος·
+147.01@en And yet you are as much younger than I as you are wiser;
+147.02@grc ἀλλ’, ὃ λέγω, τρυφᾷς ὑπὸ πλούτου τῆς σοφίας.
+147.02@en but, as I said, you are indolent on account of your wealth of wisdom.
+147.03@grc ἀλλ’, ὦ μακάριε, σύντεινε σαυτόν·
+147.03@en But exert yourself, my friend;
+147.04@grc καὶ γὰρ οὐδὲ χαλεπὸν κατανοῆσαι ὃ λέγω.
+147.04@en for it is not hard to understand what I mean.
+147.05@grc λέγω γὰρ δὴ τὸ ἐναντίον ἢ ὁ ποιητὴς ἐποίησεν ὁ ποιήσας —
+147.05@en What I mean is the opposite of what the poet said, who wrote:
+147.06@grc {quote} Ζῆνα δὲ τὸν {del} θ’ {/del} ἔρξαντα καὶ ὃς τάδε πάντ’ ἐφύτευσεν {/quote} {12b} {quote} οὐκ ἐθέλει νεικεῖν·
+147.06@en {start-quote} Zeus the creator, him who made all things, {end-quote} {start-quote} thou wilt not name;
+147.07@grc ἵνα γὰρ δέος ἔνθα καὶ αἰδώς. {/quote}
+147.07@en for where fear is, there also is reverence. {end-quote}
+147.08@grc ἐγὼ οὖν τούτῳ διαφέρομαι τῷ ποιητῇ.
+147.08@en Now I disagree with the poet.
+147.09@grc εἴπω σοι ὅπῃ;
+147.09@en Shall I tell you how?
+
+148.00 ΕΥΘ.
+148.01@grc πάνυ γε.
+148.01@en By all means.
+
+149.00 ΣΩ.
+149.01@grc οὐ δοκεῖ μοι εἶναι {q} ἵνα δέος ἔνθα καὶ αἰδώς {/q} πολλοὶ γάρ μοι δοκοῦσι καὶ νόσους καὶ πενίας καὶ ἄλλα πολλὰ τοιαῦτα δεδιότες δεδιέναι μέν, αἰδεῖσθαι δὲ μηδὲν ταῦτα ἃ δεδίασιν·
+149.01@en It does not seem to me true that where fear is, there also is reverence; for many who fear diseases and poverty and other such things seem to me to fear, but not to reverence at all these things which they fear.
+149.02@grc οὐ καὶ σοὶ δοκεῖ;
+149.02@en Don’t you think so, too?
+
+150.00 ΕΥΘ.
+150.01@grc πάνυ γε.
+150.01@en Certainly.
+
+151.00 ΣΩ.
+151.01@grc ἀλλ’ ἵνα γε αἰδὼς ἔνθα καὶ δέος εἶναι·
+151.01@en But I think that where reverence is, there also is fear;
+151.02@grc ἐπεὶ ἔστιν ὅστις αἰδούμενός τι πρᾶγμα καὶ αἰσχυνόμενος οὐ πεφόβηταί {12c} τε καὶ δέδοικεν ἅμα δόξαν πονηρίας;
+151.02@en for does not everyone who has a feeling of reverence and shame about any act also dread and fear the reputation for wickedness?
+
+152.00 ΕΥΘ.
+152.01@grc δέδοικε μὲν οὖν.
+152.01@en Yes, he does fear.
+
+153.00 ΣΩ.
+153.01@grc οὐκ ἄρ’ ὀρθῶς ἔχει λέγειν·
+153.01@en Then it is not correct to say
+153.02@grc {q} ἵνα γὰρ δέος ἔνθα καὶ αἰδώς, {/q} ἀλλ’ ἵνα μὲν αἰδὼς ἔνθα καὶ δέος, οὐ μέντοι ἵνα γε δέος πανταχοῦ αἰδώς·
+153.02@en {q} where fear is, there also is reverence. {/q} On the contrary, where reverence is, there also is fear; but reverence is not everywhere where fear is,
+153.03@grc ἐπὶ πλέον γὰρ οἶμαι δέος αἰδοῦς.
+153.03@en since, as I think, fear is more comprehensive than reverence;
+153.04@grc μόριον γὰρ αἰδὼς δέους ὥσπερ ἀριθμοῦ περιττόν, ὥστε οὐχ ἵναπερ ἀριθμὸς ἔνθα καὶ περιττόν, ἵνα δὲ περιττὸν ἔνθα καὶ ἀριθμός.
+153.04@en for reverence is a part of fear, just as the odd is a part of number, so that it is not true that where number is, there also is the odd, but that where the odd is, there also is number.
+153.05@grc ἕπῃ γάρ που νῦν γε;
+153.05@en Perhaps you follow me now?
+
+154.00 ΕΥΘ.
+154.01@grc πάνυ γε.
+154.01@en Perfectly.
+
+155.00 ΣΩ.
+155.01@grc τὸ τοιοῦτον τοίνυν καὶ ἐκεῖ λέγων ἠρώτων·
+155.01@en It was something of this sort that I meant before, when I asked
+155.02@grc ἆρα ἵνα {12d} δίκαιον ἔνθα καὶ ὅσιον;
+155.02@en whether where the right is, there also is holiness,
+155.03@grc ἢ ἵνα μὲν ὅσιον ἔνθα καὶ δίκαιον, ἵνα δὲ δίκαιον οὐ πανταχοῦ ὅσιον·
+155.03@en or where holiness is, there also is the right; but holiness is not everywhere where the right is,
+155.04@grc μόριον γὰρ τοῦ δικαίου τὸ ὅσιον;
+155.04@en for holiness is a part of the right.
+155.05@grc οὕτω φῶμεν ἢ ἄλλως σοι δοκεῖ;
+155.05@en Do we agree to this, or do you dissent?
+
+156.00 ΕΥΘ.
+156.01@grc οὔκ, ἀλλ’ οὕτω.
+156.01@en No, I agree;
+156.02@grc φαίνῃ γάρ μοι ὀρθῶς λέγειν.
+156.02@en for I think the statement is correct.
+
+157.00 ΣΩ.
+157.01@grc ὅρα δὴ τὸ μετὰ τοῦτο.
+157.01@en Now observe the next point.
+157.02@grc εἰ γὰρ μέρος τὸ ὅσιον τοῦ δικαίου, δεῖ δὴ ἡμᾶς, ὡς ἔοικεν, ἐξευρεῖν τὸ ποῖον μέρος ἂν εἴη τοῦ δικαίου τὸ ὅσιον.
+157.02@en If holiness is a part of the right, we must, apparently, find out what part of the right holiness is.
+157.03@grc εἰ μὲν οὖν σύ με ἠρώτας τι τῶν νυνδή, οἷον ποῖον μέρος ἐστὶν ἀριθμοῦ τὸ ἄρτιον καὶ τίς ὢν τυγχάνει οὗτος ὁ ἀριθμός, εἶπον ἂν ὅτι ὃς ἂν μὴ σκαληνὸς ᾖ ἀλλ’ ἰσοσκελής·
+157.03@en Now if you asked me about one of the things I just mentioned, as, for example, what part of number the even was, and what kind of a number it was I should say, {q} that which is not indivisible by two, but divisible by two {/q} ;
+157.04@grc ἢ οὐ δοκεῖ σοι;
+157.04@en or don’t you agree?
+
+158.00 ΕΥΘ.
+158.01@grc ἔμοιγε.
+158.01@en I agree.
+
+159.00 {12e} ΣΩ.
+159.01@grc πειρῶ δὴ καὶ σὺ ἐμὲ οὕτω διδάξαι τὸ ποῖον μέρος τοῦ δικαίου ὅσιόν ἐστιν, ἵνα καὶ Μελήτῳ λέγωμεν μηκέθ’ ἡμᾶς ἀδικεῖν μηδὲ ἀσεβείας γράφεσθαι, ὡς ἱκανῶς ἤδη παρὰ σοῦ μεμαθηκότας τά τε εὐσεβῆ καὶ ὅσια καὶ τὰ μή.
+159.01@en Now try in your turn to teach me what part of the right holiness is, that I may tell Meletus not to wrong me any more or bring suits against me for impiety, since I have now been duly instructed by you about what is, and what is not, pious and holy.
+
+160.00 ΕΥΘ.
+160.01@grc τοῦτο τοίνυν ἔμοιγε δοκεῖ, ὦ Σώκρατες, τὸ μέρος τοῦ δικαίου εἶναι εὐσεβές τε καὶ ὅσιον, τὸ περὶ τὴν τῶν θεῶν θεραπείαν, τὸ δὲ περὶ τὴν τῶν ἀνθρώπων τὸ λοιπὸν εἶναι τοῦ δικαίου μέρος.
+160.01@en This then is my opinion, Socrates, that the part of the right which has to do with attention to the gods constitutes piety and holiness, and that the remaining part of the right is that which has to do with the service of men.
+
+161.00 ΣΩ.
+161.01@grc καὶ καλῶς γέ μοι, ὦ Εὐθύφρων, φαίνῃ λέγειν, ἀλλὰ {13a} σμικροῦ τινος ἔτι ἐνδεής εἰμι·
+161.01@en I think you are correct, Euthyphro; but there is one little point about which I still want information,
+161.02@grc τὴν γὰρ θεραπείαν οὔπω συνίημι ἥντινα ὀνομάζεις.
+161.02@en for I do not yet understand what you mean by {q} attention. {/q}
+161.03@grc οὐ γάρ που λέγεις γε, οἷαίπερ καὶ αἱ περὶ τὰ ἄλλα θεραπεῖαί εἰσιν, τοιαύτην καὶ περὶ θεούς —
+161.03@en I don’t suppose you mean the same kind of attention to the gods which is paid to other things.
+161.04@grc λέγομεν γάρ που —
+161.04@en We say, for example,
+161.05@grc οἷόν φαμεν ἵππους οὐ πᾶς ἐπίσταται θεραπεύειν ἀλλὰ ὁ ἱππικός·
+161.05@en that not everyone knows how to attend to horses, but only he who is skilled in horsemanship,
+161.06@grc ἦ γάρ;
+161.06@en do we not?
+
+162.00 ΕΥΘ.
+162.01@grc πάνυ γε.
+162.01@en Certainly.
+
+163.00 ΣΩ.
+163.01@grc ἡ γάρ που ἱππικὴ ἵππων θεραπεία.
+163.01@en Then horsemanship is the art of attending to horses?
+
+164.00 ΕΥΘ.
+164.01@grc ναί.
+164.01@en Yes.
+
+165.00 ΣΩ.
+165.01@grc οὐδέ γε κύνας πᾶς ἐπίσταται θεραπεύειν ἀλλὰ ὁ κυνηγετικός.
+165.01@en And not everyone knows how to attend to dogs, but only the huntsman?
+
+166.00 ΕΥΘ.
+166.01@grc οὕτω.
+166.01@en That is so.
+
+167.00 ΣΩ.
+167.01@grc ἡ γάρ που κυνηγετικὴ κυνῶν θεραπεία.
+167.01@en Then the huntsman’s art is the art of attending to dogs?
+
+168.00 {13b} ΕΥΘ.
+168.01@grc ναί.
+168.01@en Yes.
+
+169.00 ΣΩ.
+169.01@grc ἡ δέ γε βοηλατικὴ βοῶν.
+169.01@en And the oxherd’s art is that of attending to oxen?
+
+170.00 ΕΥΘ.
+170.01@grc πάνυ γε.
+170.01@en Certainly.
+
+171.00 ΣΩ.
+171.01@grc ἡ δὲ δὴ ὁσιότης τε καὶ εὐσέβεια θεῶν, ὦ Εὐθύφρων;
+171.01@en And holiness and piety is the art of attending to the gods?
+171.02@grc οὕτω λέγεις;
+171.02@en Is that what you mean, Euthyphro?
+
+172.00 ΕΥΘ.
+172.01@grc ἔγωγε.
+172.01@en Yes.
+
+173.00 ΣΩ.
+173.01@grc οὐκοῦν θεραπεία γε πᾶσα ταὐτὸν διαπράττεται;
+173.01@en Now does attention always aim to accomplish the same end?
+173.02@grc οἷον τοιόνδε·
+173.02@en I mean something like this:
+173.03@grc ἐπ’ ἀγαθῷ τινί ἐστι καὶ ὠφελίᾳ τοῦ θεραπευομένου, ὥσπερ ὁρᾷς δὴ ὅτι οἱ ἵπποι ὑπὸ τῆς ἱππικῆς θεραπευόμενοι ὠφελοῦνται καὶ βελτίους γίγνονται·
+173.03@en It aims at some good or benefit to the one to whom it is given, as you see that horses, when attended to by the horseman’s art are benefited and made better;
+173.04@grc ἢ οὐ δοκοῦσί σοι;
+173.04@en or don’t you think so?
+
+174.00 ΕΥΘ.
+174.01@grc ἔμοιγε.
+174.01@en Yes, I do.
+
+175.00 ΣΩ.
+175.01@grc καὶ οἱ κύνες γέ που ὑπὸ τῆς κυνηγετικῆς, καὶ οἱ {13c} βόες ὑπὸ τῆς βοηλατικῆς, καὶ τἆλλα πάντα ὡσαύτως·
+175.01@en And dogs are benefited by the huntsman’s art and oxen by the oxherd’s and everything else in the same way?
+175.02@grc ἢ ἐπὶ βλάβῃ οἴει τοῦ θεραπευομένου τὴν θεραπείαν εἶναι;
+175.02@en Or do you think care and attention are ever meant for the injury of that which is cared for?
+
+176.00 ΕΥΘ.
+176.01@grc μὰ Δί’ οὐκ ἔγωγε.
+176.01@en No, by Zeus, I do not.
+
+177.00 ΣΩ.
+177.01@grc ἀλλ’ ἐπ’ ὠφελίᾳ;
+177.01@en But for its benefit?
+
+178.00 ΕΥΘ.
+178.01@grc πῶς δ’ οὔ;
+178.01@en Of course.
+
+179.00 ΣΩ.
+179.01@grc ἦ οὖν καὶ ἡ ὁσιότης θεραπεία οὖσα θεῶν ὠφελία τέ ἐστι θεῶν καὶ βελτίους τοὺς θεοὺς ποιεῖ;
+179.01@en Then holiness, since it is the art of attending to the gods, is a benefit to the gods, and makes them better?
+179.02@grc καὶ σὺ τοῦτο συγχωρήσαις ἄν, ὡς ἐπειδάν τι ὅσιον ποιῇς, βελτίω τινὰ τῶν θεῶν ἀπεργάζῃ;
+179.02@en And you would agree that when you do a holy or pious act you are making one of the gods better?
+
+180.00 ΕΥΘ.
+180.01@grc μὰ Δί’ οὐκ ἔγωγε.
+180.01@en No, by Zeus, not I.
+
+181.00 ΣΩ.
+181.01@grc οὐδὲ γὰρ ἐγώ, ὦ Εὐθύφρων, οἶμαί σε τοῦτο λέγειν —
+181.01@en Nor do I, Euthyphro, think that is what you meant.
+181.02@grc πολλοῦ καὶ δέω —
+181.02@en Far from it.
+181.03@grc ἀλλὰ τούτου δὴ ἕνεκα καὶ ἀνηρόμην {13d} τίνα ποτὲ λέγοις τὴν θεραπείαν τῶν θεῶν, οὐχ ἡγούμενός σε τοιαύτην λέγειν.
+181.03@en But I asked what you meant by {q} attention to the gods {/q} just because I did not think you meant anything like that.
+
+182.00 ΕΥΘ.
+182.01@grc καὶ ὀρθῶς γε, ὦ Σώκρατες·
+182.01@en You are right, Socrates;
+182.02@grc οὐ γὰρ τοιαύτην λέγω.
+182.02@en that is not what I mean.
+
+183.00 ΣΩ.
+183.01@grc εἶεν·
+183.01@en Well,
+183.02@grc ἀλλὰ τίς δὴ θεῶν θεραπεία εἴη ἂν ἡ ὁσιότης;
+183.02@en what kind of attention to the gods is holiness?
+
+184.00 ΕΥΘ.
+184.01@grc ἥνπερ, ὦ Σώκρατες, οἱ δοῦλοι τοὺς δεσπότας θεραπεύουσιν.
+184.01@en The kind, Socrates, that servants pay to their masters.
+
+185.00 ΣΩ.
+185.01@grc μανθάνω·
+185.01@en I understand.
+185.02@grc ὑπηρετική τις ἄν, ὡς ἔοικεν, εἴη θεοῖς.
+185.02@en It is, you mean, a kind of service to the gods?
+
+186.00 ΕΥΘ.
+186.01@grc πάνυ μὲν οὖν.
+186.01@en Exactly.
+
+187.00 ΣΩ.
+187.01@grc ἔχοις ἂν οὖν εἰπεῖν ἡ ἰατροῖς ὑπηρετικὴ εἰς τίνος ἔργου ἀπεργασίαν τυγχάνει οὖσα ὑπηρετική;
+187.01@en Now can you tell me what result the art that serves the physician serves to produce?
+187.02@grc οὐκ εἰς ὑγιείας οἴει;
+187.02@en Is it not health?
+
+188.00 ΕΥΘ.
+188.01@grc ἔγωγε.
+188.01@en Yes.
+
+189.00 {13e} ΣΩ.
+189.01@grc τί δὲ ἡ ναυπηγοῖς ὑπηρετική;
+189.01@en Well then; what is it which the art that serves shipbuilders serves to produce?
+189.02@grc εἰς τίνος ἔργου ἀπεργασίαν ὑπηρετική ἐστιν;
+189.02@en 
+
+190.00 ΕΥΘ.
+190.01@grc δῆλον ὅτι, ὦ Σώκρατες, εἰς πλοίου.
+190.01@en Evidently, Socrates, a ship.
+
+191.00 ΣΩ.
+191.01@grc καὶ ἡ οἰκοδόμοις γέ που εἰς οἰκίας;
+191.01@en And that which serves housebuilders serves to build a house?
+
+192.00 ΕΥΘ.
+192.01@grc ναί.
+192.01@en Yes.
+
+193.00 ΣΩ.
+193.01@grc εἰπὲ δή, ὦ ἄριστε·
+193.01@en Then tell me, my friend;
+193.02@grc ἡ δὲ θεοῖς ὑπηρετικὴ εἰς τίνος ἔργου ἀπεργασίαν ὑπηρετικὴ ἂν εἴη;
+193.02@en what would the art which serves the gods serve to accomplish?
+193.03@grc δῆλον γὰρ ὅτι σὺ οἶσθα, ἐπειδήπερ τά γε θεῖα κάλλιστα φῂς εἰδέναι ἀνθρώπων.
+193.03@en For it is evident that you know, since you say you know more than any other man about matters which have to do with the gods.
+
+194.00 ΕΥΘ.
+194.01@grc καὶ ἀληθῆ γε λέγω, ὦ Σώκρατες.
+194.01@en And what I say is true, Socrates.
+
+195.00 ΣΩ.
+195.01@grc εἰπὲ δὴ πρὸς Διὸς τί ποτέ ἐστιν ἐκεῖνο τὸ πάγκαλον ἔργον ὃ οἱ θεοὶ ἀπεργάζονται ἡμῖν ὑπηρέταις χρώμενοι;
+195.01@en Then, in the name of Zeus, tell me, what is that glorious result which the gods accomplish by using us as servants?
+
+196.00 ΕΥΘ.
+196.01@grc πολλὰ καὶ καλά, ὦ Σώκρατες.
+196.01@en They accomplish many fine results, Socrates.
+
+197.00 {14a} ΣΩ.
+197.01@grc καὶ γὰρ οἱ στρατηγοί, ὦ φίλε·
+197.01@en Yes, and so do generals, my friend; 
+197.02@grc ἀλλ’ ὅμως τὸ κεφάλαιον αὐτῶν ῥᾳδίως ἂν εἴποις, ὅτι νίκην ἐν τῷ πολέμῳ ἀπεργάζονται·
+197.02@en but nevertheless, you could easily tell the chief of them, namely, that they bring about victory in war.
+197.03@grc ἢ οὔ;
+197.03@en Is that not the case?
+
+198.00 ΕΥΘ.
+198.01@grc πῶς δ’ οὔ;
+198.01@en Of course.
+
+199.00 ΣΩ.
+199.01@grc πολλὰ δέ γ’, οἶμαι, καὶ καλὰ καὶ οἱ γεωργοί·
+199.01@en And farmers also, I think, accomplish many fine results;
+199.02@grc ἀλλ’ ὅμως τὸ κεφάλαιον αὐτῶν ἐστιν τῆς ἀπεργασίας ἡ ἐκ τῆς γῆς τροφή.
+199.02@en but still the chief result of their work is food from the land?
+
+200.00 ΕΥΘ.
+200.01@grc πάνυ γε.
+200.01@en Certainly.
+
+201.00 ΣΩ.
+201.01@grc τί δὲ δὴ τῶν πολλῶν καὶ καλῶν ἃ οἱ θεοὶ ἀπεργάζονται;
+201.01@en But how about the many fine results the gods accomplish?
+201.02@grc τί τὸ κεφάλαιόν ἐστι τῆς ἐργασίας;
+201.02@en What is the chief result of their work?
+
+202.00 ΕΥΘ.
+202.01@grc καὶ ὀλίγον σοι πρότερον εἶπον, ὦ Σώκρατες, ὅτι {14b} πλείονος ἔργου ἐστὶν ἀκριβῶς πάντα ταῦτα ὡς ἔχει μαθεῖν·
+202.01@en I told you a while ago, Socrates, that it is a long task to learn accurately all about these things.
+202.02@grc τόδε μέντοι σοι ἁπλῶς λέγω, ὅτι ἐὰν μὲν κεχαρισμένα τις ἐπίστηται τοῖς θεοῖς λέγειν τε καὶ πράττειν εὐχόμενός τε καὶ θύων, ταῦτ’ ἔστι τὰ ὅσια, καὶ σῴζει τὰ τοιαῦτα τούς τε ἰδίους οἴκους καὶ τὰ κοινὰ τῶν πόλεων·
+202.02@en However, I say simply that when one knows how to say and do what is gratifying to the gods, in praying and sacrificing, that is holiness, and such things bring salvation to individual families and to states;
+202.03@grc τὰ δ’ ἐναντία τῶν κεχαρισμένων ἀσεβῆ, ἃ δὴ καὶ ἀνατρέπει ἅπαντα καὶ ἀπόλλυσιν.
+202.03@en and the opposite of what is gratifying to the gods is impious, and that overturns and destroys everything.
+
+203.00 ΣΩ.
+203.01@grc ἦ πολύ μοι διὰ βραχυτέρων, ὦ Εὐθύφρων, εἰ ἐβούλου, εἶπες ἂν τὸ κεφάλαιον ὧν ἠρώτων·
+203.01@en You might, if you wished, Euthyphro, have answered much more briefly the chief part of my question.
+203.02@grc ἀλλὰ γὰρ οὐ {14c} πρόθυμός με εἶ διδάξαι —
+203.02@en But it is plain that you do not care to instruct me.
+203.03@grc δῆλος εἶ.
+203.03@en 
+203.04@grc καὶ γὰρ νῦν ἐπειδὴ ἐπ’ αὐτῷ ἦσθα ἀπετράπου, ὃ εἰ ἀπεκρίνω, ἱκανῶς ἂν ἤδη παρὰ σοῦ τὴν ὁσιότητα ἐμεμαθήκη.
+203.04@en For now, when you were close upon it you turned aside; and if you had answered it, I should already have obtained from you all the instruction I need about holiness.
+203.05@grc νῦν δὲ ἀνάγκη γὰρ τὸν ἐρῶντα τῷ ἐρωμένῳ ἀκολουθεῖν ὅπῃ ἂν ἐκεῖνος ὑπάγῃ, τί δὴ αὖ λέγεις τὸ ὅσιον εἶναι καὶ τὴν ὁσιότητα;
+203.05@en But, as things are, the questioner must follow the one questioned wherever he leads. What do you say the holy, or holiness, is?
+203.06@grc οὐχὶ ἐπιστήμην τινὰ τοῦ θύειν τε καὶ εὔχεσθαι;
+203.06@en Do you not say that it is a kind of science of sacrificing and praying?
+
+204.00 ΕΥΘ.
+204.01@grc ἔγωγε.
+204.01@en Yes.
+
+205.00 ΣΩ.
+205.01@grc οὐκοῦν τὸ θύειν δωρεῖσθαί ἐστι τοῖς θεοῖς, τὸ δ’ εὔχεσθαι αἰτεῖν τοὺς θεούς;
+205.01@en And sacrificing is making gifts to the gods and praying is asking from them?
+
+206.00 ΕΥΘ.
+206.01@grc καὶ μάλα, ὦ Σώκρατες.
+206.01@en Exactly, Socrates.
+
+207.00 {14d} ΣΩ.
+207.01@grc ἐπιστήμη ἄρα αἰτήσεως καὶ δόσεως θεοῖς ὁσιότης ἂν εἴη ἐκ τούτου τοῦ λόγου.
+207.01@en Then holiness, according to this definition, would be a science of giving and asking.
+
+208.00 ΕΥΘ.
+208.01@grc πάνυ καλῶς, ὦ Σώκρατες, συνῆκας ὃ εἶπον.
+208.01@en You understand perfectly what I said, Socrates.
+
+209.00 ΣΩ.
+209.01@grc ἐπιθυμητὴς γάρ εἰμι, ὦ φίλε, τῆς σῆς σοφίας καὶ προσέχω τὸν νοῦν αὐτῇ, ὥστε οὐ χαμαὶ πεσεῖται ὅτι ἂν εἴπῃς.
+209.01@en Yes, my friend, for I am eager for your wisdom, and give my mind to it, so that nothing you say shall fall to the ground.
+209.02@grc ἀλλά μοι λέξον τίς αὕτη ἡ ὑπηρεσία ἐστὶ τοῖς θεοῖς;
+209.02@en But tell me, what is this service of the gods?
+209.03@grc αἰτεῖν τε φῂς αὐτοὺς καὶ διδόναι ἐκείνοις;
+209.03@en Do you say that it consists in asking from them and giving to them?
+
+210.00 ΕΥΘ.
+210.01@grc ἔγωγε.
+210.01@en Yes.
+
+211.00 ΣΩ.
+211.01@grc ἆρ’ οὖν οὐ τό γε ὀρθῶς αἰτεῖν ἂν εἴη ὧν δεόμεθα παρ’ ἐκείνων, ταῦτα αὐτοὺς αἰτεῖν;
+211.01@en Would not the right way of asking be to ask of them what we need from them?
+
+212.00 ΕΥΘ.
+212.01@grc ἀλλὰ τί;
+212.01@en What else?
+
+213.00 {14e} ΣΩ.
+213.01@grc καὶ αὖ τὸ διδόναι ὀρθῶς, ὧν ἐκεῖνοι τυγχάνουσιν δεόμενοι παρ’ ἡμῶν, ταῦτα ἐκείνοις αὖ ἀντιδωρεῖσθαι;
+213.01@en And the right way of giving, to present them with what they need from us?
+213.02@grc οὐ γάρ που τεχνικόν γ’ ἂν εἴη δωροφορεῖν διδόντα τῳ ταῦτα ὧν οὐδὲν δεῖται.
+213.02@en For it would not be scientific giving to give anyone what he does not need.
+
+214.00 ΕΥΘ.
+214.01@grc ἀληθῆ λέγεις, ὦ Σώκρατες.
+214.01@en You are right, Socrates.
+
+215.00 ΣΩ.
+215.01@grc ἐμπορικὴ ἄρα τις ἂν εἴη, ὦ Εὐθύφρων, τέχνη ἡ ὁσιότης θεοῖς καὶ ἀνθρώποις παρ’ ἀλλήλων.
+215.01@en Then holiness would be an art of barter between gods and men?
+
+216.00 ΕΥΘ.
+216.01@grc ἐμπορική, εἰ οὕτως ἥδιόν σοι ὀνομάζειν.
+216.01@en Yes, of barter, if you like to call it so.
+
+217.00 ΣΩ.
+217.01@grc ἀλλ’ οὐδὲν ἥδιον ἔμοιγε, εἰ μὴ τυγχάνει ἀληθὲς ὄν.
+217.01@en I don’t like to call it so, if it is not true.
+217.02@grc φράσον δέ μοι, τίς ἡ ὠφελία τοῖς θεοῖς τυγχάνει οὖσα ἀπὸ τῶν δώρων ὧν παρ’ ἡμῶν λαμβάνουσιν;
+217.02@en But tell me, what advantage accrues to the gods from the gifts they get from us?
+217.03@grc ἃ μὲν γὰρ διδόασι {15a} παντὶ δῆλον·
+217.03@en For everybody knows what they give,
+217.04@grc οὐδὲν γὰρ ἡμῖν ἐστιν ἀγαθὸν ὅτι ἂν μὴ ἐκεῖνοι δῶσιν.
+217.04@en since we have nothing good which they do not give.
+217.05@grc ἃ δὲ παρ’ ἡμῶν λαμβάνουσιν, τί ὠφελοῦνται;
+217.05@en But what advantage do they derive from what they get from us?
+217.06@grc ἢ τοσοῦτον αὐτῶν πλεονεκτοῦμεν κατὰ τὴν ἐμπορίαν, ὥστε πάντα τὰ ἀγαθὰ παρ’ αὐτῶν λαμβάνομεν, ἐκεῖνοι δὲ παρ’ ἡμῶν οὐδέν;
+217.06@en Or have we so much the better of them in our bartering that we get all good things from them and they nothing from us?
+
+218.00 ΕΥΘ.
+218.01@grc ἀλλ’ οἴει, ὦ Σώκρατες, τοὺς θεοὺς ὠφελεῖσθαι ἀπὸ τούτων ἃ παρ’ ἡμῶν λαμβάνουσιν;
+218.01@en Why you don’t suppose, Socrates, that the gods gain any advantage from what they get from us, do you?
+
+219.00 ΣΩ.
+219.01@grc ἀλλὰ τί δήποτ’ ἂν εἴη ταῦτα, ὦ Εὐθύφρων, τὰ παρ’ ἡμῶν δῶρα τοῖς θεοῖς;
+219.01@en Well then, what would those gifts of ours to the gods be?
+
+220.00 ΕΥΘ.
+220.01@grc τί δ’ οἴει ἄλλο ἢ τιμή τε καὶ γέρα καί, ὅπερ ἐγὼ ἄρτι ἔλεγον, χάρις;
+220.01@en What else than honor and praise, and, as I said before, gratitude?
+
+221.00 {15b} ΣΩ.
+221.01@grc κεχαρισμένον ἄρα ἐστίν, ὦ Εὐθύφρων, τὸ ὅσιον, ἀλλ’ οὐχὶ ὠφέλιμον οὐδὲ φίλον τοῖς θεοῖς;
+221.01@en Then, Euthyphro, holiness is grateful to the gods, but not advantageous or precious to the gods?
+
+222.00 ΕΥΘ.
+222.01@grc οἶμαι ἔγωγε πάντων γε μάλιστα φίλον.
+222.01@en I think it is precious, above all things.
+
+223.00 ΣΩ.
+223.01@grc τοῦτο ἄρ’ ἐστὶν αὖ, ὡς ἔοικε, τὸ ὅσιον, τὸ τοῖς θεοῖς φίλον.
+223.01@en Then again, it seems, holiness is that which is precious to the gods.
+
+224.00 ΕΥΘ.
+224.01@grc μάλιστά γε.
+224.01@en Certainly.
+
+225.00 ΣΩ.
+225.01@grc θαυμάσῃ οὖν ταῦτα λέγων ἐάν σοι οἱ λόγοι φαίνωνται μὴ μένοντες ἀλλὰ βαδίζοντες, καὶ ἐμὲ αἰτιάσῃ τὸν Δαίδαλον βαδίζοντας αὐτοὺς ποιεῖν, αὐτὸς ὢν πολύ γε τεχνικώτερος τοῦ Δαιδάλου καὶ κύκλῳ περιιόντα ποιῶν;
+225.01@en Then will you be surprised, since you say this, if your words do not remain fixed but walk about, and will you accuse me of being the Daedalus who makes them walk, when you are yourself much more skilful than Daedalus and make them go round in a circle?
+225.02@grc ἢ οὐκ αἰσθάνῃ ὅτι ὁ λόγος ἡμῖν περιελθὼν πάλιν εἰς ταὐτὸν {15c} ἥκει;
+225.02@en Or do you not see that our definition has come round to the point from which it started?
+225.03@grc μέμνησαι γάρ που ὅτι ἐν τῷ πρόσθεν τό τε ὅσιον καὶ τὸ θεοφιλὲς οὐ ταὐτὸν ἡμῖν ἐφάνη ἀλλ’ ἕτερα ἀλλήλων·
+225.03@en For you remember, I suppose, that a while ago we found that holiness and what is dear to the gods were not the same, but different from each other;
+225.04@grc ἢ οὐ μέμνησαι;
+225.04@en or do you not remember?
+
+226.00 ΕΥΘ.
+226.01@grc ἔγωγε.
+226.01@en Yes, I remember.
+
+227.00 ΣΩ.
+227.01@grc νῦν οὖν οὐκ ἐννοεῖς ὅτι τὸ τοῖς θεοῖς φίλον φῂς ὅσιον εἶναι;
+227.01@en Then don’t you see that now you say that what is precious to the gods is holy?
+227.02@grc τοῦτο δ’ ἄλλο τι ἢ θεοφιλὲς γίγνεται;
+227.02@en And is not this what is dear to the gods?
+227.03@grc ἢ οὔ;
+227.03@en
+
+228.00 ΕΥΘ.
+228.01@grc πάνυ γε.
+228.01@en Certainly.
+
+229.00 ΣΩ.
+229.01@grc οὐκοῦν ἢ ἄρτι οὐ καλῶς ὡμολογοῦμεν, ἢ εἰ τότε καλῶς, νῦν οὐκ ὀρθῶς τιθέμεθα.
+229.01@en Then either our agreement a while ago was wrong, or if that was right, we are wrong now.
+
+230.00 ΕΥΘ.
+230.01@grc ἔοικεν.
+230.01@en So it seems.
+
+
+231.00 ΣΩ.
+231.01@grc ἐξ ἀρχῆς ἄρα ἡμῖν πάλιν σκεπτέον τί ἐστι τὸ ὅσιον, ὡς ἐγὼ πρὶν ἂν μάθω ἑκὼν εἶναι οὐκ ἀποδειλιάσω.
+231.01@en Then we must begin again at the beginning and ask what holiness is. Since I shall not willingly give up until I learn.
+231.02@grc {15d} ἀλλὰ μή με ἀτιμάσῃς ἀλλὰ παντὶ τρόπῳ προσσχὼν τὸν νοῦν ὅτι μάλιστα νῦν εἰπὲ τὴν ἀλήθειαν·
+231.02@en And do not scorn me, but by all means apply your mind now to the utmost and tell me the truth;
+231.03@grc οἶσθα γὰρ εἴπερ τις ἄλλος ἀνθρώπων, καὶ οὐκ ἀφετέος εἶ ὥσπερ ὁ Πρωτεὺς πρὶν ἂν εἴπῃς.
+231.03@en for you know, if anyone does, and like Proteus, you must be held until you speak.
+231.04@grc εἰ γὰρ μὴ ᾔδησθα σαφῶς τό τε ὅσιον καὶ τὸ ἀνόσιον, οὐκ ἔστιν ὅπως ἄν ποτε ἐπεχείρησας ὑπὲρ ἀνδρὸς θητὸς ἄνδρα πρεσβύτην πατέρα διωκάθειν φόνου, ἀλλὰ καὶ τοὺς θεοὺς ἂν ἔδεισας παρακινδυνεύειν μὴ οὐκ ὀρθῶς αὐτὸ ποιήσοις, καὶ τοὺς ἀνθρώπους ᾐσχύνθης·
+231.04@en For if you had not clear knowledge of holiness and unholiness, you would surely not have undertaken to prosecute your aged father for murder for the sake of a servant. You would have been afraid to risk the anger of the gods, in case your conduct should be wrong, and would have been ashamed in the sight of men.
+231.05@grc νῦν δὲ εὖ οἶδα ὅτι {15e} σαφῶς οἴει εἰδέναι τό τε ὅσιον καὶ μή.
+231.05@en But now I am sure you think you know what is holy and what is not.
+231.06@grc εἰπὲ οὖν, ὦ βέλτιστε Εὐθύφρων, καὶ μὴ ἀποκρύψῃ ὅτι αὐτὸ ἡγῇ.
+231.06@en So tell me, most excellent Euthyphro, and do not conceal your thought.
+
+232.00 ΕΥΘ.
+232.01@grc εἰς αὖθις τοίνυν, ὦ Σώκρατες·
+232.01@en Some other time.
+232.02@grc νῦν γὰρ σπεύδω ποι, καί μοι ὥρα ἀπιέναι.
+232.02@en Now I am in a hurry and it is time for me to go.
+
+233.00 ΣΩ.
+233.01@grc οἷα ποιεῖς, ὦ ἑταῖρε.
+233.01@en Oh my friend, what are you doing? 
+233.02@grc ἀπ’ ἐλπίδος με καταβαλὼν μεγάλης ἀπέρχῃ ἣν εἶχον, ὡς παρὰ σοῦ μαθὼν τά τε ὅσια καὶ μὴ καὶ τῆς πρὸς Μέλητον γραφῆς ἀπαλλάξομαι, ἐνδειξάμενος {16a} ἐκείνῳ ὅτι σοφὸς ἤδη παρ’ Εὐθύφρονος τὰ θεῖα γέγονα καὶ ὅτι οὐκέτι ὑπ’ ἀγνοίας αὐτοσχεδιάζω οὐδὲ καινοτομῶ περὶ αὐτά, καὶ δὴ καὶ τὸν ἄλλον βίον ὅτι ἄμεινον βιωσοίμην.
+233.02@en You go away and leave me cast down from the high hope I had that I should learn from you what is holy, and what is not, and should get rid of Meletus’s indictment by showing him that I have been made wise by Euthyphro about divine matters and am no longer through ignorance acting carelessly and making innovations in respect to them, and that I shall live a better life henceforth.
