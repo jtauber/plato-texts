@@ -1,0 +1,1142 @@
+001.01.01@grc {17a} ὅτι μὲν ὑμεῖς, ὦ ἄνδρες Ἀθηναῖοι, πεπόνθατε ὑπὸ τῶν ἐμῶν κατηγόρων, οὐκ οἶδα·
+001.01.01@en {sp1} {p} How you, men of {placeName} Athens {/placeName} , have been affected by my accusers, I do not know;
+001.01.02@grc ἐγὼ δ’ οὖν καὶ αὐτὸς ὑπ’ αὐτῶν ὀλίγου ἐμαυτοῦ ἐπελαθόμην, οὕτω πιθανῶς ἔλεγον.
+001.01.02@en but I, for my part, almost forgot my own identity, so persuasively did they talk;
+001.01.03@grc καίτοι ἀληθές γε ὡς ἔπος εἰπεῖν οὐδὲν εἰρήκασιν.
+001.01.03@en and yet there is hardly a word of truth in what they have said.
+001.01.04@grc μάλιστα δὲ αὐτῶν ἓν ἐθαύμασα τῶν πολλῶν ὧν ἐψεύσαντο, τοῦτο ἐν ᾧ ἔλεγον ὡς χρῆν ὑμᾶς εὐλαβεῖσθαι μὴ ὑπ’ ἐμοῦ ἐξαπατηθῆτε {17b} ὡς δεινοῦ ὄντος λέγειν.
+001.01.04@en But I was most amazed by one of the many lies that they told — when they said that you must be on your guard not to be deceived by me, because I was a clever speaker.
+001.01.05@grc τὸ γὰρ μὴ αἰσχυνθῆναι ὅτι αὐτίκα ὑπ’ ἐμοῦ ἐξελεγχθήσονται ἔργῳ, ἐπειδὰν μηδ’ ὁπωστιοῦν φαίνωμαι δεινὸς λέγειν, τοῦτό μοι ἔδοξεν αὐτῶν ἀναισχυντότατον εἶναι, εἰ μὴ ἄρα δεινὸν καλοῦσιν οὗτοι λέγειν τὸν τἀληθῆ λέγοντα·
+001.01.05@en For I thought it the most shameless part of their conduct that they are not ashamed because they will immediately be convicted by me of falsehood by the evidence of fact, when I show myself to be not in the least a clever speaker, unless indeed they call him a clever speaker who speaks the truth;
+001.01.06@grc εἰ μὲν γὰρ τοῦτο λέγουσιν, ὁμολογοίην ἂν ἔγωγε οὐ κατὰ τούτους εἶναι ῥήτωρ.
+001.01.06@en for if this is what they mean, I would agree that I am an orator — not after their fashion.
+001.01.07@grc οὗτοι μὲν οὖν, ὥσπερ ἐγὼ λέγω, ἤ τι ἢ οὐδὲν ἀληθὲς εἰρήκασιν, ὑμεῖς δέ μου ἀκούσεσθε πᾶσαν τὴν ἀλήθειαν —
+001.01.07@en Now they, as I say, have said little or nothing true; but you shall hear from me nothing but the truth.
+001.01.08@grc οὐ μέντοι μὰ Δία, ὦ ἄνδρες Ἀθηναῖοι, κεκαλλιεπημένους γε λόγους, ὥσπερ οἱ τούτων, {17c} ῥήμασί τε καὶ ὀνόμασιν οὐδὲ κεκοσμημένους, ἀλλ’ ἀκούσεσθε εἰκῇ λεγόμενα τοῖς ἐπιτυχοῦσιν ὀνόμασιν —
+001.01.08@en Not, however, men of {placeName} Athens {/placeName} , speeches finely tricked out with words and phrases, as theirs are, nor carefully arranged, but you will hear things said at random with the words that happen to occur to me.
+001.01.09@grc πιστεύω γὰρ δίκαια εἶναι ἃ λέγω —
+001.01.09@en For I trust that what I say is just;
+001.01.10@grc καὶ μηδεὶς ὑμῶν προσδοκησάτω ἄλλως·
+001.01.10@en and let none of you expect anything else.
+001.01.11@grc οὐδὲ γὰρ ἂν δήπου πρέποι, ὦ ἄνδρες, τῇδε τῇ ἡλικίᾳ ὥσπερ μειρακίῳ πλάττοντι λόγους εἰς ὑμᾶς εἰσιέναι.
+001.01.11@en For surely it would not be fitting for one of my age to come before you like a youngster making up speeches.
+001.01.12@grc καὶ μέντοι καὶ πάνυ, ὦ ἄνδρες Ἀθηναῖοι, τοῦτο ὑμῶν δέομαι καὶ παρίεμαι·
+001.01.12@en And, men of {placeName} Athens {/placeName} , I urgently beg and beseech you
+001.01.13@grc ἐὰν διὰ τῶν αὐτῶν λόγων ἀκούητέ μου ἀπολογουμένου δι’ ὧνπερ εἴωθα λέγειν καὶ ἐν ἀγορᾷ ἐπὶ τῶν τραπεζῶν, ἵνα ὑμῶν πολλοὶ ἀκηκόασι, καὶ ἄλλοθι, μήτε {17d} θαυμάζειν μήτε θορυβεῖν τούτου ἕνεκα.
+001.01.13@en if you hear me making my defence with the same words with which I have been accustomed to speak both in the market place at the bankers tables, where many of you have heard me, and elsewhere, not to be surprised or to make a disturbance on this account.
+001.01.14@grc ἔχει γὰρ οὑτωσί.
+001.01.14@en For the fact is that
+001.01.15@grc νῦν ἐγὼ πρῶτον ἐπὶ δικαστήριον ἀναβέβηκα, ἔτη γεγονὼς ἑβδομήκοντα·
+001.01.15@en this is the first time I have come before the court, although I am seventy years old;
+001.01.16@grc ἀτεχνῶς οὖν ξένως ἔχω τῆς ἐνθάδε λέξεως.
+001.01.16@en I am therefore an utter foreigner to the manner of speech here.
+001.01.17@grc ὥσπερ οὖν ἄν, εἰ τῷ ὄντι ξένος ἐτύγχανον ὤν, συνεγιγνώσκετε δήπου ἄν μοι εἰ ἐν ἐκείνῃ τῇ φωνῇ τε καὶ τῷ τρόπῳ {18a} ἔλεγον ἐν οἷσπερ ἐτεθράμμην, καὶ δὴ καὶ νῦν τοῦτο ὑμῶν δέομαι δίκαιον, ὥς γέ μοι δοκῶ, τὸν μὲν τρόπον τῆς λέξεως ἐᾶν —
+001.01.17@en Hence, just as you would, of course, if I were really a foreigner, pardon me if I spoke in that dialect and that manner in which I had been brought up, so now I make this request of you, a fair one, as it seems to me, that you disregard the manner of my speech —
+001.01.18@grc ἴσως μὲν γὰρ χείρων, ἴσως δὲ βελτίων ἂν εἴη —
+001.01.18@en for perhaps it might be worse and perhaps better —
+001.01.19@grc αὐτὸ δὲ τοῦτο σκοπεῖν καὶ τούτῳ τὸν νοῦν προσέχειν, εἰ δίκαια λέγω ἢ μή·
+001.01.19@en and observe and pay attention merely to this, whether what I say is just or not;
+001.01.20@grc δικαστοῦ μὲν γὰρ αὕτη ἀρετή, ῥήτορος δὲ τἀληθῆ λέγειν.
+001.01.20@en for that is the virtue of a judge, and an orator’s virtue is to speak the truth.
+
+001.02.01@grc πρῶτον μὲν οὖν δίκαιός εἰμι ἀπολογήσασθαι, ὦ ἄνδρες Ἀθηναῖοι, πρὸς τὰ πρῶτά μου ψευδῆ κατηγορημένα καὶ τοὺς πρώτους κατηγόρους, ἔπειτα δὲ πρὸς τὰ ὕστερον καὶ τοὺς {18b} ὑστέρους.
+001.02.01@en {p} First then it is right for me to defend myself against the first false accusations brought against me, and the first accusers, and then against the later accusations and the later accusers.
+001.02.02@grc ἐμοῦ γὰρ πολλοὶ κατήγοροι γεγόνασι πρὸς ὑμᾶς καὶ πάλαι πολλὰ ἤδη ἔτη καὶ οὐδὲν ἀληθὲς λέγοντες, οὓς ἐγὼ μᾶλλον φοβοῦμαι ἢ τοὺς ἀμφὶ Ἄνυτον, καίπερ ὄντας καὶ τούτους δεινούς·
+001.02.02@en For many accusers have risen up against me before you, who have been speaking for a long time, many years already, and saying nothing true; and I fear them more than Anytus and the rest, though these also are dangerous;
+001.02.03@grc ἀλλ’ ἐκεῖνοι δεινότεροι, ὦ ἄνδρες, οἳ ὑμῶν τοὺς πολλοὺς ἐκ παίδων παραλαμβάνοντες ἔπειθόν τε καὶ κατηγόρουν ἐμοῦ μᾶλλον οὐδὲν ἀληθές, ὡς ἔστιν τις Σωκράτης σοφὸς ἀνήρ, τά τε μετέωρα φροντιστὴς καὶ τὰ ὑπὸ γῆς πάντα ἀνεζητηκὼς καὶ τὸν ἥττω λόγον κρείττω {18c} ποιῶν.
+001.02.03@en but those others are more dangerous, gentlemen, who gained your belief, since they got hold of most of you in childhood, and accused me without any truth, saying, {q} There is a certain Socrates, a wise man, a ponderer over the things in the air and one who has investigated the things beneath the earth and who makes the weaker argument the stronger. {/q}
+001.02.04@grc οὗτοι, ὦ ἄνδρες Ἀθηναῖοι, {add} οἱ {/add} ταύτην τὴν φήμην κατασκεδάσαντες, οἱ δεινοί εἰσίν μου κατήγοροι·
+001.02.04@en These, men of {placeName} Athens {/placeName} , who have spread abroad this report, are my dangerous enemies.
+001.02.05@grc οἱ γὰρ ἀκούοντες ἡγοῦνται τοὺς ταῦτα ζητοῦντας οὐδὲ θεοὺς νομίζειν.
+001.02.05@en For those who hear them think that men who investigate these matters do not even believe in gods.
+001.02.06@grc ἔπειτά εἰσιν οὗτοι οἱ κατήγοροι πολλοὶ καὶ πολὺν χρόνον ἤδη κατηγορηκότες, ἔτι δὲ καὶ ἐν ταύτῃ τῇ ἡλικίᾳ λέγοντες πρὸς ὑμᾶς ἐν ᾗ ἂν μάλιστα ἐπιστεύσατε, παῖδες ὄντες ἔνιοι ὑμῶν καὶ μειράκια, ἀτεχνῶς ἐρήμην κατηγοροῦντες ἀπολογουμένου οὐδενός.
+001.02.06@en Besides, these accusers are many and have been making their accusations already for a long time, and moreover they spoke to you at an age at which you would believe them most readily (some of you in youth, most of you in childhood), and the case they prosecuted went utterly by default, since nobody appeared in defence.
+001.02.07@grc ὃ δὲ πάντων ἀλογώτατον, ὅτι οὐδὲ τὰ {18d} ὀνόματα οἷόν τε αὐτῶν εἰδέναι καὶ εἰπεῖν, πλὴν εἴ τις κωμῳδοποιὸς τυγχάνει ὤν.
+001.02.07@en But the most unreasonable thing of all is this, that it is not even possible to know and speak their names, except when one of them happens to be a writer of comedies.
+001.02.08@grc ὅσοι δὲ φθόνῳ καὶ διαβολῇ χρώμενοι ὑμᾶς ἀνέπειθον —
+001.02.08@en And all those who persuaded you by means of envy and slander —
+001.02.09@grc οἱ δὲ καὶ αὐτοὶ πεπεισμένοι ἄλλους πείθοντες —
+001.02.09@en and some also persuaded others because they had been themselves persuaded —
+001.02.10@grc οὗτοι πάντες ἀπορώτατοί εἰσιν·
+001.02.10@en all these are most difficult to cope with;
+001.02.11@grc οὐδὲ γὰρ ἀναβιβάσασθαι οἷόν τ’ ἐστὶν αὐτῶν ἐνταυθοῖ οὐδ’ ἐλέγξαι οὐδένα, ἀλλ’ ἀνάγκη ἀτεχνῶς ὥσπερ σκιαμαχεῖν ἀπολογούμενόν τε καὶ ἐλέγχειν μηδενὸς ἀποκρινομένου.
+001.02.11@en for it is not even possible to call any of them up here and cross-question him, but I am compelled in making my defence to fight, as it were, absolutely with shadows and to cross-question when nobody answers.
+001.02.12@grc ἀξιώσατε οὖν καὶ ὑμεῖς, ὥσπερ ἐγὼ λέγω, διττούς μου τοὺς κατηγόρους γεγονέναι, ἑτέρους μὲν τοὺς ἄρτι κατηγορήσαντας, ἑτέρους δὲ {18e} τοὺς πάλαι οὓς ἐγὼ λέγω, καὶ οἰήθητε δεῖν πρὸς ἐκείνους πρῶτόν με ἀπολογήσασθαι·
+001.02.12@en Be kind enough, then, to bear in mind, as I say, that there are two classes of my accusers — one those who have just brought their accusation, the other those who, as I was just saying, brought it long ago, and consider that I must defend myself first against the latter;
+001.02.13@grc καὶ γὰρ ὑμεῖς ἐκείνων πρότερον ἠκούσατε κατηγορούντων καὶ πολὺ μᾶλλον ἢ τῶνδε τῶν ὕστερον.
+001.02.13@en for you heard them making their charges first and with much greater force than these who made them later.
+
+001.03.01@grc εἶεν·
+001.03.01@en Well, then,
+001.03.02@grc ἀπολογητέον δή, ὦ ἄνδρες Ἀθηναῖοι, καὶ ἐπιχειρητέον {19a} ὑμῶν ἐξελέσθαι τὴν διαβολὴν ἣν ὑμεῖς ἐν πολλῷ χρόνῳ ἔσχετε ταύτην ἐν οὕτως ὀλίγῳ χρόνῳ.
+001.03.02@en I must make a defence, men of {placeName} Athens {/placeName} , and must try in so short a time to remove from you this prejudice which you have been for so long a time acquiring.
+001.03.03@grc βουλοίμην μὲν οὖν ἂν τοῦτο οὕτως γενέσθαι, εἴ τι ἄμεινον καὶ ὑμῖν καὶ ἐμοί, καὶ πλέον τί με ποιῆσαι ἀπολογούμενον·
+001.03.03@en Now I wish that this might turn out so, if it is better for you and for me, and that I might succeed with my defence;
+001.03.04@grc οἶμαι δὲ αὐτὸ χαλεπὸν εἶναι, καὶ οὐ πάνυ με λανθάνει οἷόν ἐστιν.
+001.03.04@en but I think it is difficult, and I am not at all deceived about its nature.
+001.03.05@grc ὅμως τοῦτο μὲν ἴτω ὅπῃ τῷ θεῷ φίλον, τῷ δὲ νόμῳ πειστέον καὶ ἀπολογητέον.
+001.03.05@en But nevertheless, let this be as is pleasing to God, the law must be obeyed and I must make a defence.
+
+001.04.01@grc ἀναλάβωμεν οὖν ἐξ ἀρχῆς τίς ἡ κατηγορία ἐστὶν ἐξ ἧς {19b} ἡ ἐμὴ διαβολὴ γέγονεν, ᾗ δὴ καὶ πιστεύων Μέλητός με ἐγράψατο τὴν γραφὴν ταύτην.
+001.04.01@en {p} Now let us take up from the beginning the question, what the accusation is from which the false prejudice against me has arisen, in which Meletus trusted when he brought this suit against me.
+001.04.02@grc εἶεν· τί δὴ λέγοντες διέβαλλον οἱ διαβάλλοντες;
+001.04.02@en What did those who aroused the prejudice say to arouse it?
+001.04.03@grc ὥσπερ οὖν κατηγόρων τὴν ἀντωμοσίαν δεῖ ἀναγνῶναι αὐτῶν·
+001.04.03@en I must, as it were, read their sworn statement as if they were plaintiffs:
+001.04.04@grc {q} Σωκράτης ἀδικεῖ καὶ περιεργάζεται ζητῶν τά τε ὑπὸ γῆς καὶ οὐράνια καὶ τὸν ἥττω λόγον κρείττω {19c} ποιῶν καὶ ἄλλους ταὐτὰ ταῦτα διδάσκων. {/q}
+001.04.04@en {q} Socrates is a criminal and a busybody, investigating the things beneath the earth and in the heavens and making the weaker argument stronger and teaching others these same things.
+001.04.05@grc τοιαύτη τίς ἐστιν·
+001.04.05@en {/q} Something of that sort it is.
+001.04.06@grc ταῦτα γὰρ ἑωρᾶτε καὶ αὐτοὶ ἐν τῇ Ἀριστοφάνους κωμῳδίᾳ, Σωκράτη τινὰ ἐκεῖ περιφερόμενον, φάσκοντά τε ἀεροβατεῖν καὶ ἄλλην πολλὴν φλυαρίαν φλυαροῦντα, ὧν ἐγὼ οὐδὲν οὔτε μέγα οὔτε μικρὸν πέρι ἐπαΐω.
+001.04.06@en For you yourselves saw these things in Aristophanes’ comedy, a Socrates being carried about there, proclaiming that he was treading on air and uttering a vast deal of other nonsense, about which I know nothing, either much or little.
+001.04.07@grc καὶ οὐχ ὡς ἀτιμάζων λέγω τὴν τοιαύτην ἐπιστήμην, εἴ τις περὶ τῶν τοιούτων σοφός ἐστιν —
+001.04.07@en And I say this, not to cast dishonor upon such knowledge, if anyone is wise about such matters
+001.04.08@grc μή πως ἐγὼ ὑπὸ Μελήτου τοσαύτας δίκας φεύγοιμι —
+001.04.08@en (may I never have to defend myself against Meletus on so great a charge as that!), —
+001.04.09@grc ἀλλὰ γὰρ ἐμοὶ τούτων, ὦ ἄνδρες Ἀθηναῖοι, οὐδὲν μέτεστιν.
+001.04.09@en but I, men of {placeName} Athens {/placeName} , have nothing to do with these things.
+001.04.10@grc {19d} μάρτυρας δὲ αὖ ὑμῶν τοὺς πολλοὺς παρέχομαι, καὶ ἀξιῶ ὑμᾶς ἀλλήλους διδάσκειν τε καὶ φράζειν, ὅσοι ἐμοῦ πώποτε ἀκηκόατε διαλεγομένου —
+001.04.10@en And I offer as witnesses most of yourselves, and I ask you to inform one another and to tell, all those of you who ever heard me conversing —
+001.04.11@grc πολλοὶ δὲ ὑμῶν οἱ τοιοῦτοί εἰσιν —
+001.04.11@en and there are many such among you —
+001.04.12@grc φράζετε οὖν ἀλλήλοις εἰ πώποτε ἢ μικρὸν ἢ μέγα ἤκουσέ τις ὑμῶν ἐμοῦ περὶ τῶν τοιούτων διαλεγομένου, καὶ ἐκ τούτου γνώσεσθε ὅτι τοιαῦτ’ ἐστὶ καὶ τἆλλα περὶ ἐμοῦ ἃ οἱ πολλοὶ λέγουσιν.
+001.04.12@en now tell, if anyone ever heard me talking much or little about such matters. And from this you will perceive that such are also the other things that the multitude say about me.
+
+001.05.01@grc ἀλλὰ γὰρ οὔτε τούτων οὐδέν ἐστιν, οὐδέ γ’ εἴ τινος ἀκηκόατε ὡς ἐγὼ παιδεύειν ἐπιχειρῶ ἀνθρώπους καὶ χρήματα {19e} πράττομαι, οὐδὲ τοῦτο ἀληθές.
+001.05.01@en {p} But in fact none of these things are true, and if you have heard from anyone that I undertake to teach people and that I make money by it, that is not true either.
+001.05.02@grc ἐπεὶ καὶ τοῦτό γέ μοι δοκεῖ καλὸν εἶναι, εἴ τις οἷός τ’ εἴη παιδεύειν ἀνθρώπους ὥσπερ Γοργίας τε ὁ Λεοντῖνος καὶ Πρόδικος ὁ Κεῖος καὶ Ἱππίας ὁ Ἠλεῖος.
+001.05.02@en Although this also seems to me to be a fine thing, if one might be able to teach people, as Gorgias of Leontini and Prodicus of {placeName} Ceos {/placeName} and Hippias of {placeName} Elis {/placeName} are.
+001.05.03@grc τούτων γὰρ ἕκαστος, ὦ ἄνδρες, οἷός τ’ ἐστὶν ἰὼν εἰς ἑκάστην τῶν πόλεων τοὺς νέους —
+001.05.03@en For each of these men, gentlemen, is able to go into any one of the cities and persuade the young men,
+001.05.04@grc οἷς ἔξεστι τῶν ἑαυτῶν πολιτῶν προῖκα συνεῖναι ᾧ ἂν βούλωνται —
+001.05.04@en who can associate for nothing with whomsoever they wish among their own fellow citizens,
+001.05.05@grc τούτους πείθουσι {20a} τὰς ἐκείνων συνουσίας ἀπολιπόντας σφίσιν συνεῖναι χρήματα διδόντας καὶ χάριν προσειδέναι.
+001.05.05@en to give up the association with those men and to associate with them and pay them money and be grateful besides.
+001.05.06@grc ἐπεὶ καὶ ἄλλος ἀνήρ ἐστι Πάριος ἐνθάδε σοφὸς ὃν ἐγὼ ᾐσθόμην ἐπιδημοῦντα·
+001.05.06@en {p} And there is also another wise man here, a Parian, who I learned was in town;
+001.05.07@grc ἔτυχον γὰρ προσελθὼν ἀνδρὶ ὃς τετέλεκε χρήματα σοφισταῖς πλείω ἢ σύμπαντες οἱ ἄλλοι, Καλλίᾳ τῷ Ἱππονίκου·
+001.05.07@en for I happened to meet a man who has spent more on sophists than all the rest, Callias, the son of Hipponicus;
+001.05.08@grc τοῦτον οὖν ἀνηρόμην —
+001.05.08@en so I asked him —
+001.05.09@grc ἐστὸν γὰρ αὐτῷ δύο ὑεῖ —
+001.05.09@en for he has two sons —
+001.05.10@grc {q} ὦ Καλλία, {/q} ἦν δ’ ἐγώ, {q} εἰ μέν σου τὼ ὑεῖ πώλω ἢ μόσχω ἐγενέσθην, εἴχομεν ἂν αὐτοῖν ἐπιστάτην λαβεῖν καὶ μισθώσασθαι ὃς {20b} ἔμελλεν αὐτὼ καλώ τε κἀγαθὼ ποιήσειν τὴν προσήκουσαν ἀρετήν, ἦν δ’ ἂν οὗτος ἢ τῶν ἱππικῶν τις ἢ τῶν γεωργικῶν·
+001.05.10@en {q} Callias, {/q} said I, {q} if your two sons had happened to be two colts or two calves, we should be able to get and hire for them an overseer who would make them excellent in the kind of excellence proper to them; and he would be a horse-trainer or a husbandman;
+001.05.11@grc νῦν δ’ ἐπειδὴ ἀνθρώπω ἐστόν, τίνα αὐτοῖν ἐν νῷ ἔχεις ἐπιστάτην λαβεῖν;
+001.05.11@en but now, since they are two human beings, whom have you in mind to get as overseer?
+001.05.12@grc τίς τῆς τοιαύτης ἀρετῆς, τῆς ἀνθρωπίνης τε καὶ πολιτικῆς, ἐπιστήμων ἐστίν;
+001.05.12@en Who has knowledge of that kind of excellence, that of a man and a citizen?
+001.05.13@grc οἶμαι γάρ σε ἐσκέφθαι διὰ τὴν τῶν ὑέων κτῆσιν.
+001.05.13@en For I think you have looked into the matter, because you have the sons.
+001.05.14@grc ἔστιν τις, {/q} ἔφην ἐγώ, {q} ἢ οὔ; {/q}
+001.05.14@en Is there anyone, {/q} said I, {q} or not? {/q}
+001.05.15@grc {q} πάνυ γε, {/q} ἦ δ’ ὅς.
+001.05.15@en {q} Certainly, {/q} said he.
+001.05.16@grc {q} τίς, {/q} ἦν δ’ ἐγώ, {q} καὶ ποδαπός, καὶ πόσου διδάσκει; {/q}
+001.05.16@en {q} Who, {/q} said I, {q} and where from, and what is his price for his teaching? {/q}
+001.05.17@grc {q} Εὔηνος, {/q} ἔφη, {q} ὦ Σώκρατες, Πάριος, πέντε μνῶν. {/q}
+001.05.17@en {q} Evenus, {/q} he said, {q} Socrates, from {placeName} Paros {/placeName} , five minae. {/q}
+001.05.18@grc καὶ ἐγὼ τὸν Εὔηνον ἐμακάρισα εἰ ὡς ἀληθῶς {20c} ἔχοι ταύτην τὴν τέχνην καὶ οὕτως ἐμμελῶς διδάσκει.
+001.05.18@en And I called Evenus blessed, if he really had this art and taught so reasonably.
+001.05.19@grc ἐγὼ γοῦν καὶ αὐτὸς ἐκαλλυνόμην τε καὶ ἡβρυνόμην ἂν εἰ ἠπιστάμην ταῦτα·
+001.05.19@en I myself should be vain and put on airs, if I understood these things;
+001.05.20@grc ἀλλ’ οὐ γὰρ ἐπίσταμαι, ὦ ἄνδρες Ἀθηναῖοι.
+001.05.20@en but I do not understand them, men of {placeName} Athens {/placeName} .
+
+001.06.01@grc ὑπολάβοι ἂν οὖν τις ὑμῶν ἴσως·
+001.06.01@en {p} Now perhaps someone might rejoin:
+001.06.02@grc {q} ἀλλ’, ὦ Σώκρατες, τὸ σὸν τί ἐστι πρᾶγμα;
+001.06.02@en {q} But, Socrates, what is the trouble about you?
+001.06.03@grc πόθεν αἱ διαβολαί σοι αὗται γεγόνασιν;
+001.06.03@en Whence have these prejudices against you arisen?
+001.06.04@grc οὐ γὰρ δήπου σοῦ γε οὐδὲν τῶν ἄλλων περιττότερον πραγματευομένου ἔπειτα τοσαύτη φήμη τε καὶ λόγος γέγονεν, εἰ μή τι ἔπραττες ἀλλοῖον ἢ οἱ πολλοί.
+001.06.04@en For certainly this great report and talk has not arisen while you were doing nothing more out of the way than the rest, unless you were doing something other than most people;
+001.06.05@grc λέγε οὖν ἡμῖν τί {20d} ἐστιν, ἵνα μὴ ἡμεῖς περὶ σοῦ αὐτοσχεδιάζωμεν. {/q}
+001.06.05@en so tell us what it is, that we may not act unadvisedly in your case. {/q}
+001.06.06@grc ταυτί μοι δοκεῖ δίκαια λέγειν ὁ λέγων, κἀγὼ ὑμῖν πειράσομαι ἀποδεῖξαι τί ποτ’ ἐστὶν τοῦτο ὃ ἐμοὶ πεποίηκεν τό τε ὄνομα καὶ τὴν διαβολήν.
+001.06.06@en The man who says this seems to me to be right, and I will try to show you what it is that has brought about my reputation and aroused the prejudice against me.
+001.06.07@grc ἀκούετε δή.
+001.06.07@en So listen.
+001.06.08@grc καὶ ἴσως μὲν δόξω τισὶν ὑμῶν παίζειν·
+001.06.08@en And perhaps I shall seem to some of you to be joking;
+001.06.09@grc εὖ μέντοι ἴστε, πᾶσαν ὑμῖν τὴν ἀλήθειαν ἐρῶ.
+001.06.09@en be assured, however, I shall speak perfect truth to you.
+001.06.10@grc ἐγὼ γάρ, ὦ ἄνδρες Ἀθηναῖοι, δι’ οὐδὲν ἀλλ’ ἢ διὰ σοφίαν τινὰ τοῦτο τὸ ὄνομα ἔσχηκα.
+001.06.10@en {p} The fact is, men of {placeName} Athens {/placeName} , that I have acquired this reputation on account of nothing else than a sort of wisdom.
+001.06.11@grc ποίαν δὴ σοφίαν ταύτην;
+001.06.11@en What kind of wisdom is this?
+001.06.12@grc ἥπερ ἐστὶν ἴσως ἀνθρωπίνη σοφία·
+001.06.12@en Just that which is perhaps human wisdom.
+001.06.13@grc τῷ ὄντι γὰρ κινδυνεύω ταύτην εἶναι σοφός.
+001.06.13@en For perhaps I really am wise in this wisdom;
+001.06.14@grc οὗτοι δὲ τάχ’ ἄν, οὓς ἄρτι {20e} ἔλεγον, μείζω τινὰ ἢ κατ’ ἄνθρωπον σοφίαν σοφοὶ εἶεν, ἢ οὐκ ἔχω τί λέγω·
+001.06.14@en and these men, perhaps, of whom I was just speaking, might be wise in some wisdom greater than human, or I don’t know what to say;
+001.06.15@grc οὐ γὰρ δὴ ἔγωγε αὐτὴν ἐπίσταμαι, ἀλλ’ ὅστις φησὶ ψεύδεταί τε καὶ ἐπὶ διαβολῇ τῇ ἐμῇ λέγει.
+001.06.15@en for I do not understand it, and whoever says I do, is lying and speaking to arouse prejudice against me.
+001.06.16@grc καί μοι, ὦ ἄνδρες Ἀθηναῖοι, μὴ θορυβήσητε, μηδ’ ἐὰν δόξω τι ὑμῖν μέγα λέγειν·
+001.06.16@en And, men of {placeName} Athens {/placeName} , do not interrupt me with noise, even if I seem to you to be boasting;
+001.06.17@grc οὐ γὰρ ἐμὸν ἐρῶ τὸν λόγον ὃν ἂν λέγω, ἀλλ’ εἰς ἀξιόχρεων ὑμῖν τὸν λέγοντα ἀνοίσω.
+001.06.17@en for the word which I speak is not mine, but the speaker to whom I shall refer it is a person of weight.
+001.06.18@grc τῆς γὰρ ἐμῆς, εἰ δή τίς ἐστιν σοφία καὶ οἵα, μάρτυρα ὑμῖν παρέξομαι τὸν θεὸν τὸν ἐν Δελφοῖς.
+001.06.18@en For of my wisdom — if it is wisdom at all — and of its nature, I will offer you the god of {placeName} Delphi {/placeName} as a witness.
+001.06.19@grc Χαιρεφῶντα γὰρ ἴστε που.
+001.06.19@en You know Chaerephon, I fancy.
+001.06.20@grc οὗτος {21a} ἐμός τε ἑταῖρος ἦν ἐκ νέου καὶ ὑμῶν τῷ πλήθει ἑταῖρός τε καὶ συνέφυγε τὴν φυγὴν ταύτην καὶ μεθ’ ὑμῶν κατῆλθε.
+001.06.20@en He was my comrade from a youth and the comrade of your democratic party, and shared in the recent exile and came back with you.
+001.06.21@grc καὶ ἴστε δὴ οἷος ἦν Χαιρεφῶν, ὡς σφοδρὸς ἐφ’ ὅτι ὁρμήσειεν.
+001.06.21@en And you know the kind of man Chaerephon was, how impetuous in whatever he undertook.
+001.06.22@grc καὶ δή ποτε καὶ εἰς Δελφοὺς ἐλθὼν ἐτόλμησε τοῦτο μαντεύσασθαι —
+001.06.22@en Well, once he went to {placeName} Delphi {/placeName} and made so bold as to ask the oracle this question;
+001.06.23@grc καί, ὅπερ λέγω, μὴ θορυβεῖτε, ὦ ἄνδρες —
+001.06.23@en and, gentlemen, don’t make a disturbance at what I say;
+001.06.24@grc ἤρετο γὰρ δὴ εἴ τις ἐμοῦ εἴη σοφώτερος.
+001.06.24@en for he asked if there were anyone wiser than I.
+001.06.25@grc ἀνεῖλεν οὖν ἡ Πυθία μηδένα σοφώτερον εἶναι.
+001.06.25@en Now the Pythia replied that there was no one wiser.
+001.06.26@grc καὶ τούτων πέρι ὁ ἀδελφὸς ὑμῖν αὐτοῦ οὑτοσὶ μαρτυρήσει, ἐπειδὴ ἐκεῖνος τετελεύτηκεν.
+001.06.26@en And about these things his brother here will bear you witness, since Chaerephon is dead.
+
+001.07.01@grc {21b} σκέψασθε δὴ ὧν ἕνεκα ταῦτα λέγω·
+001.07.01@en But see why I say these things;
+001.07.02@grc μέλλω γὰρ ὑμᾶς διδάξειν ὅθεν μοι ἡ διαβολὴ γέγονεν.
+001.07.02@en for I am going to tell you whence the prejudice against me has arisen.
+001.07.03@grc ταῦτα γὰρ ἐγὼ ἀκούσας ἐνεθυμούμην οὑτωσί·
+001.07.03@en For when I heard this, I thought to myself:
+001.07.04@grc {q} τί ποτε λέγει ὁ θεός, καὶ τί ποτε αἰνίττεται;
+001.07.04@en {q} What in the world does the god mean, and what riddle is he propounding?
+001.07.05@grc ἐγὼ γὰρ δὴ οὔτε μέγα οὔτε σμικρὸν σύνοιδα ἐμαυτῷ σοφὸς ὤν·
+001.07.05@en For I am conscious that I am not wise either much or little.
+001.07.06@grc τί οὖν ποτε λέγει φάσκων ἐμὲ σοφώτατον εἶναι;
+001.07.06@en What then does he mean by declaring that I am the wisest?
+001.07.07@grc οὐ γὰρ δήπου ψεύδεταί γε·
+001.07.07@en He certainly cannot be lying,
+001.07.08@grc οὐ γὰρ θέμις αὐτῷ. {/q}
+001.07.08@en for that is not possible for him. {/q}
+001.07.09@grc καὶ πολὺν μὲν χρόνον ἠπόρουν τί ποτε λέγει·
+001.07.09@en And for a long time I was at a loss as to what he meant;
+001.07.10@grc ἔπειτα μόγις πάνυ ἐπὶ ζήτησιν αὐτοῦ τοιαύτην τινὰ ἐτραπόμην.
+001.07.10@en then with great reluctance I proceeded to investigate him somewhat as follows.
+001.07.11@grc ἦλθον ἐπί τινα τῶν δοκούντων σοφῶν εἶναι, ὡς {21c} ἐνταῦθα εἴπερ που ἐλέγξων τὸ μαντεῖον καὶ ἀποφανῶν τῷ χρησμῷ ὅτι {q} οὑτοσὶ ἐμοῦ σοφώτερός ἐστι, σὺ δ’ ἐμὲ ἔφησθα. {/q}
+001.07.11@en {p} I went to one of those who had a reputation for wisdom, thinking that there, if anywhere, I should prove the utterance wrong and should show the oracle {q} This man is wiser than I, but you said I was wisest. {/q}
+001.07.12@grc διασκοπῶν οὖν τοῦτον —
+001.07.12@en So examining this man —
+001.07.13@grc ὀνόματι γὰρ οὐδὲν δέομαι λέγειν, ἦν δέ τις τῶν πολιτικῶν πρὸς ὃν ἐγὼ σκοπῶν τοιοῦτόν τι ἔπαθον, ὦ ἄνδρες Ἀθηναῖοι, καὶ διαλεγόμενος αὐτῷ —
+001.07.13@en for I need not call him by name, but it was one of the public men with regard to whom I had this kind of experience, men of {placeName} Athens {/placeName} —
+001.07.14@grc ἔδοξέ μοι οὗτος ὁ ἀνὴρ δοκεῖν μὲν εἶναι σοφὸς ἄλλοις τε πολλοῖς ἀνθρώποις καὶ μάλιστα ἑαυτῷ, εἶναι δ’ οὔ·
+001.07.14@en and conversing with him, this man seemed to me to seem to be wise to many other people and especially to himself, but not to be so;
+001.07.15@grc κἄπειτα ἐπειρώμην αὐτῷ δεικνύναι ὅτι οἴοιτο μὲν εἶναι σοφός, εἴη δ’ οὔ.
+001.07.15@en and then I tried to show him that he thought he was wise, but was not.
+001.07.16@grc {21d} ἐντεῦθεν οὖν τούτῳ τε ἀπηχθόμην καὶ πολλοῖς τῶν παρόντων·
+001.07.16@en As a result, I became hateful to him and to many of those present;
+001.07.17@grc πρὸς ἐμαυτὸν δ’ οὖν ἀπιὼν ἐλογιζόμην ὅτι τούτου μὲν τοῦ ἀνθρώπου ἐγὼ σοφώτερός εἰμι·
+001.07.17@en and so, as I went away, I thought to myself, {q} I am wiser than this man;
+001.07.18@grc κινδυνεύει μὲν γὰρ ἡμῶν οὐδέτερος οὐδὲν καλὸν κἀγαθὸν εἰδέναι, ἀλλ’ οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ, ὥσπερ οὖν οὐκ οἶδα, οὐδὲ οἴομαι·
+001.07.18@en for neither of us really knows anything fine and good, but this man thinks he knows something when he does not, whereas I, as I do not know anything, do not think I do either.
+001.07.19@grc ἔοικα γοῦν τούτου γε σμικρῷ τινι αὐτῷ τούτῳ σοφώτερος εἶναι, ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι.
+001.07.19@en I seem, then, in just this little thing to be wiser than this man at any rate, that what I do not know I do not think I know either. {/q}
+001.07.20@grc ἐντεῦθεν ἐπ’ ἄλλον ᾖα τῶν ἐκείνου δοκούντων σοφωτέρων εἶναι καί {21e} μοι ταὐτὰ ταῦτα ἔδοξε, καὶ ἐνταῦθα κἀκείνῳ καὶ ἄλλοις πολλοῖς ἀπηχθόμην.
+001.07.20@en From him I went to another of those who were reputed to be wiser than he, and these same things seemed to me to be true; and there I became hateful both to him and to many others.
+
+001.08.01@grc μετὰ ταῦτ’ οὖν ἤδη ἐφεξῆς ᾖα, αἰσθανόμενος μὲν {del} καὶ {/del} λυπούμενος καὶ δεδιὼς ὅτι ἀπηχθανόμην, ὅμως δὲ ἀναγκαῖον ἐδόκει εἶναι τὸ τοῦ θεοῦ περὶ πλείστου ποιεῖσθαι —
+001.08.01@en {p} After this then I went on from one to another, perceiving that I was hated, and grieving and fearing, but nevertheless I thought I must consider the god’s business of the highest importance.
+001.08.02@grc ἰτέον οὖν, σκοποῦντι τὸν χρησμὸν τί λέγει, ἐπὶ ἅπαντας τούς τι {22a} δοκοῦντας εἰδέναι.
+001.08.02@en So I had to go, investigating the meaning of the oracle, to all those who were reputed to know anything.
+001.08.03@grc καὶ νὴ τὸν κύνα, ὦ ἄνδρες Ἀθηναῖοι —
+001.08.03@en And by the Dog, men of {placeName} Athens {/placeName} —
+001.08.04@grc δεῖ γὰρ πρὸς ὑμᾶς τἀληθῆ λέγειν —
+001.08.04@en for I must speak the truth to you —
+001.08.05@grc ἦ μὴν ἐγὼ ἔπαθόν τι τοιοῦτον·
+001.08.05@en this, I do declare, was my experience:
+001.08.06@grc οἱ μὲν μάλιστα εὐδοκιμοῦντες ἔδοξάν μοι ὀλίγου δεῖν τοῦ πλείστου ἐνδεεῖς εἶναι ζητοῦντι κατὰ τὸν θεόν, ἄλλοι δὲ δοκοῦντες φαυλότεροι ἐπιεικέστεροι εἶναι ἄνδρες πρὸς τὸ φρονίμως ἔχειν.
+001.08.06@en those who had the most reputation seemed to me to be almost the most deficient, as I investigated at the god’s behest, and others who were of less repute seemed to be superior men in the matter of being sensible.
+001.08.07@grc δεῖ δὴ ὑμῖν τὴν ἐμὴν πλάνην ἐπιδεῖξαι ὥσπερ πόνους τινὰς πονοῦντος ἵνα μοι καὶ ἀνέλεγκτος ἡ μαντεία γένοιτο.
+001.08.07@en So I must relate to you my wandering as I performed my Herculean labors, so to speak, in order that the oracle might be proved to be irrefutable.
+001.08.08@grc μετὰ γὰρ τοὺς πολιτικοὺς ᾖα ἐπὶ τοὺς ποιητὰς τούς τε τῶν τραγῳδιῶν καὶ τοὺς τῶν {22b} διθυράμβων καὶ τοὺς ἄλλους, ὡς ἐνταῦθα ἐπ’ αὐτοφώρῳ καταληψόμενος ἐμαυτὸν ἀμαθέστερον ἐκείνων ὄντα.
+001.08.08@en For after the public men I went to the poets, those of tragedies, and those of dithyrambs, and the rest, thinking that there I should prove by actual test that I was less learned than they.
+001.08.09@grc ἀναλαμβάνων οὖν αὐτῶν τὰ ποιήματα ἅ μοι ἐδόκει μάλιστα πεπραγματεῦσθαι αὐτοῖς, διηρώτων ἂν αὐτοὺς τί λέγοιεν, ἵν’ ἅμα τι καὶ μανθάνοιμι παρ’ αὐτῶν.
+001.08.09@en So, taking up the poems of theirs that seemed to me to have been most carefully elaborated by them, I asked them what they meant, that I might at the same time learn something from them.
+001.08.10@grc αἰσχύνομαι οὖν ὑμῖν εἰπεῖν, ὦ ἄνδρες, τἀληθῆ·
+001.08.10@en Now I am ashamed to tell you the truth, gentlemen;
+001.08.11@grc ὅμως δὲ ῥητέον.
+001.08.11@en but still it must be told.
+001.08.12@grc ὡς ἔπος γὰρ εἰπεῖν ὀλίγου αὐτῶν ἅπαντες οἱ παρόντες ἂν βέλτιον ἔλεγον περὶ ὧν αὐτοὶ ἐπεποιήκεσαν.
+001.08.12@en For there was hardly a man present, one might say, who would not speak better than they about the poems they themselves had composed.
+001.08.13@grc ἔγνων οὖν αὖ καὶ περὶ τῶν ποιητῶν ἐν ὀλίγῳ τοῦτο, ὅτι οὐ σοφίᾳ ποιοῖεν {22c} ἃ ποιοῖεν, ἀλλὰ φύσει τινὶ καὶ ἐνθουσιάζοντες ὥσπερ οἱ θεομάντεις καὶ οἱ χρησμῳδοί·
+001.08.13@en So again in the case of the poets also I presently recognized this, that what they composed they composed not by wisdom, but by nature and because they were inspired, like the prophets and givers of oracles;
+001.08.14@grc καὶ γὰρ οὗτοι λέγουσι μὲν πολλὰ καὶ καλά, ἴσασιν δὲ οὐδὲν ὧν λέγουσι.
+001.08.14@en for these also say many fine things, but know none of the things they say;
+001.08.15@grc τοιοῦτόν τί μοι ἐφάνησαν πάθος καὶ οἱ ποιηταὶ πεπονθότες, καὶ ἅμα ᾐσθόμην αὐτῶν διὰ τὴν ποίησιν οἰομένων καὶ τἆλλα σοφωτάτων εἶναι ἀνθρώπων ἃ οὐκ ἦσαν.
+001.08.15@en it was evident to me that the poets too had experienced something of this same sort. And at the same time I perceived that they, on account of their poetry, thought that they were the wisest of men in other things as well, in which they were not.
+001.08.16@grc ἀπῇα οὖν καὶ ἐντεῦθεν τῷ αὐτῷ οἰόμενος περιγεγονέναι ᾧπερ καὶ τῶν πολιτικῶν.
+001.08.16@en So I went away from them also thinking that I was superior to them in the same thing in which I excelled the public men.
+
+001.09.01@grc τελευτῶν οὖν ἐπὶ τοὺς χειροτέχνας ᾖα·
+001.09.01@en {p} Finally then I went to the hand-workers.
+001.09.02@grc ἐμαυτῷ γὰρ {22d} συνῄδη οὐδὲν ἐπισταμένῳ ὡς ἔπος εἰπεῖν, τούτους δέ γ’ ᾔδη ὅτι εὑρήσοιμι πολλὰ καὶ καλὰ ἐπισταμένους.
+001.09.02@en For I was conscious that I knew practically nothing, but I knew I should find that they knew many fine things.
+001.09.03@grc καὶ τούτου μὲν οὐκ ἐψεύσθην, ἀλλ’ ἠπίσταντο ἃ ἐγὼ οὐκ ἠπιστάμην καί μου ταύτῃ σοφώτεροι ἦσαν.
+001.09.03@en And in this I was not deceived; they did know what I did not, and in this way they were wiser than I.
+001.09.04@grc ἀλλ’, ὦ ἄνδρες Ἀθηναῖοι, ταὐτόν μοι ἔδοξαν ἔχειν ἁμάρτημα ὅπερ καὶ οἱ ποιηταὶ καὶ οἱ ἀγαθοὶ δημιουργοί —
+001.09.04@en But, men of {placeName} Athens {/placeName} , the good artisans also seemed to me to have the same failing as the poets;
+001.09.05@grc διὰ τὸ τὴν τέχνην καλῶς ἐξεργάζεσθαι ἕκαστος ἠξίου καὶ τἆλλα τὰ μέγιστα σοφώτατος εἶναι —
+001.09.05@en because of practicing his art well, each one thought he was very wise in the other most important matters,
+001.09.06@grc καὶ αὐτῶν αὕτη ἡ πλημμέλεια ἐκείνην τὴν σοφίαν {22e} ἀποκρύπτειν·
+001.09.06@en and this folly of theirs obscured that wisdom,
+001.09.07@grc ὥστε με ἐμαυτὸν ἀνερωτᾶν ὑπὲρ τοῦ χρησμοῦ πότερα δεξαίμην ἂν οὕτως ὥσπερ ἔχω ἔχειν, μήτε τι σοφὸς ὢν τὴν ἐκείνων σοφίαν μήτε ἀμαθὴς τὴν ἀμαθίαν, ἢ ἀμφότερα ἃ ἐκεῖνοι ἔχουσιν ἔχειν.
+001.09.07@en so that I asked myself in behalf of the oracle whether I should prefer to be as I am, neither wise in their wisdom nor foolish in their folly, or to be in both respects as they are.
+001.09.08@grc ἀπεκρινάμην οὖν ἐμαυτῷ καὶ τῷ χρησμῷ ὅτι μοι λυσιτελοῖ ὥσπερ ἔχω ἔχειν.
+001.09.08@en I replied then to myself and to the oracle that it was better for me to be as I am.
+
+001.10.01@grc ἐκ ταυτησὶ δὴ τῆς ἐξετάσεως, ὦ ἄνδρες Ἀθηναῖοι, {23a} πολλαὶ μὲν ἀπέχθειαί μοι γεγόνασι καὶ οἷαι χαλεπώταται καὶ βαρύταται, ὥστε πολλὰς διαβολὰς ἀπ’ αὐτῶν γεγονέναι, ὄνομα δὲ τοῦτο λέγεσθαι, σοφὸς εἶναι·
+001.10.01@en {p} Now from this investigation, men of {placeName} Athens {/placeName} , many enmities have arisen against me, and such as are most harsh and grievous, so that many prejudices have resulted from them and I am called a wise man.
+001.10.02@grc οἴονται γάρ με ἑκάστοτε οἱ παρόντες ταῦτα αὐτὸν εἶναι σοφὸν ἃ ἂν ἄλλον ἐξελέγξω.
+001.10.02@en For on each occasion those who are present think I am wise in the matters in which I confute someone else;
+001.10.03@grc τὸ δὲ κινδυνεύει, ὦ ἄνδρες, τῷ ὄντι ὁ θεὸς σοφὸς εἶναι, καὶ ἐν τῷ χρησμῷ τούτῳ τοῦτο λέγειν, ὅτι ἡ ἀνθρωπίνη σοφία ὀλίγου τινὸς ἀξία ἐστὶν καὶ οὐδενός.
+001.10.03@en but the fact is, gentlemen, it is likely that the god is really wise and by his oracle means this: {q} Human wisdom is of little or no value. {/q}
+001.10.04@grc καὶ φαίνεται τοῦτον λέγειν τὸν Σωκράτη, προσκεχρῆσθαι δὲ {23b} τῷ ἐμῷ ὀνόματι, ἐμὲ παράδειγμα ποιούμενος, ὥσπερ ἂν {add} εἰ {/add} εἴποι ὅτι {q} οὗτος ὑμῶν, ὦ ἄνθρωποι, σοφώτατός ἐστιν, ὅστις ὥσπερ Σωκράτης ἔγνωκεν ὅτι οὐδενὸς ἄξιός ἐστι τῇ ἀληθείᾳ πρὸς σοφίαν. {/q}
+001.10.04@en And it appears that he does not really say this of Socrates, but merely uses my name, and makes me an example, as if he were to say: {q} This one of you, O human beings, is wisest, who, like Socrates, recognizes that he is in truth of no account in respect to wisdom. {/q}
+001.10.05@grc ταῦτ’ οὖν ἐγὼ μὲν ἔτι καὶ νῦν περιιὼν ζητῶ καὶ ἐρευνῶ κατὰ τὸν θεὸν καὶ τῶν ἀστῶν καὶ ξένων ἄν τινα οἴωμαι σοφὸν εἶναι·
+001.10.05@en {p} Therefore I am still even now going about and searching and investigating at the god’s behest anyone, whether citizen or foreigner, who I think is wise;
+001.10.06@grc καὶ ἐπειδάν μοι μὴ δοκῇ, τῷ θεῷ βοηθῶν ἐνδείκνυμαι ὅτι οὐκ ἔστι σοφός.
+001.10.06@en and when he does not seem so to me, I give aid to the god and show that he is not wise.
+001.10.07@grc καὶ ὑπὸ ταύτης τῆς ἀσχολίας οὔτε τι τῶν τῆς πόλεως πρᾶξαί μοι σχολὴ γέγονεν ἄξιον λόγου οὔτε τῶν οἰκείων, ἀλλ’ ἐν {23c} πενίᾳ μυρίᾳ εἰμὶ διὰ τὴν τοῦ θεοῦ λατρείαν.
+001.10.07@en And by reason of this occupation I have no leisure to attend to any of the affairs of the state worth mentioning, or of my own, but am in vast poverty on account of my service to the god.
+
+001.11.01@grc πρὸς δὲ τούτοις οἱ νέοι μοι ἐπακολουθοῦντες —
+001.11.01@en {p} And in addition to these things, the young men
+001.11.02@grc οἷς μάλιστα σχολή ἐστιν, οἱ τῶν πλουσιωτάτων —
+001.11.02@en who have the most leisure, the sons of the richest men,
+001.11.03@grc αὐτόματοι, χαίρουσιν ἀκούοντες ἐξεταζομένων τῶν ἀνθρώπων, καὶ αὐτοὶ πολλάκις ἐμὲ μιμοῦνται, εἶτα ἐπιχειροῦσιν ἄλλους ἐξετάζειν·
+001.11.03@en accompany me of their own accord, find pleasure in hearing people being examined, and often imitate me themselves, and then they undertake to examine others;
+001.11.04@grc κἄπειτα οἶμαι εὑρίσκουσι πολλὴν ἀφθονίαν οἰομένων μὲν εἰδέναι τι ἀνθρώπων, εἰδότων δὲ ὀλίγα ἢ οὐδέν.
+001.11.04@en and then, I fancy, they find a great plenty of people who think they know something, but know little or nothing.
+001.11.05@grc ἐντεῦθεν οὖν οἱ ὑπ’ αὐτῶν ἐξεταζόμενοι ἐμοὶ ὀργίζονται, οὐχ αὑτοῖς, {23d} καὶ λέγουσιν ὡς Σωκράτης τίς ἐστι μιαρώτατος καὶ διαφθείρει τοὺς νέους·
+001.11.05@en As a result, therefore, those who are examined by them are angry with me, instead of being angry with themselves, and say that {q} Socrates is a most abominable person and is corrupting the youth. {/q}
+001.11.06@grc καὶ ἐπειδάν τις αὐτοὺς ἐρωτᾷ ὅτι ποιῶν καὶ ὅτι διδάσκων, ἔχουσι μὲν οὐδὲν εἰπεῖν ἀλλ’ ἀγνοοῦσιν, ἵνα δὲ μὴ δοκῶσιν ἀπορεῖν, τὰ κατὰ πάντων τῶν φιλοσοφούντων πρόχειρα ταῦτα λέγουσιν, ὅτι {q} τὰ μετέωρα καὶ τὰ ὑπὸ γῆς {/q} καὶ {q} θεοὺς μὴ νομίζειν {/q} καὶ {q} τὸν ἥττω λόγον κρείττω ποιεῖν. {/q}
+001.11.06@en {p} And when anyone asks them {q} by doing or teaching what? {/q} they have nothing to say, but they do not know, and that they may not seem to be at a loss they say these things that are handy to say against all the philosophers, {q} the things in the air and the things beneath the earth {/q} and {q} not to believe in the gods {/q} and {q} to make the weaker argument the stronger. {/q}
+001.11.07@grc τὰ γὰρ ἀληθῆ οἴομαι οὐκ ἂν ἐθέλοιεν λέγειν, ὅτι κατάδηλοι γίγνονται προσποιούμενοι μὲν εἰδέναι, εἰδότες δὲ οὐδέν.
+001.11.07@en For they would not, I fancy, care to say the truth, that it is being made very clear that they pretend to know, but know nothing.
+001.11.08@grc ἅτε οὖν οἶμαι φιλότιμοι {23e} ὄντες καὶ σφοδροὶ καὶ πολλοί, καὶ συντεταμένως καὶ πιθανῶς λέγοντες περὶ ἐμοῦ, ἐμπεπλήκασιν ὑμῶν τὰ ὦτα καὶ πάλαι καὶ σφοδρῶς διαβάλλοντες.
+001.11.08@en Since, then, they are jealous of their honor and energetic and numerous and speak concertedly and persuasively about me, they have filled your ears both long ago and now with vehement slanders.
+001.11.09@grc ἐκ τούτων καὶ Μέλητός μοι ἐπέθετο καὶ Ἄνυτος καὶ Λύκων, Μέλητος μὲν ὑπὲρ τῶν ποιητῶν ἀχθόμενος, Ἄνυτος δὲ ὑπὲρ τῶν δημιουργῶν καὶ {24a} τῶν πολιτικῶν, Λύκων δὲ ὑπὲρ τῶν ῥητόρων·
+001.11.09@en From among them Meletus attacked me, and Anytus and Lycon, Meletus angered on account of the poets, and Anytus on account of the artisans and the public men, and Lycon on account of the orators;
+001.11.10@grc ὥστε, ὅπερ ἀρχόμενος ἐγὼ ἔλεγον, θαυμάζοιμ’ ἂν εἰ οἷός τ’ εἴην ἐγὼ ὑμῶν ταύτην τὴν διαβολὴν ἐξελέσθαι ἐν οὕτως ὀλίγῳ χρόνῳ οὕτω πολλὴν γεγονυῖαν.
+001.11.10@en so that, as I said in the beginning, I should be surprised if I were able to remove this prejudice from you in so short a time when it has grown so great.
+001.11.11@grc ταῦτ’ ἔστιν ὑμῖν, ὦ ἄνδρες Ἀθηναῖοι, τἀληθῆ, καὶ ὑμᾶς οὔτε μέγα οὔτε μικρὸν ἀποκρυψάμενος ἐγὼ λέγω οὐδ’ ὑποστειλάμενος.
+001.11.11@en There you have the truth, men of {placeName} Athens {/placeName} , and I speak without hiding anything from you, great or small or prevaricating.
+001.11.12@grc καίτοι οἶδα σχεδὸν ὅτι αὐτοῖς τούτοις ἀπεχθάνομαι, ὃ καὶ τεκμήριον ὅτι ἀληθῆ λέγω καὶ ὅτι αὕτη ἐστὶν ἡ διαβολὴ ἡ ἐμὴ καὶ τὰ αἴτια {24b} ταῦτά ἐστιν.
+001.11.12@en And yet I know pretty well that I am making myself hated by just that conduct; which is also a proof that I am speaking the truth and that this is the prejudice against me and these are its causes.
+001.11.13@grc καὶ ἐάντε νῦν ἐάντε αὖθις ζητήσητε ταῦτα, οὕτως εὑρήσετε.
+001.11.13@en And whether you investigate this now or hereafter, you will find that it is so.
+
+001.12.01@grc περὶ μὲν οὖν ὧν οἱ πρῶτοί μου κατήγοροι κατηγόρουν αὕτη ἔστω ἱκανὴ ἀπολογία πρὸς ὑμᾶς·
+001.12.01@en {p} Now so far as the accusations are concerned which my first accusers made against me, this is a sufficient defence before you;
+001.12.02@grc πρὸς δὲ Μέλητον τὸν ἀγαθὸν καὶ φιλόπολιν, ὥς φησι, καὶ τοὺς ὑστέρους μετὰ ταῦτα πειράσομαι ἀπολογήσασθαι.
+001.12.02@en but against Meletus, the good and patriotic, as he says, and the later ones, I will try to defend myself next.
+001.12.03@grc αὖθις γὰρ δή, ὥσπερ ἑτέρων τούτων ὄντων κατηγόρων, λάβωμεν αὖ τὴν τούτων ἀντωμοσίαν.
+001.12.03@en So once more, as if these were another set of accusers, let us take up in turn their sworn statement.
+001.12.04@grc ἔχει δέ πως ὧδε·
+001.12.04@en It is about as follows:
+001.12.05@grc Σωκράτη φησὶν ἀδικεῖν τούς τε νέους διαφθείροντα καὶ θεοὺς οὓς ἡ πόλις {24c} νομίζει οὐ νομίζοντα, ἕτερα δὲ δαιμόνια καινά.
+001.12.05@en it states that Socrates is a wrongdoer because he corrupts the youth and does not believe in the gods the state believes in, but in other new spiritual beings.
+001.12.06@grc τὸ μὲν δὴ ἔγκλημα τοιοῦτόν ἐστιν·
+001.12.06@en {p} Such is the accusation.
+001.12.07@grc τούτου δὲ τοῦ ἐγκλήματος ἓν ἕκαστον ἐξετάσωμεν.
+001.12.07@en But let us examine each point of this accusation.
+
+001.13.01@grc φησὶ γὰρ δὴ τοὺς νέους ἀδικεῖν με διαφθείροντα.
+001.13.01@en He says I am a wrongdoer because I corrupt the youth.
+001.13.02@grc ἐγὼ δέ γε, ὦ ἄνδρες Ἀθηναῖοι, ἀδικεῖν φημι Μέλητον, ὅτι σπουδῇ χαριεντίζεται, ῥᾳδίως εἰς ἀγῶνα καθιστὰς ἀνθρώπους, περὶ πραγμάτων προσποιούμενος σπουδάζειν καὶ κήδεσθαι ὧν οὐδὲν τούτῳ πώποτε ἐμέλησεν·
+001.13.02@en But I, men of {placeName} Athens {/placeName} , say Meletus is a wrongdoer, because he jokes in earnest, lightly involving people in a lawsuit, pretending to be zealous and concerned about things or which he never cared at all.
+001.13.03@grc ὡς δὲ τοῦτο οὕτως ἔχει, πειράσομαι καὶ ὑμῖν ἐπιδεῖξαι.
+001.13.03@en And that this is so I will try to make plain to you also.
+001.13.04@grc καί μοι δεῦρο, ὦ Μέλητε, εἰπέ·
+001.13.04@en {p} Come here, Meletus, tell me:
+001.13.05@grc ἄλλο τι ἢ {24d} περὶ πλείστου ποιῇ ὅπως ὡς βέλτιστοι οἱ νεώτεροι ἔσονται;
+001.13.05@en don’t you consider it of great importance that the youth be as good as possible?
+
+001.14.01@grc ἔγωγε.
+001.14.01@en {q} I do. {/q}
+
+001.15.01@grc ἴθι δή νυν εἰπὲ τούτοις, τίς αὐτοὺς βελτίους ποιεῖ;
+001.15.01@en Come now, tell these gentlemen who makes them better?
+001.15.02@grc δῆλον γὰρ ὅτι οἶσθα, μέλον γέ σοι.
+001.15.02@en For it is evident that you know, since you care about it.
+001.15.03@grc τὸν μὲν γὰρ διαφθείροντα ἐξευρών, ὡς φῄς, ἐμέ, εἰσάγεις τουτοισὶ καὶ κατηγορεῖς·
+001.15.03@en For you have found the one who corrupts them, as you say, and you bring me before these gentlemen and accuse me;
+001.15.04@grc τὸν δὲ δὴ βελτίους ποιοῦντα ἴθι εἰπὲ καὶ μήνυσον αὐτοῖς τίς ἐστιν.
+001.15.04@en and now, come, tell who makes them better and inform them who he is.
+001.15.05@grc — ὁρᾷς, ὦ Μέλητε, ὅτι σιγᾷς καὶ οὐκ ἔχεις εἰπεῖν;
+001.15.05@en Do you see, Meletus, that you are silent and cannot tell?
+001.15.06@grc καίτοι οὐκ αἰσχρόν σοι δοκεῖ εἶναι καὶ ἱκανὸν τεκμήριον οὗ δὴ ἐγὼ λέγω, ὅτι σοι οὐδὲν μεμέληκεν;
+001.15.06@en And yet does it not seem to you disgraceful and a sufficient proof of what I say, that you have never cared about it?
+001.15.07@grc ἀλλ’ εἰπέ, ὠγαθέ, τίς αὐτοὺς ἀμείνους ποιεῖ;
+001.15.07@en But tell, my good man, who makes them better?
+
+001.16.01@grc οἱ νόμοι.
+001.16.01@en {q} The laws. {/q}
+
+001.17.01@grc {24e} ἀλλ’ οὐ τοῦτο ἐρωτῶ, ὦ βέλτιστε, ἀλλὰ τίς ἄνθρωπος, ὅστις πρῶτον καὶ αὐτὸ τοῦτο οἶδε, τοὺς νόμους;
+001.17.01@en But that is not what I ask, most excellent one, but what man, who knows in the first place just this very thing, the laws.
+
+001.18.01@grc οὗτοι, ὦ Σώκρατες, οἱ δικασταί.
+001.18.01@en {q} These men, Socrates, the judges. {/q}
+
+001.19.01@grc πῶς λέγεις, ὦ Μέλητε;
+001.19.01@en What are you saying, Meletus?
+001.19.02@grc οἵδε τοὺς νέους παιδεύειν οἷοί τέ εἰσι καὶ βελτίους ποιοῦσιν;
+001.19.02@en Are these gentlemen able to instruct the youth, and do they make them better?
+
+001.20.01@grc μάλιστα.
+001.20.01@en {q} Certainly. {/q}
+
+001.21.01@grc πότερον ἅπαντες, ἢ οἱ μὲν αὐτῶν, οἱ δ’ οὔ;
+001.21.01@en All, or some of them and others not?
+
+001.22.01@grc ἅπαντες.
+001.22.01@en {q} All. {/q}
+
+001.23.01@grc εὖ γε νὴ τὴν Ἥραν λέγεις καὶ πολλὴν ἀφθονίαν τῶν ὠφελούντων.
+001.23.01@en Well said, by Hera, and this is a great plenty of helpers you speak of.
+001.23.02@grc τί δὲ δή;
+001.23.02@en But how about this?
+001.23.03@grc οἱ δὲ ἀκροαταὶ βελτίους ποιοῦσιν {25a} ἢ οὔ;
+001.23.03@en Do these listeners make them better, or not?
+
+001.24.01@grc καὶ οὗτοι.
+001.24.01@en {q} These also. {/q}
+
+001.25.01@grc τί δέ, οἱ βουλευταί;
+001.25.01@en And how about the senators?
+
+001.26.01@grc καὶ οἱ βουλευταί.
+001.26.01@en {q} The senators also. {/q}
+
+001.27.01@grc ἀλλ’ ἄρα, ὦ Μέλητε, μὴ οἱ ἐν τῇ ἐκκλησίᾳ, οἱ ἐκκλησιασταί, διαφθείρουσι τοὺς νεωτέρους;
+001.27.01@en But, Meletus, those in the assembly, the assemblymen, don’t corrupt the youth, do they?
+001.27.02@grc ἢ κἀκεῖνοι βελτίους ποιοῦσιν ἅπαντες;
+001.27.02@en or do they also all make them better?
+
+001.28.01@grc κἀκεῖνοι.
+001.28.01@en {q} They also. {/q}
+
+001.29.01@grc πάντες ἄρα, ὡς ἔοικεν, Ἀθηναῖοι καλοὺς κἀγαθοὺς ποιοῦσι πλὴν ἐμοῦ, ἐγὼ δὲ μόνος διαφθείρω.
+001.29.01@en All the Athenians, then, as it seems, make them excellent, except myself, and I alone corrupt them.
+001.29.02@grc οὕτω λέγεις;
+001.29.02@en Is this what you mean?
+
+001.30.01@grc πάνυ σφόδρα ταῦτα λέγω.
+001.30.01@en {q} Very decidedly, that is what I mean. {/q}
+
+001.31.01@grc πολλήν γέ μου κατέγνωκας δυστυχίαν.
+001.31.01@en You have condemned me to great unhappiness!
+001.31.02@grc καί μοι ἀπόκριναι·
+001.31.02@en But answer me;
+001.31.03@grc ἦ καὶ περὶ ἵππους οὕτω σοι δοκεῖ ἔχειν;
+001.31.03@en does it seem to you to be so in the case of horses,
+001.31.04@grc οἱ μὲν {25b} βελτίους ποιοῦντες αὐτοὺς πάντες ἄνθρωποι εἶναι, εἷς δέ τις ὁ διαφθείρων;
+001.31.04@en that those who make them better are all mankind, and he who injures them some one person?
+001.31.05@grc ἢ τοὐναντίον τούτου πᾶν εἷς μέν τις ὁ βελτίους οἷός τ’ ὢν ποιεῖν ἢ πάνυ ὀλίγοι, οἱ ἱππικοί, οἱ δὲ πολλοὶ ἐάνπερ συνῶσι καὶ χρῶνται ἵπποις, διαφθείρουσιν;
+001.31.05@en Or, quite the opposite of this, that he who is able to make them better is some one person, or very few, the horse-trainers, whereas most people, if they have to do with and use horses, injure them?
+001.31.06@grc οὐχ οὕτως ἔχει, ὦ Μέλητε, καὶ περὶ ἵππων καὶ τῶν ἄλλων ἁπάντων ζῴων;
+001.31.06@en Is it not so, Meletus, both in the case of horses and in that of all other animals?
+001.31.07@grc πάντως δήπου, ἐάντε σὺ καὶ Ἄνυτος οὐ φῆτε ἐάντε φῆτε·
+001.31.07@en Certainly it is, whether you and Anytus deny it or agree;
+001.31.08@grc πολλὴ γὰρ ἄν τις εὐδαιμονία εἴη περὶ τοὺς νέους εἰ εἷς μὲν μόνος αὐτοὺς διαφθείρει, οἱ δ’ ἄλλοι {25c} ὠφελοῦσιν.
+001.31.08@en for it would be a great state of blessedness in the case of the youth if one alone corrupts them, and the others do them good.
+001.31.09@grc ἀλλὰ γάρ, ὦ Μέλητε, ἱκανῶς ἐπιδείκνυσαι ὅτι οὐδεπώποτε ἐφρόντισας τῶν νέων, καὶ σαφῶς ἀποφαίνεις τὴν σαυτοῦ ἀμέλειαν, ὅτι οὐδέν σοι μεμέληκεν περὶ ὧν ἐμὲ εἰσάγεις.
+001.31.09@en But, Meletus, you show clearly enough that you never thought about the youth, and you exhibit plainly your own carelessness, that you have not cared at all for the things about which you hale me into court.
+
+001.32.01@grc ἔτι δὲ ἡμῖν εἰπέ, ὦ πρὸς Διὸς Μέλητε, πότερόν ἐστιν οἰκεῖν ἄμεινον ἐν πολίταις χρηστοῖς ἢ πονηροῖς;
+001.32.01@en {p} But besides, tell us, for heaven’s sake, Meletus, is it better to live among good citizens, or bad?
+001.32.02@grc ὦ τάν, ἀπόκριναι·
+001.32.02@en My friend, answer;
+001.32.03@grc οὐδὲν γάρ τοι χαλεπὸν ἐρωτῶ.
+001.32.03@en for I am not asking anything hard.
+001.32.04@grc οὐχ οἱ μὲν πονηροὶ κακόν τι ἐργάζονται τοὺς ἀεὶ ἐγγυτάτω αὑτῶν ὄντας, οἱ δ’ ἀγαθοὶ ἀγαθόν τι;
+001.32.04@en Do not the bad do some evil to those who are with them at any time and the good some good?
+
+001.33.01@grc πάνυ γε.
+001.33.01@en {q} Certainly. {/q}
+
+001.34.01@grc {25d} ἔστιν οὖν ὅστις βούλεται ὑπὸ τῶν συνόντων βλάπτεσθαι μᾶλλον ἢ ὠφελεῖσθαι;
+001.34.01@en Is there then anyone who prefers to be injured by his associates rather than benefited?
+001.34.02@grc ἀποκρίνου, ὦ ἀγαθέ·
+001.34.02@en Answer, my good man;
+001.34.03@grc καὶ γὰρ ὁ νόμος κελεύει ἀποκρίνεσθαι.
+001.34.03@en for the law orders you to answer.
+001.34.04@grc ἔσθ’ ὅστις βούλεται βλάπτεσθαι;
+001.34.04@en Is there anyone who prefers to be injured?
+
+001.35.01@grc οὐ δῆτα.
+001.35.01@en {q} Of course not. {/q}
+
+001.36.01@grc φέρε δή, πότερον ἐμὲ εἰσάγεις δεῦρο ὡς διαφθείροντα τοὺς νέους καὶ πονηροτέρους ποιοῦντα ἑκόντα ἢ ἄκοντα;
+001.36.01@en Come then, do you hale me in here on the ground that I am corrupting the youth and making them worse voluntarily or involuntarily?
+
+001.37.01@grc ἑκόντα ἔγωγε.
+001.37.01@en {q} Voluntarily I say. {/q}
+
+001.38.01@grc τί δῆτα, ὦ Μέλητε;
+001.38.01@en What then, Meletus?
+001.38.02@grc τοσοῦτον σὺ ἐμοῦ σοφώτερος εἶ τηλικούτου ὄντος τηλικόσδε ὤν, ὥστε σὺ μὲν ἔγνωκας ὅτι οἱ μὲν κακοὶ κακόν τι ἐργάζονται ἀεὶ τοὺς μάλιστα πλησίον {25e} ἑαυτῶν, οἱ δὲ ἀγαθοὶ ἀγαθόν, ἐγὼ δὲ δὴ εἰς τοσοῦτον ἀμαθίας ἥκω ὥστε καὶ τοῦτ’ ἀγνοῶ, ὅτι ἐάν τινα μοχθηρὸν ποιήσω τῶν συνόντων, κινδυνεύσω κακόν τι λαβεῖν ὑπ’ αὐτοῦ, ὥστε τοῦτο {add} τὸ {/add} τοσοῦτον κακὸν ἑκὼν ποιῶ, ὡς φῂς σύ;
+001.38.02@en Are you at your age so much wiser than I at my age, that you have recognized that the evil always do some evil to those nearest them, and the good some good; whereas I have reached such a depth of ignorance that I do not even know this, that if I make anyone of my associates bad I am in danger of getting some harm from him, so that I do this great evil voluntarily, as you say?
+001.38.03@grc ταῦτα ἐγώ σοι οὐ πείθομαι, ὦ Μέλητε, οἶμαι δὲ οὐδὲ ἄλλον ἀνθρώπων οὐδένα·
+001.38.03@en I don’t believe this, Meletus, nor do I think anyone else in the world does!
+001.38.04@grc ἀλλ’ ἢ οὐ διαφθείρω, ἢ εἰ διαφθείρω, {26a} ἄκων, ὥστε σύ γε κατ’ ἀμφότερα ψεύδῃ.
+001.38.04@en but either I do not corrupt them, or if I corrupt them, I do it involuntarily, so that you are lying in both events.
+001.38.05@grc εἰ δὲ ἄκων διαφθείρω, τῶν τοιούτων {del} καὶ ἀκουσίων {/del} ἁμαρτημάτων οὐ δεῦρο νόμος εἰσάγειν ἐστίν, ἀλλὰ ἰδίᾳ λαβόντα διδάσκειν καὶ νουθετεῖν·
+001.38.05@en But if I corrupt them involuntarily, for such involuntary errors the law is not to hale people into court, but to take them and instruct and admonish them in private.
+001.38.06@grc δῆλον γὰρ ὅτι ἐὰν μάθω, παύσομαι ὅ γε ἄκων ποιῶ.
+001.38.06@en For it is clear that if I am told about it, I shall stop doing that which I do involuntarily.
+001.38.07@grc σὺ δὲ συγγενέσθαι μέν μοι καὶ διδάξαι ἔφυγες καὶ οὐκ ἠθέλησας, δεῦρο δὲ εἰσάγεις, οἷ νόμος ἐστὶν εἰσάγειν τοὺς κολάσεως δεομένους ἀλλ’ οὐ μαθήσεως.
+001.38.07@en But you avoided associating with me and instructing me, and were unwilling to do so, but you hale me in here, where it is the law to hale in those who need punishment, not instruction.
+
+001.39.01@grc ἀλλὰ γάρ, ὦ ἄνδρες Ἀθηναῖοι, τοῦτο μὲν ἤδη δῆλον {26b} οὑγὼ ἔλεγον, ὅτι Μελήτῳ τούτων οὔτε μέγα οὔτε μικρὸν πώποτε ἐμέλησεν.
+001.39.01@en {p} But enough of this, for, men of {placeName} Athens {/placeName} , this is clear, as I said, that Meletus never cared much or little for these things.
+001.39.02@grc ὅμως δὲ δὴ λέγε ἡμῖν, πῶς με φῂς διαφθείρειν, ὦ Μέλητε, τοὺς νεωτέρους;
+001.39.02@en But nevertheless, tell us, how do you say, Meletus, that I corrupt the youth?
+001.39.03@grc ἢ δῆλον δὴ ὅτι κατὰ τὴν γραφὴν ἣν ἐγράψω θεοὺς διδάσκοντα μὴ νομίζειν οὓς ἡ πόλις νομίζει, ἕτερα δὲ δαιμόνια καινά;
+001.39.03@en Or is it evident, according to the indictment you brought, that it is by teaching them not to believe in the gods the state believes in, but in other new spiritual beings?
+001.39.04@grc οὐ ταῦτα λέγεις ὅτι διδάσκων διαφθείρω;
+001.39.04@en Do you not say that it is by teaching this that I corrupt them?
+
+001.40.01@grc πάνυ μὲν οὖν σφόδρα ταῦτα λέγω.
+001.40.01@en {q} Very decidedly that is what I say. {/q}
+
+001.41.01@grc πρὸς αὐτῶν τοίνυν, ὦ Μέλητε, τούτων τῶν θεῶν ὧν νῦν ὁ λόγος ἐστίν, εἰπὲ ἔτι σαφέστερον καὶ ἐμοὶ καὶ τοῖς ἀνδράσιν {26c} τουτοισί.
+001.41.01@en Then, Meletus, for the sake of these very gods about whom our speech now is, speak still more clearly both to me and to these gentlemen.
+001.41.02@grc ἐγὼ γὰρ οὐ δύναμαι μαθεῖν πότερον λέγεις διδάσκειν με νομίζειν εἶναί τινας θεούς —
+001.41.02@en For I am unable to understand whether you say that I teach that there are some gods,
+001.41.03@grc καὶ αὐτὸς ἄρα νομίζω εἶναι θεοὺς καὶ οὐκ εἰμὶ τὸ παράπαν ἄθεος οὐδὲ ταύτῃ ἀδικῶ —
+001.41.03@en and myself then believe that there are some gods, and am not altogether godless and am not a wrongdoer in that way,
+001.41.04@grc οὐ μέντοι οὕσπερ γε ἡ πόλις ἀλλὰ ἑτέρους, καὶ τοῦτ’ ἔστιν ὅ μοι ἐγκαλεῖς, ὅτι ἑτέρους, ἢ παντάπασί με φῂς οὔτε αὐτὸν νομίζειν θεοὺς τούς τε ἄλλους ταῦτα διδάσκειν.
+001.41.04@en that these, however, are not the gods whom the state believes in, but others, and this is what you accuse me for, that I believe in others; or you say that I do not myself believe in gods at all and that I teach this unbelief to other people.
+
+001.42.01@grc ταῦτα λέγω, ὡς τὸ παράπαν οὐ νομίζεις θεούς.
+001.42.01@en {q} That is what I say, that you do not believe in gods at all. {/q}
+
+001.43.01@grc {26d} ὦ θαυμάσιε Μέλητε, ἵνα τί ταῦτα λέγεις;
+001.43.01@en You amaze me, Meletus! Why do you say this?
+001.43.02@grc οὐδὲ ἥλιον οὐδὲ σελήνην ἄρα νομίζω θεοὺς εἶναι, ὥσπερ οἱ ἄλλοι ἄνθρωποι;
+001.43.02@en Do I not even believe that the sun or yet the moon are gods, as the rest of mankind do?
+
+001.44.01@grc μὰ Δί’, ὦ ἄνδρες δικασταί, ἐπεὶ τὸν μὲν ἥλιον λίθον φησὶν εἶναι, τὴν δὲ σελήνην γῆν.
+001.44.01@en {q} No, by Zeus, judges, since he says that the sun is a stone and the moon earth. {/q}
+
+001.45.01@grc Ἀναξαγόρου οἴει κατηγορεῖν, ὦ φίλε Μέλητε;
+001.45.01@en Do you think you are accusing Anaxagoras, my dear Meletus,
+001.45.02@grc καὶ οὕτω καταφρονεῖς τῶνδε καὶ οἴει αὐτοὺς ἀπείρους γραμμάτων εἶναι ὥστε οὐκ εἰδέναι ὅτι τὰ Ἀναξαγόρου βιβλία τοῦ Κλαζομενίου γέμει τούτων τῶν λόγων;
+001.45.02@en and do you so despise these gentlemen and think they are so unversed in letters as not to know, that the books of Anaxagoras the Clazomenian are full of such utterances?
+001.45.03@grc καὶ δὴ καὶ οἱ νέοι ταῦτα παρ’ ἐμοῦ μανθάνουσιν, ἃ ἔξεστιν ἐνίοτε εἰ πάνυ πολλοῦ δραχμῆς {26e} ἐκ τῆς ὀρχήστρας πριαμένοις Σωκράτους καταγελᾶν, ἐὰν προσποιῆται ἑαυτοῦ εἶναι, ἄλλως τε καὶ οὕτως ἄτοπα ὄντα;
+001.45.03@en And forsooth the youth learn these doctrines from me, which they can buy sometimes (if the price is high) for a drachma in the orchestra and laugh at Socrates, if he pretends they are his own, especially when they are so absurd!
+001.45.04@grc ἀλλ’, ὦ πρὸς Διός, οὑτωσί σοι δοκῶ;
+001.45.04@en But for heaven’s sake, do you think this of me,
+001.45.05@grc οὐδένα νομίζω θεὸν εἶναι;
+001.45.05@en that I do not believe there is any god?
+
+001.46.01@grc οὐ μέντοι μὰ Δία οὐδ’ ὁπωστιοῦν.
+001.46.01@en {q} No, by Zeus, you don’t, not in the least. {/q}
+
+001.47.01@grc ἄπιστός γ’ εἶ, ὦ Μέλητε, καὶ ταῦτα μέντοι, ὡς ἐμοὶ δοκεῖς, σαυτῷ.
+001.47.01@en You cannot be believed, Meletus, not even, as it seems to me, by yourself.
+001.47.02@grc ἐμοὶ γὰρ δοκεῖ οὑτοσί, ὦ ἄνδρες Ἀθηναῖοι, πάνυ εἶναι ὑβριστὴς καὶ ἀκόλαστος, καὶ ἀτεχνῶς τὴν γραφὴν ταύτην ὕβρει τινὶ καὶ ἀκολασίᾳ καὶ νεότητι γράψασθαι.
+001.47.02@en For this man appears to me, men of {placeName} Athens {/placeName} , to be very violent and unrestrained, and actually to have brought this indictment in a spirit of violence and unrestraint and rashness.
+001.47.03@grc {27a} ἔοικεν γὰρ ὥσπερ αἴνιγμα συντιθέντι διαπειρωμένῳ {q} ἆρα γνώσεται Σωκράτης ὁ σοφὸς δὴ ἐμοῦ χαριεντιζομένου καὶ ἐναντί’ ἐμαυτῷ λέγοντος, ἢ ἐξαπατήσω αὐτὸν καὶ τοὺς ἄλλους τοὺς ἀκούοντας; {/q}
+001.47.03@en For he seems, as it were, by composing a puzzle to be making a test: {q} Will Socrates, the wise man, recognize that I am joking and contradicting myself, or shall I deceive him and the others who hear me? {/q}
+001.47.04@grc οὗτος γὰρ ἐμοὶ φαίνεται τὰ ἐναντία λέγειν αὐτὸς ἑαυτῷ ἐν τῇ γραφῇ ὥσπερ ἂν εἰ εἴποι·
+001.47.04@en For he appears to me to contradict himself in his speech, as if he were to say,
+001.47.05@grc {q} ἀδικεῖ Σωκράτης θεοὺς οὐ νομίζων, ἀλλὰ θεοὺς νομίζων. {/q}
+001.47.05@en {q} Socrates is a wrongdoer, because he does not believe in gods, but does believe in gods. {/q}
+001.47.06@grc καίτοι τοῦτό ἐστι παίζοντος.
+001.47.06@en And yet this is the conduct of a jester.
+
+001.48.01@grc συνεπισκέψασθε δή, ὦ ἄνδρες, ᾗ μοι φαίνεται ταῦτα λέγειν·
+001.48.01@en {p} Join me, then, gentlemen, in examining how he appears to me to say this;
+001.48.02@grc σὺ δὲ ἡμῖν ἀπόκριναι, ὦ Μέλητε.
+001.48.02@en and do you, Meletus, answer;
+001.48.03@grc ὑμεῖς δέ, ὅπερ {27b} κατ’ ἀρχὰς ὑμᾶς παρῃτησάμην, μέμνησθέ μοι μὴ θορυβεῖν ἐὰν ἐν τῷ εἰωθότι τρόπῳ τοὺς λόγους ποιῶμαι.
+001.48.03@en and you, gentlemen, as I asked you in the beginning, please bear in mind not to make a disturbance if I conduct my argument in my accustomed manner.
+
+001.49.01@grc ἔστιν ὅστις ἀνθρώπων, ὦ Μέλητε, ἀνθρώπεια μὲν νομίζει πράγματ’ εἶναι, ἀνθρώπους δὲ οὐ νομίζει;
+001.49.01@en {p} Is there any human being who believes that there are things pertaining to human beings, but no human beings?
+001.49.02@grc ἀποκρινέσθω, ὦ ἄνδρες, καὶ μὴ ἄλλα καὶ ἄλλα θορυβείτω·
+001.49.02@en Let him answer, gentlemen, and not make a disturbance in one way or another.
+001.49.03@grc ἔσθ’ ὅστις ἵππους μὲν οὐ νομίζει, ἱππικὰ δὲ πράγματα;
+001.49.03@en Is there anyone who does not believe in horses, but does believe in things pertaining to horses?
+001.49.04@grc ἢ αὐλητὰς μὲν οὐ νομίζει εἶναι, αὐλητικὰ δὲ πράγματα;
+001.49.04@en or who does not believe that flute-players exist, but that things pertaining to flute-players do?
+001.49.05@grc οὐκ ἔστιν, ὦ ἄριστε ἀνδρῶν·
+001.49.05@en There is not, best of men;
+001.49.06@grc εἰ μὴ σὺ βούλει ἀποκρίνεσθαι, ἐγὼ σοὶ λέγω καὶ τοῖς ἄλλοις τουτοισί.
+001.49.06@en if you do not wish to answer, I say it to you and these others here.
+001.49.07@grc ἀλλὰ τὸ ἐπὶ τούτῳ γε ἀπόκριναι·
+001.49.07@en But answer at least the next question.
+001.49.08@grc {27c} ἔσθ’ ὅστις δαιμόνια μὲν νομίζει πράγματ’ εἶναι, δαίμονας δὲ οὐ νομίζει;
+001.49.08@en Is there anyone who believes spiritual things exist, but does not believe in spirits?
+
+001.50.01@grc οὐκ ἔστιν.
+001.50.01@en {q} There is not. {/q}
+
+001.51.01@grc ὡς ὤνησας ὅτι μόγις ἀπεκρίνω ὑπὸ τουτωνὶ ἀναγκαζόμενος.
+001.51.01@en Thank you for replying reluctantly when forced by these gentlemen.
+001.51.02@grc οὐκοῦν δαιμόνια μὲν φῄς με καὶ νομίζειν καὶ διδάσκειν, εἴτ’ οὖν καινὰ εἴτε παλαιά, ἀλλ’ οὖν δαιμόνιά γε νομίζω κατὰ τὸν σὸν λόγον, καὶ ταῦτα καὶ διωμόσω ἐν τῇ ἀντιγραφῇ.
+001.51.02@en Then you say that I believe in spiritual beings, whether new or old, and teach that belief; but then I believe in spiritual beings at any rate, according to your statement, and you swore to that in your indictment.
+001.51.03@grc εἰ δὲ δαιμόνια νομίζω, καὶ δαίμονας δήπου πολλὴ ἀνάγκη νομίζειν μέ ἐστιν·
+001.51.03@en But if I believe in spiritual beings, it is quite inevitable that I believe also in spirits;
+001.51.04@grc οὐχ οὕτως ἔχει;
+001.51.04@en is it not so?
+001.51.05@grc ἔχει δή·
+001.51.05@en It is;
+001.51.06@grc τίθημι γάρ σε ὁμολογοῦντα, ἐπειδὴ οὐκ ἀποκρίνῃ.
+001.51.06@en for I assume that you agree, since you do not answer.
+001.51.07@grc τοὺς δὲ {27d} δαίμονας οὐχὶ ἤτοι θεούς γε ἡγούμεθα ἢ θεῶν παῖδας;
+001.51.07@en But do we not think the spirits are gods or children of gods?
+001.51.08@grc φῂς ἢ οὔ;
+001.51.08@en Yes, or no?
+
+001.52.01@grc πάνυ γε.
+001.52.01@en {q} Certainly. {/q}
+
+001.53.01@grc οὐκοῦν εἴπερ δαίμονας ἡγοῦμαι, ὡς σὺ φῄς, εἰ μὲν θεοί τινές εἰσιν οἱ δαίμονες, τοῦτ’ ἂν εἴη ὃ ἐγώ φημί σε αἰνίττεσθαι καὶ χαριεντίζεσθαι, θεοὺς οὐχ ἡγούμενον φάναι με θεοὺς αὖ ἡγεῖσθαι πάλιν, ἐπειδήπερ γε δαίμονας ἡγοῦμαι·
+001.53.01@en Then if I believe in spirits, as you say, if spirits are a kind of gods, that would be the puzzle and joke which I say you are uttering in saying that I, while I do not believe in gods, do believe In gods again, since I believe in spirits;
+001.53.02@grc εἰ δ’ αὖ οἱ δαίμονες θεῶν παῖδές εἰσιν νόθοι τινὲς ἢ ἐκ νυμφῶν ἢ ἔκ τινων ἄλλων ὧν δὴ καὶ λέγονται, τίς ἂν ἀνθρώπων θεῶν μὲν παῖδας ἡγοῖτο εἶναι, θεοὺς δὲ μή;
+001.53.02@en but if, on the other hand, spirits are a kind of bastard children of gods, by nymphs or by any others, whoever their mothers are said to be, what man would believe that there are children of gods, but no gods?
+001.53.03@grc ὁμοίως γὰρ {27e} ἂν ἄτοπον εἴη ὥσπερ ἂν εἴ τις ἵππων μὲν παῖδας ἡγοῖτο ἢ καὶ ὄνων, τοὺς ἡμιόνους, ἵππους δὲ καὶ ὄνους μὴ ἡγοῖτο εἶναι.
+001.53.03@en It would be just as absurd as if one were to believe that there are children of horses and asses, namely mules, but no horses and asses.
+001.53.04@grc ἀλλ’, ὦ Μέλητε, οὐκ ἔστιν ὅπως σὺ ταῦτα οὐχὶ ἀποπειρώμενος ἡμῶν ἐγράψω τὴν γραφὴν ταύτην ἢ ἀπορῶν ὅτι ἐγκαλοῖς ἐμοὶ ἀληθὲς ἀδίκημα·
+001.53.04@en But, Meletus, you certainly must have brought this suit either to make a test of us or because you were loss as to what true wrongdoing you could accuse me of;
+001.53.05@grc ὅπως δὲ σύ τινα πείθοις ἂν καὶ σμικρὸν νοῦν ἔχοντα ἀνθρώπων, ὡς οὐ τοῦ αὐτοῦ ἔστιν καὶ δαιμόνια καὶ θεῖα ἡγεῖσθαι, καὶ αὖ τοῦ αὐτοῦ μήτε {28a} δαίμονας μήτε θεοὺς μήτε ἥρωας, οὐδεμία μηχανή ἐστιν.
+001.53.05@en but there is no way for you to persuade any man who has even a little sense that it is possible for the same person to believe in spiritual and divine existences and again for the same person not to believe in spirits or gods or heroes.
+
+001.54.01@grc ἀλλὰ γάρ, ὦ ἄνδρες Ἀθηναῖοι, ὡς μὲν ἐγὼ οὐκ ἀδικῶ κατὰ τὴν Μελήτου γραφήν, οὐ πολλῆς μοι δοκεῖ εἶναι ἀπολογίας, ἀλλὰ ἱκανὰ καὶ ταῦτα·
+001.54.01@en {p} Well then, men of Athens, that I am not a wrongdoer according to Meletus’s indictment, seems to me not to need much of a defence, but what has been said is enough.
+001.54.02@grc ὃ δὲ καὶ ἐν τοῖς ἔμπροσθεν ἔλεγον, ὅτι πολλή μοι ἀπέχθεια γέγονεν καὶ πρὸς πολλούς, εὖ ἴστε ὅτι ἀληθές ἐστιν.
+001.54.02@en But you may be assured that what I said before is true, that great hatred has arisen against me and in the minds of many persons.
+001.54.03@grc καὶ τοῦτ’ ἔστιν ὃ ἐμὲ αἱρεῖ, ἐάνπερ αἱρῇ, οὐ Μέλητος οὐδὲ Ἄνυτος ἀλλ’ ἡ τῶν πολλῶν διαβολή τε καὶ φθόνος.
+001.54.03@en And this it is which will cause my condemnation, if it is to cause it, not Meletus or Anytus, but the prejudice and dislike of the many.
+001.54.04@grc ἃ δὴ πολλοὺς καὶ ἄλλους καὶ ἀγαθοὺς {28b} ἄνδρας ᾕρηκεν, οἶμαι δὲ καὶ αἱρήσει·
+001.54.04@en This has condemned many other good men, and I think will do so;
+001.54.05@grc οὐδὲν δὲ δεινὸν μὴ ἐν ἐμοὶ στῇ.
+001.54.05@en and there is no danger that it will stop with me.
+
+001.55.01@grc ἴσως ἂν οὖν εἴποι τις·
+001.55.01@en But perhaps someone might say:
+001.55.02@grc {q} εἶτ’ οὐκ αἰσχύνῃ, ὦ Σώκρατες, τοιοῦτον ἐπιτήδευμα ἐπιτηδεύσας ἐξ οὗ κινδυνεύεις νυνὶ ἀποθανεῖν; {/q}
+001.55.02@en {q} Are you then not ashamed, Socrates, of having followed such a pursuit, that you are now in danger of being put to death as a result? {/q}
+001.55.03@grc ἐγὼ δὲ τούτῳ ἂν δίκαιον λόγον ἀντείποιμι, ὅτι {q} οὐ καλῶς λέγεις, ὦ ἄνθρωπε, εἰ οἴει δεῖν κίνδυνον ὑπολογίζεσθαι τοῦ ζῆν ἢ τεθνάναι ἄνδρα ὅτου τι καὶ σμικρὸν ὄφελός ἐστιν, ἀλλ’ οὐκ ἐκεῖνο μόνον σκοπεῖν ὅταν πράττῃ, πότερον δίκαια ἢ ἄδικα πράττει, καὶ ἀνδρὸς ἀγαθοῦ ἔργα ἢ κακοῦ.
+001.55.03@en But I should make to him a just reply: {q} You do not speak well, Sir, if you think a man in whom there is even a little merit ought to consider danger of life or death, and not rather regard this only, when he does things, whether the things he does are right or wrong and the acts of a good or a bad man.
+001.55.04@grc φαῦλοι {28c} γὰρ ἂν τῷ γε σῷ λόγῳ εἶεν τῶν ἡμιθέων ὅσοι ἐν Τροίᾳ τετελευτήκασιν οἵ τε ἄλλοι καὶ ὁ τῆς Θέτιδος υἱός, ὃς τοσοῦτον τοῦ κινδύνου κατεφρόνησεν παρὰ τὸ αἰσχρόν τι ὑπομεῖναι ὥστε, ἐπειδὴ εἶπεν ἡ μήτηρ αὐτῷ προθυμουμένῳ Ἕκτορα ἀποκτεῖναι, θεὸς οὖσα, οὑτωσί πως, ὡς ἐγὼ οἶμαι·
+001.55.04@en For according to your argument all the demigods would be bad who died at {placeName} Troy {/placeName} , including the son of Thetis, who so despised danger, in comparison with enduring any disgrace, that when his mother (and she was a goddess) said to him, as he was eager to slay Hector, something like this, I believe,
+001.55.05@grc {q} ὦ παῖ, εἰ τιμωρήσεις Πατρόκλῳ τῷ ἑταίρῳ τὸν φόνον καὶ Ἕκτορα ἀποκτενεῖς, αὐτὸς ἀποθανῇ —
+001.55.05@en {start-quote} My son, if you avenge the death of your friend Patroclus and kill Hector, you yourself shall die;
+001.55.06@grc αὐτίκα γάρ τοι, {/q} φησί, {q} μεθ’ Ἕκτορα πότμος ἑτοῖμος {/q} —
+001.55.06@en for straightway, after Hector, is death appointed unto you; {end-quote}
+001.55.07@grc ὁ δὲ τοῦτο ἀκούσας τοῦ μὲν θανάτου καὶ τοῦ κινδύνου ὠλιγώρησε, πολὺ δὲ μᾶλλον {28d} δείσας τὸ ζῆν κακὸς ὢν καὶ τοῖς φίλοις μὴ τιμωρεῖν, {q} αὐτίκα, {/q} φησί, {q} τεθναίην, δίκην ἐπιθεὶς τῷ ἀδικοῦντι, ἵνα μὴ ἐνθάδε μένω καταγέλαστος παρὰ νηυσὶ κορωνίσιν ἄχθος ἀρούρης. {/q}
+001.55.07@en he, when he heard this, made light of death and danger, and feared much more to live as a coward and not to avenge his friends, and said, {start-quote} Straightway may I die, after doing vengeance upon the wrongdoer, that I may not stay here, jeered at beside the curved ships, a burden of the earth.
+001.55.08@grc ὴ αὐτὸν οἴει φροντίσαι θανάτου καὶ κινδύνου; {/q}
+001.55.08@en Do you think he considered death and danger? {end-quote} {/q}
+
+001.56.01@grc οὕτω γὰρ ἔχει, ὦ ἄνδρες Ἀθηναῖοι, τῇ ἀληθείᾳ·
+001.56.01@en {p} For thus it is, men of {placeName} Athens {/placeName} , in truth;
+001.56.02@grc οὗ ἄν τις ἑαυτὸν τάξῃ ἡγησάμενος βέλτιστον εἶναι ἢ ὑπ’ ἄρχοντος ταχθῇ, ἐνταῦθα δεῖ, ὡς ἐμοὶ δοκεῖ, μένοντα κινδυνεύειν, μηδὲν ὑπολογιζόμενον μήτε θάνατον μήτε ἄλλο μηδὲν πρὸ τοῦ αἰσχροῦ.
+001.56.02@en wherever a man stations himself, thinking it is best to be there, or is stationed by his commander, there he must, as it seems to me, remain and run his risks, considering neither death nor any other thing more than disgrace.
+001.56.03@grc ἐγὼ οὖν δεινὰ ἂν εἴην εἰργασμένος, ὦ ἄνδρες {28e} Ἀθηναῖοι, εἰ ὅτε μέν με οἱ ἄρχοντες ἔταττον, οὓς ὑμεῖς εἵλεσθε ἄρχειν μου, καὶ ἐν Ποτειδαίᾳ καὶ ἐν Ἀμφιπόλει καὶ ἐπὶ Δηλίῳ, τότε μὲν οὗ ἐκεῖνοι ἔταττον ἔμενον ὥσπερ καὶ ἄλλος τις καὶ ἐκινδύνευον ἀποθανεῖν, τοῦ δὲ θεοῦ τάττοντος, ὡς ἐγὼ ᾠήθην τε καὶ ὑπέλαβον, φιλοσοφοῦντά με δεῖν ζῆν καὶ ἐξετάζοντα ἐμαυτὸν καὶ τοὺς ἄλλους, ἐνταῦθα δὲ φοβηθεὶς ἢ θάνατον {29a} ἣ ἄλλ’ ὁτιοῦν πρᾶγμα λίποιμι τὴν τάξιν.
+001.56.03@en {p} So I should have done a terrible thing, if, when the commanders whom you chose to command me stationed me, both at {placeName} Potidaea {/placeName} and at {placeName} Amphipolis {/placeName} and at {placeName} Delium {/placeName} , I remained where they stationed me, like anybody else, and ran the risk of death, but when the god gave me a station, as I believed and understood, with orders to spend my life in philosophy and in examining myself and others, then I were to desert my post through fear of death or anything else whatsoever.
+001.56.04@grc δεινόν τἂν εἴη, καὶ ὡς ἀληθῶς τότ’ ἄν με δικαίως εἰσάγοι τις εἰς δικαστήριον, ὅτι οὐ νομίζω θεοὺς εἶναι ἀπειθῶν τῇ μαντείᾳ καὶ δεδιὼς θάνατον καὶ οἰόμενος σοφὸς εἶναι οὐκ ὤν.
+001.56.04@en It would be a terrible thing, and truly one might then justly hale me into court, on the charge that I do not believe that there are gods, since I disobey the oracle and fear death and think I am wise when I am not.
+001.56.05@grc τὸ γάρ τοι θάνατον δεδιέναι, ὦ ἄνδρες, οὐδὲν ἄλλο ἐστὶν ἢ δοκεῖν σοφὸν εἶναι μὴ ὄντα·
+001.56.05@en For to fear death, gentlemen, is nothing else than to think one is wise when one is not;
+001.56.06@grc δοκεῖν γὰρ εἰδέναι ἐστὶν ἃ οὐκ οἶδεν.
+001.56.06@en for it is thinking one knows what one does not know.
+001.56.07@grc οἶδε μὲν γὰρ οὐδεὶς τὸν θάνατον οὐδ’ εἰ τυγχάνει τῷ ἀνθρώπῳ πάντων μέγιστον ὂν τῶν ἀγαθῶν, δεδίασι δ’ ὡς εὖ εἰδότες {29b} ὅτι μέγιστον τῶν κακῶν ἐστι.
+001.56.07@en For no one knows whether death be not even the greatest of all blessings to man, but they fear it as if they knew that it is the greatest of evils.
+001.56.08@grc καίτοι πῶς οὐκ ἀμαθία ἐστὶν αὕτη ἡ ἐπονείδιστος, ἡ τοῦ οἴεσθαι εἰδέναι ἃ οὐκ οἶδεν;
+001.56.08@en And is not this the most reprehensible form of ignorance, that of thinking one knows what one does not know?
+001.56.09@grc ἐγὼ δ’, ὦ ἄνδρες, τούτῳ καὶ ἐνταῦθα ἴσως διαφέρω τῶν πολλῶν ἀνθρώπων, καὶ εἰ δή τῳ σοφώτερός του φαίην εἶναι, τούτῳ ἄν, ὅτι οὐκ εἰδὼς ἱκανῶς περὶ τῶν ἐν Ἅιδου οὕτω καὶ οἴομαι οὐκ εἰδέναι·
+001.56.09@en Perhaps, gentlemen, in this matter also I differ from other men in this way, and if I were to say that I am wiser in anything, it would be in this, that not knowing very much about the other world, I do not think I know.
+001.56.10@grc τὸ δὲ ἀδικεῖν καὶ ἀπειθεῖν τῷ βελτίονι καὶ θεῷ καὶ ἀνθρώπῳ, ὅτι κακὸν καὶ αἰσχρόν ἐστιν οἶδα.
+001.56.10@en But I do know that it is evil and disgraceful to do wrong and to disobey him who is better than I, whether he be god or man.
+001.56.11@grc πρὸ οὖν τῶν κακῶν ὧν οἶδα ὅτι κακά ἐστιν, ἃ μὴ οἶδα εἰ καὶ ἀγαθὰ ὄντα τυγχάνει οὐδέποτε φοβήσομαι οὐδὲ φεύξομαι·
+001.56.11@en So I shall never fear or avoid those things concerning which I do not know whether they are good or bad rather than those which I know are bad.
+001.56.12@grc ὥστε οὐδ’ εἴ {29c} με νῦν ὑμεῖς ἀφίετε Ἀνύτῳ ἀπιστήσαντες, ὃς ἔφη ἢ τὴν ἀρχὴν οὐ δεῖν ἐμὲ δεῦρο εἰσελθεῖν ἤ, ἐπειδὴ εἰσῆλθον, οὐχ οἷόν τ’ εἶναι τὸ μὴ ἀποκτεῖναί με, λέγων πρὸς ὑμᾶς ὡς εἰ διαφευξοίμην ἤδη {del} ἂν {/del} ὑμῶν οἱ ὑεῖς ἐπιτηδεύοντες ἃ Σωκράτης διδάσκει πάντες παντάπασι διαφθαρήσονται, —
+001.56.12@en And therefore, even if you acquit me now and are not convinced by Anytus, who said that either I ought not to have been brought to trial at all, or since was brought to trial, I must certainly be put to death, adding that if I were acquitted your sons would all be utterly ruined by practicing what I teach —
+001.56.13@grc εἴ μοι πρὸς ταῦτα εἴποιτε·
+001.56.13@en if you should say to me in reply to this:
+001.56.14@grc {q} ὦ Σώκρατες, νῦν μὲν Ἀνύτῳ οὐ πεισόμεθα ἀλλ’ ἀφίεμέν σε, ἐπὶ τούτῳ μέντοι, ἐφ’ ᾧτε μηκέτι ἐν ταύτῃ τῇ ζητήσει διατρίβειν μηδὲ φιλοσοφεῖν·
+001.56.14@en {q} Socrates, this time we will not do as Anytus says, but we will let you go, on this condition, however, that you no longer spend your time in this investigation or in philosophy,
+001.56.15@grc ἐὰν δὲ {29d} ἁλῷς ἔτι τοῦτο πράττων, ἀποθανῇ {/q} —
+001.56.15@en and if you are caught doing so again you shall die {/q} ;
+001.56.16@grc εἰ οὖν με, ὅπερ εἶπον, ἐπὶ τούτοις ἀφίοιτε, εἴποιμ’ ἂν ὑμῖν ὅτι {q} ἐγὼ ὑμᾶς, ὦ ἄνδρες Ἀθηναῖοι, ἀσπάζομαι μὲν καὶ φιλῶ, πείσομαι δὲ μᾶλλον τῷ θεῷ ἢ ὑμῖν, καὶ ἕωσπερ ἂν ἐμπνέω καὶ οἷός τε ὦ, οὐ μὴ παύσωμαι φιλοσοφῶν καὶ ὑμῖν παρακελευόμενός τε καὶ ἐνδεικνύμενος ὅτῳ ἂν ἀεὶ ἐντυγχάνω ὑμῶν, λέγων οἷάπερ εἴωθα, ὅτι {q} ὦ ἄριστε ἀνδρῶν, Ἀθηναῖος ὤν, πόλεως τῆς μεγίστης καὶ εὐδοκιμωτάτης εἰς σοφίαν καὶ ἰσχύν, χρημάτων μὲν οὐκ αἰσχύνῃ ἐπιμελούμενος ὅπως σοι ἔσται ὡς πλεῖστα, {29e} καὶ δόξης καὶ τιμῆς, φρονήσεως δὲ καὶ ἀληθείας καὶ τῆς ψυχῆς ὅπως ὡς βελτίστη ἔσται οὐκ ἐπιμελῇ οὐδὲ φροντίζεις; {/q} {/q}
+001.56.16@en if you should let me go on this condition which I have mentioned, I should say to you, {q} Men of {placeName} Athens {/placeName} , I respect and love you, but I shall obey the god rather than you, and while I live and am able to continue, I shall never give up philosophy or stop exhorting you and pointing out the truth to any one of you whom I may meet, saying in my accustomed way: {placeName} Athens {/placeName} , the greatest of cities and the most famous for wisdom and power, not ashamed to care for the acquisition of wealth and for reputation and honor, when you neither care nor take thought for wisdom and truth and the perfection of your soul? {/q} {q}
+001.56.17@grc {q} καὶ ἐάν τις ὑμῶν ἀμφισβητήσῃ καὶ φῇ ἐπιμελεῖσθαι, οὐκ εὐθὺς ἀφήσω αὐτὸν οὐδ’ ἄπειμι, ἀλλ’ ἐρήσομαι αὐτὸν καὶ ἐξετάσω καὶ ἐλέγξω, καὶ ἐάν μοι μὴ δοκῇ κεκτῆσθαι ἀρετήν, {30a} φάναι δέ, ὀνειδιῶ ὅτι τὰ πλείστου ἄξια περὶ ἐλαχίστου ποιεῖται, τὰ δὲ φαυλότερα περὶ πλείονος.
+001.56.17@en And if any of you argues the point, and says he does care, I shall not let him go at once, nor shall I go away, but I shall question and examine and cross-examine him, and if I find that he does not possess virtue, but says he does, I shall rebuke him for scorning the things that are of most importance and caring more for what is of less worth.
+001.56.18@grc ταῦτα καὶ νεωτέρῳ καὶ πρεσβυτέρῳ ὅτῳ ἂν ἐντυγχάνω ποιήσω, καὶ ξένῳ καὶ ἀστῷ, μᾶλλον δὲ τοῖς ἀστοῖς, ὅσῳ μου ἐγγυτέρω ἐστὲ γένει.
+001.56.18@en This I shall do to whomever I meet, young and old, foreigner and citizen, but most to the citizens, inasmuch as you are more nearly related to me.
+001.56.19@grc ταῦτα γὰρ κελεύει ὁ θεός, εὖ ἴστε, καὶ ἐγὼ οἴομαι οὐδέν πω ὑμῖν μεῖζον ἀγαθὸν γενέσθαι ἐν τῇ πόλει ἢ τὴν ἐμὴν τῷ θεῷ ὑπηρεσίαν.
+001.56.19@en For know that the god commands me to do this, and I believe that no greater good ever came to pass in the city than my service to the god.
+001.56.20@grc οὐδὲν γὰρ ἄλλο πράττων ἐγὼ περιέρχομαι ἢ πείθων ὑμῶν καὶ νεωτέρους καὶ πρεσβυτέρους μήτε σωμάτων {30b} ἐπιμελεῖσθαι μήτε χρημάτων πρότερον μηδὲ οὕτω σφόδρα ὡς τῆς ψυχῆς ὅπως ὡς ἀρίστη ἔσται, λέγων ὅτι {q} οὐκ ἐκ χρημάτων ἀρετὴ γίγνεται, ἀλλ’ ἐξ ἀρετῆς χρήματα καὶ τὰ ἄλλα ἀγαθὰ τοῖς ἀνθρώποις ἅπαντα καὶ ἰδίᾳ καὶ δημοσίᾳ. {/q}
+001.56.20@en For I go about doing nothing else than urging you, young and old, not to care for your persons or your property more than for the perfection of your souls, or even so much; and I tell you that virtue does not come from money, but from virtue comes money and all other good things to man, both to the individual and to the state.
+001.56.21@grc εἰ μὲν οὖν ταῦτα λέγων διαφθείρω τοὺς νέους, ταῦτ’ ἂν εἴη βλαβερά·
+001.56.21@en If by saying these things I corrupt the youth, these things must be injurious;
+001.56.22@grc εἰ δέ τίς μέ φησιν ἄλλα λέγειν ἢ ταῦτα, οὐδὲν λέγει.
+001.56.22@en but if anyone asserts that I say other things than these, he says what is untrue.
+001.56.23@grc πρὸς ταῦτα, {/q} φαίην ἄν, {q} ὦ ἄνδρες Ἀθηναῖοι, ἢ πείθεσθε Ἀνύτῳ ἢ μή, καὶ ἢ ἀφίετέ με ἢ μή, ὡς ἐμοῦ οὐκ {30c} ἂν ποιήσαντος ἄλλα, οὐδ’ εἰ μέλλω πολλάκις τεθνάναι. {/q}
+001.56.23@en Therefore I say to you, men of {placeName} Athens {/placeName} , either do as Anytus tells you, or not, and either acquit me, or not, knowing that I shall not change my conduct even if I am to die many times over. {/q}
+
+001.57.01@grc μὴ θορυβεῖτε, ὦ ἄνδρες Ἀθηναῖοι, ἀλλ’ ἐμμείνατέ μοι οἷς ἐδεήθην ὑμῶν, μὴ θορυβεῖν ἐφ’ οἷς ἂν λέγω ἀλλ’ ἀκούειν·
+001.57.01@en {p} Do not make a disturbance, men of {placeName} Athens {/placeName} ; continue to do what I asked of you, not to interrupt my speech by disturbances, but to hear me;
+001.57.02@grc καὶ γάρ, ὡς ἐγὼ οἶμαι, ὀνήσεσθε ἀκούοντες.
+001.57.02@en and I believe you will profit by hearing.
+001.57.03@grc μέλλω γὰρ οὖν ἄττα ὑμῖν ἐρεῖν καὶ ἄλλα ἐφ’ οἷς ἴσως βοήσεσθε·
+001.57.03@en Now I am going to say some things to you at which you will perhaps cry out;
+001.57.04@grc ἀλλὰ μηδαμῶς ποιεῖτε τοῦτο.
+001.57.04@en but do not do so by any means.
+001.57.05@grc εὖ γὰρ ἴστε, ἐάν με ἀποκτείνητε τοιοῦτον ὄντα οἷον ἐγὼ λέγω, οὐκ ἐμὲ μείζω βλάψετε ἢ ὑμᾶς αὐτούς·
+001.57.05@en For know that if you kill me, I being such a man as I say I am, you will not injure me so much as yourselves;
+001.57.06@grc ἐμὲ μὲν γὰρ οὐδὲν ἂν βλάψειεν οὔτε Μέλητος οὔτε Ἄνυτος —
+001.57.06@en for neither Meletus nor Anytus could injure me;
+001.57.07@grc οὐδὲ γὰρ ἂν δύναιτο —
+001.57.07@en that would be impossible,
+001.57.08@grc οὐ γὰρ οἴομαι θεμιτὸν {30d} εἶναι ἀμείνονι ἀνδρὶ ὑπὸ χείρονος βλάπτεσθαι.
+001.57.08@en for I believe it is not God’s will that a better man be injured by a worse.
+001.57.09@grc ἀποκτείνειε μεντἂν ἴσως ἢ ἐξελάσειεν ἢ ἀτιμώσειεν·
+001.57.09@en He might, however, perhaps kill me or banish me or disfranchise me;
+001.57.10@grc ἀλλὰ ταῦτα οὗτος μὲν ἴσως οἴεται καὶ ἄλλος τίς που μεγάλα κακά, ἐγὼ δ’ οὐκ οἴομαι, ἀλλὰ πολὺ μᾶλλον ποιεῖν ἃ οὑτοσὶ νῦν ποιεῖ, ἄνδρα ἀδίκως ἐπιχειρεῖν ἀποκτεινύναι.
+001.57.10@en and perhaps he thinks he would thus inflict great injuries upon me, and others may think so, but I do not; I think he does himself a much greater injury by doing what he is doing now — killing a man unjustly.
+001.57.11@grc νῦν οὖν, ὦ ἄνδρες Ἀθηναῖοι, πολλοῦ δέω ἐγὼ ὑπὲρ ἐμαυτοῦ ἀπολογεῖσθαι, ὥς τις ἂν οἴοιτο, ἀλλὰ ὑπὲρ ὑμῶν, μή τι ἐξαμάρτητε περὶ τὴν τοῦ {30e} θεοῦ δόσιν ὑμῖν ἐμοῦ καταψηφισάμενοι.
+001.57.11@en And so, men of {placeName} Athens {/placeName} , I am now making my defence not for my own sake, as one might imagine, but far more for yours, that you may not by condemning me err in your treatment of the gift the God gave you.
+001.57.12@grc ἐὰν γάρ με ἀποκτείνητε, οὐ ῥᾳδίως ἄλλον τοιοῦτον εὑρήσετε, ἀτεχνῶς —
+001.57.12@en For if you put me to death, you will not easily find another, who,
+001.57.13@grc εἰ καὶ γελοιότερον εἰπεῖν —
+001.57.13@en to use a rather absurd figure,
+001.57.14@grc προσκείμενον τῇ πόλει ὑπὸ τοῦ θεοῦ ὥσπερ ἵππῳ μεγάλῳ μὲν καὶ γενναίῳ, ὑπὸ μεγέθους δὲ νωθεστέρῳ καὶ δεομένῳ ἐγείρεσθαι ὑπὸ μύωπός τινος, οἷον δή μοι δοκεῖ ὁ θεὸς ἐμὲ τῇ πόλει προστεθηκέναι τοιοῦτόν τινα, ὃς ὑμᾶς ἐγείρων καὶ πείθων καὶ ὀνειδίζων ἕνα ἕκαστον {31a} οὐδὲν παύομαι τὴν ἡμέραν ὅλην πανταχοῦ προσκαθίζων.
+001.57.14@en attaches himself to the city as a gadfly to a horse, which, though large and well bred, is sluggish on account of his size and needs to be aroused by stinging. I think the god fastened me upon the city in some such capacity, and I go about arousing, and urging and reproaching each one of you, constantly alighting upon you everywhere the whole day long.
+001.57.15@grc τοιοῦτος οὖν ἄλλος οὐ ῥᾳδίως ὑμῖν γενήσεται, ὦ ἄνδρες, ἀλλ’ ἐὰν ἐμοὶ πείθησθε, φείσεσθέ μου·
+001.57.15@en Such another is not likely to come to you, gentlemen; but if you take my advice, you will spare me.
+001.57.16@grc ὑμεῖς δ’ ἴσως τάχ’ ἂν ἀχθόμενοι, ὥσπερ οἱ νυστάζοντες ἐγειρόμενοι, κρούσαντες ἄν με, πειθόμενοι Ἀνύτῳ, ῥᾳδίως ἂν ἀποκτείναιτε, εἶτα τὸν λοιπὸν βίον καθεύδοντες διατελοῖτε ἄν, εἰ μή τινα ἄλλον ὁ θεὸς ὑμῖν ἐπιπέμψειεν κηδόμενος ὑμῶν.
+001.57.16@en But you, perhaps, might be angry, like people awakened from a nap, and might slap me, as Anytus advises, and easily kill me; then you would pass the rest of your lives in slumber, unless God, in his care for you, should send someone else to sting you.
+001.57.17@grc ὅτι δ’ ἐγὼ τυγχάνω ὢν τοιοῦτος οἷος ὑπὸ τοῦ θεοῦ τῇ πόλει δεδόσθαι, ἐνθένδε {31b} ἂν κατανοήσαιτε·
+001.57.17@en And that I am, as I say, a kind of gift from the god, you might understand from this;
+001.57.18@grc οὐ γὰρ ἀνθρωπίνῳ ἔοικε τὸ ἐμὲ τῶν μὲν ἐμαυτοῦ πάντων ἠμεληκέναι καὶ ἀνέχεσθαι τῶν οἰκείων ἀμελουμένων τοσαῦτα ἤδη ἔτη, τὸ δὲ ὑμέτερον πράττειν ἀεί, ἰδίᾳ ἑκάστῳ προσιόντα ὥσπερ πατέρα ἢ ἀδελφὸν πρεσβύτερον πείθοντα ἐπιμελεῖσθαι ἀρετῆς.
+001.57.18@en for I have neglected all my own affairs and have been enduring the neglect of my concerns all these years, but I am always busy in your interest, coming to each one of you individually like a father or an elder brother and urging you to care for virtue; now that is not like human conduct.
+001.57.19@grc καὶ εἰ μέν τι ἀπὸ τούτων ἀπέλαυον καὶ μισθὸν λαμβάνων ταῦτα παρεκελευόμην, εἶχον ἄν τινα λόγον·
+001.57.19@en If I derived any profit from this and received pay for these exhortations, there would be some sense in it;
+001.57.20@grc νῦν δὲ ὁρᾶτε δὴ καὶ αὐτοὶ ὅτι οἱ κατήγοροι τἆλλα πάντα ἀναισχύντως οὕτω κατηγοροῦντες τοῦτό γε οὐχ οἷοί τε ἐγένοντο ἀπαναισχυντῆσαι {31c} παρασχόμενοι μάρτυρα, ὡς ἐγώ ποτέ τινα ἢ ἐπραξάμην μισθὸν ἢ ᾔτησα.
+001.57.20@en but now you yourselves see that my accusers, though they accuse me of everything else in such a shameless way, have not been able to work themselves up to such a pitch of shamelessness as to produce a witness to testify that I ever exacted or asked pay of anyone.
+001.57.21@grc ἱκανὸν γάρ, οἶμαι, ἐγὼ παρέχομαι τὸν μάρτυρα ὡς ἀληθῆ λέγω, τὴν πενίαν.
+001.57.21@en For I think I have a sufficient witness that I speak the truth, namely, my poverty.
+
+001.58.01@grc ἴσως ἂν οὖν δόξειεν ἄτοπον εἶναι, ὅτι δὴ ἐγὼ ἰδίᾳ μὲν ταῦτα συμβουλεύω περιιὼν καὶ πολυπραγμονῶ, δημοσίᾳ δὲ οὐ τολμῶ ἀναβαίνων εἰς τὸ πλῆθος τὸ ὑμέτερον συμβουλεύειν τῇ πόλει.
+001.58.01@en {p} Perhaps it may seem strange that I go about and interfere in other people’s affairs to give this advice in private, but do not venture to come before your assembly and advise the state.
+001.58.02@grc τούτου δὲ αἴτιόν ἐστιν ὃ ὑμεῖς ἐμοῦ πολλάκις ἀκηκόατε πολλαχοῦ λέγοντος, ὅτι μοι θεῖόν τι καὶ {31d} δαιμόνιον γίγνεται {del} φωνή {/del} , ὃ δὴ καὶ ἐν τῇ γραφῇ ἐπικωμῳδῶν Μέλητος ἐγράψατο.
+001.58.02@en But the reason for this, as you have heard me say at many times and places, is that something divine and spiritual comes to me, the very thing which Meletus ridiculed in his indictment.
+001.58.03@grc ἐμοὶ δὲ τοῦτ’ ἔστιν ἐκ παιδὸς ἀρξάμενον, φωνή τις γιγνομένη, ἣ ὅταν γένηται, ἀεὶ ἀποτρέπει με τοῦτο ὃ ἂν μέλλω πράττειν, προτρέπει δὲ οὔποτε.
+001.58.03@en I have had this from my childhood; it is a sort of voice that comes to me, and when it comes it always holds me back from what I am thinking of doing, but never urges me forward.
+001.58.04@grc τοῦτ’ ἔστιν ὅ μοι ἐναντιοῦται τὰ πολιτικὰ πράττειν, καὶ παγκάλως γέ μοι δοκεῖ ἐναντιοῦσθαι·
+001.58.04@en This it is which opposes my engaging in politics. And I think this opposition is a very good thing;
+001.58.05@grc εὖ γὰρ ἴστε, ὦ ἄνδρες Ἀθηναῖοι, εἰ ἐγὼ πάλαι ἐπεχείρησα πράττειν τὰ πολιτικὰ πράγματα, πάλαι ἂν ἀπολώλη καὶ οὔτ’ ἂν ὑμᾶς ὠφελήκη {31e} οὐδὲν οὔτ’ ἂν ἐμαυτόν.
+001.58.05@en for you may be quite sure, men of {placeName} Athens {/placeName} , that if I had undertaken to go into politics, I should have been put to death long ago and should have done no good to you or to myself.
+001.58.06@grc καί μοι μὴ ἄχθεσθε λέγοντι τἀληθῆ·
+001.58.06@en And do not be angry with me for speaking the truth;
+001.58.07@grc οὐ γὰρ ἔστιν ὅστις ἀνθρώπων σωθήσεται οὔτε ὑμῖν οὔτε ἄλλῳ πλήθει οὐδενὶ γνησίως ἐναντιούμενος καὶ διακωλύων πολλὰ ἄδικα καὶ παράνομα ἐν τῇ πόλει γίγνεσθαι, ἀλλ’ {32a} ἀναγκαῖόν ἐστι τὸν τῷ ὄντι μαχούμενον ὑπὲρ τοῦ δικαίου, καὶ εἰ μέλλει ὀλίγον χρόνον σωθήσεσθαι, ἰδιωτεύειν ἀλλὰ μὴ δημοσιεύειν.
+001.58.07@en the fact is that no man will save his life who nobly opposes you or any other populace and prevents many unjust and illegal things from happening in the state.A man who really fights for the right, if he is to preserve his life for even a little while, must be a private citizen, not a public man.
+
+001.59.01@grc μεγάλα δ’ ἔγωγε ὑμῖν τεκμήρια παρέξομαι τούτων, οὐ λόγους ἀλλ’ ὃ ὑμεῖς τιμᾶτε, ἔργα.
+001.59.01@en {p} I will give you powerful proofs of this not mere words, but what you honor more, — actions.
+001.59.02@grc ἀκούσατε δή μοι τὰ συμβεβηκότα, ἵνα εἰδῆτε ὅτι οὐδ’ ἂν ἑνὶ ὑπεικάθοιμι παρὰ τὸ δίκαιον δείσας θάνατον, μὴ ὑπείκων δὲ ἀλλὰ κἂν ἀπολοίμην.
+001.59.02@en And listen to what happened to me, that you may be convinced that I would never yield to any one, if that was wrong, through fear of death, but would die rather than yield.
+001.59.03@grc ἐρῶ δὲ ὑμῖν φορτικὰ μὲν καὶ δικανικά, ἀληθῆ δέ.
+001.59.03@en The tale I am going to tell you is ordinary and commonplace, but true.
+001.59.04@grc ἐγὼ γάρ, ὦ ἄνδρες Ἀθηναῖοι, ἄλλην μὲν ἀρχὴν οὐδεμίαν {32b} πώποτε ἦρξα ἐν τῇ πόλει, ἐβούλευσα δέ·
+001.59.04@en I, men of {placeName} Athens {/placeName} , never held any other office in the state, but I was a senator;
+001.59.05@grc καὶ ἔτυχεν ἡμῶν ἡ φυλὴ Ἀντιοχὶς πρυτανεύουσα ὅτε ὑμεῖς τοὺς δέκα στρατηγοὺς τοὺς οὐκ ἀνελομένους τοὺς ἐκ τῆς ναυμαχίας ἐβουλεύσασθε ἁθρόους κρίνειν, παρανόμως, ὡς ἐν τῷ ὑστέρῳ χρόνῳ πᾶσιν ὑμῖν ἔδοξεν.
+001.59.05@en and it happened that my tribe held the presidency when you wished to judge collectively, not severally, the ten generals who had failed to gather up the slain after the naval battle; this was illegal, as you all agreed afterwards.
+001.59.06@grc τότ’ ἐγὼ μόνος τῶν πρυτάνεων ἠναντιώθην ὑμῖν μηδὲν ποιεῖν παρὰ τοὺς νόμους καὶ ἐναντία ἐψηφισάμην·
+001.59.06@en At that time I was the only one of the prytanes who opposed doing anything contrary to the laws,
+001.59.07@grc καὶ ἑτοίμων ὄντων ἐνδεικνύναι με καὶ ἀπάγειν τῶν ῥητόρων, καὶ ὑμῶν κελευόντων καὶ βοώντων, μετὰ τοῦ {32c} νόμου καὶ τοῦ δικαίου ᾤμην μᾶλλόν με δεῖν διακινδυνεύειν ἢ μεθ’ ὑμῶν γενέσθαι μὴ δίκαια βουλευομένων, φοβηθέντα δεσμὸν ἢ θάνατον.
+001.59.07@en and although the orators were ready to impeach and arrest me, and though you urged them with shouts to do so, I thought I must run the risk to the end with law and justice on my side, rather than join with you when your wishes were unjust, through fear of imprisonment or death.
+001.59.08@grc καὶ ταῦτα μὲν ἦν ἔτι δημοκρατουμένης τῆς πόλεως·
+001.59.08@en That was when the democracy still existed;
+001.59.09@grc ἐπειδὴ δὲ ὀλιγαρχία ἐγένετο, οἱ τριάκοντα αὖ μεταπεμψάμενοί με πέμπτον αὐτὸν εἰς τὴν θόλον προσέταξαν ἀγαγεῖν ἐκ Σαλαμῖνος Λέοντα τὸν Σαλαμίνιον ἵνα ἀποθάνοι, οἷα δὴ καὶ ἄλλοις ἐκεῖνοι πολλοῖς πολλὰ προσέταττον, βουλόμενοι ὡς πλείστους ἀναπλῆσαι αἰτιῶν.
+001.59.09@en and after the oligarchy was established, the Thirty sent for me with four others to come to the rotunda and ordered us to bring {placeName} Leon {/placeName} the Salaminian from {placeName} Salamis {/placeName} to be put to death. They gave many such orders to others also, because they wished to implicate as many in their crimes as they could.
+001.59.10@grc τότε μέντοι ἐγὼ {32d} οὐ λόγῳ ἀλλ’ ἔργῳ αὖ ἐνεδειξάμην ὅτι ἐμοὶ θανάτου μὲν μέλει, εἰ μὴ ἀγροικότερον ἦν εἰπεῖν, οὐδ’ ὁτιοῦν, τοῦ δὲ μηδὲν ἄδικον μηδ’ ἀνόσιον ἐργάζεσθαι, τούτου δὲ τὸ πᾶν μέλει.
+001.59.10@en Then I, however, showed again, by action, not in word only, that I did not care a whit for death if that be not too rude an expression, but that I did care with all my might not to do anything unjust or unholy.
+001.59.11@grc ἐμὲ γὰρ ἐκείνη ἡ ἀρχὴ οὐκ ἐξέπληξεν, οὕτως ἰσχυρὰ οὖσα, ὥστε ἄδικόν τι ἐργάσασθαι, ἀλλ’ ἐπειδὴ ἐκ τῆς θόλου ἐξήλθομεν, οἱ μὲν τέτταρες ᾤχοντο εἰς Σαλαμῖνα καὶ ἤγαγον Λέοντα, ἐγὼ δὲ ᾠχόμην ἀπιὼν οἴκαδε.
+001.59.11@en For that government, with all its power, did not frighten me into doing anything unjust, but when we came out of the rotunda, the other four went to {placeName} Salamis {/placeName} and arrested {placeName} Leon {/placeName} , but I simply went home;
+001.59.12@grc καὶ ἴσως ἂν διὰ ταῦτα ἀπέθανον, εἰ μὴ ἡ ἀρχὴ διὰ ταχέων κατελύθη.
+001.59.12@en and perhaps I should have been put to death for it, if the government had not quickly been put down.
+001.59.13@grc καὶ {32e} τούτων ὑμῖν ἔσονται πολλοὶ μάρτυρες.
+001.59.13@en Of these facts you can have many witnesses.
+
+001.60.01@grc ἆρ’ οὖν ἄν με οἴεσθε τοσάδε ἔτη διαγενέσθαι εἰ ἔπραττον τὰ δημόσια, καὶ πράττων ἀξίως ἀνδρὸς ἀγαθοῦ ἐβοήθουν τοῖς δικαίοις καὶ ὥσπερ χρὴ τοῦτο περὶ πλείστου ἐποιούμην;
+001.60.01@en {p} Do you believe that I could have lived so many years if I had been in public life and had acted as a good man should act, lending my aid to what is just and considering that of the highest importance?
+001.60.02@grc πολλοῦ γε δεῖ, ὦ ἄνδρες Ἀθηναῖοι·
+001.60.02@en Far from it, men of {placeName} Athens {/placeName} ;
+001.60.03@grc οὐδὲ γὰρ ἂν ἄλλος {33a} ἀνθρώπων οὐδείς.
+001.60.03@en nor could any other man.
+001.60.04@grc ἀλλ’ ἐγὼ διὰ παντὸς τοῦ βίου δημοσίᾳ τε εἴ πού τι ἔπραξα τοιοῦτος φανοῦμαι, καὶ ἰδίᾳ ὁ αὐτὸς οὗτος, οὐδενὶ πώποτε συγχωρήσας οὐδὲν παρὰ τὸ δίκαιον οὔτε ἄλλῳ οὔτε τούτων οὐδενὶ οὓς δὴ διαβάλλοντες ἐμέ φασιν ἐμοὺς μαθητὰς εἶναι.
+001.60.04@en But you will find that through all my life, both in public, if I engaged in any public activity, and in private, I have always been the same as now, and have never yielded to any one wrongly, whether it were any other person or any of those who are said by my traducers to be my pupils.
+001.60.05@grc ἐγὼ δὲ διδάσκαλος μὲν οὐδενὸς πώποτ’ ἐγενόμην·
+001.60.05@en But I was never any one’s teacher.
+001.60.06@grc εἰ δέ τίς μου λέγοντος καὶ τὰ ἐμαυτοῦ πράττοντος ἐπιθυμοῖ ἀκούειν, εἴτε νεώτερος εἴτε πρεσβύτερος, οὐδενὶ πώποτε ἐφθόνησα, οὐδὲ χρήματα μὲν λαμβάνων διαλέγομαι {33b} μὴ λαμβάνων δὲ οὔ, ἀλλ’ ὁμοίως καὶ πλουσίῳ καὶ πένητι παρέχω ἐμαυτὸν ἐρωτᾶν, καὶ ἐάν τις βούληται ἀποκρινόμενος ἀκούειν ὧν ἂν λέγω.
+001.60.06@en If any one, whether young or old, wishes to hear me speaking and pursuing my mission, I have never objected, nor do I converse only when I am paid and not otherwise, but I offer myself alike to rich and poor; I ask questions, and whoever wishes may answer and hear what I say.
+001.60.07@grc καὶ τούτων ἐγὼ εἴτε τις χρηστὸς γίγνεται εἴτε μή, οὐκ ἂν δικαίως τὴν αἰτίαν ὑπέχοιμι, ὧν μήτε ὑπεσχόμην μηδενὶ μηδὲν πώποτε μάθημα μήτε ἐδίδαξα·
+001.60.07@en And whether any of them turns out well or ill, I should not justly be held responsible, since I never promised or gave any instruction to any of them;
+001.60.08@grc εἰ δέ τίς φησι παρ’ ἐμοῦ πώποτέ τι μαθεῖν ἢ ἀκοῦσαι ἰδίᾳ ὅτι μὴ καὶ οἱ ἄλλοι πάντες, εὖ ἴστε ὅτι οὐκ ἀληθῆ λέγει.
+001.60.08@en but if any man says that he ever learned or heard anything privately from me, which all the others did not, be assured that he is lying.
+
+001.61.01@grc ἀλλὰ διὰ τί δή ποτε μετ’ ἐμοῦ χαίρουσί τινες πολὺν {33c} χρόνον διατρίβοντες;
+001.61.01@en {p} But why then do some people love to spend much of their time with me?
+001.61.02@grc ἀκηκόατε, ὦ ἄνδρες Ἀθηναῖοι, πᾶσαν ὑμῖν τὴν ἀλήθειαν ἐγὼ εἶπον·
+001.61.02@en You have heard the reason, men of {placeName} Athens {/placeName} ;
+001.61.03@grc ὅτι ἀκούοντες χαίρουσιν ἐξεταζομένοις τοῖς οἰομένοις μὲν εἶναι σοφοῖς, οὖσι δ’ οὔ.
+001.61.03@en for I told you the whole truth; it is because they like to listen when those are examined who think they are wise and are not so;
+001.61.04@grc ἔστι γὰρ οὐκ ἀηδές.
+001.61.04@en for it is amusing.
+001.61.05@grc ἐμοὶ δὲ τοῦτο, ὡς ἐγώ φημι, προστέτακται ὑπὸ τοῦ θεοῦ πράττειν καὶ ἐκ μαντείων καὶ ἐξ ἐνυπνίων καὶ παντὶ τρόπῳ ᾧπέρ τίς ποτε καὶ ἄλλη θεία μοῖρα ἀνθρώπῳ καὶ ὁτιοῦν προσέταξε πράττειν.
+001.61.05@en But, as I believe, I have been commanded to do this by the God through oracles and dreams and in every way in which any man was ever commanded by divine power to do anything whatsoever.
+001.61.06@grc ταῦτα, ὦ ἄνδρες Ἀθηναῖοι, καὶ ἀληθῆ ἐστιν καὶ εὐέλεγκτα.
+001.61.06@en This, Athenians, is true and easily tested.
+001.61.07@grc εἰ γὰρ δὴ ἔγωγε τῶν νέων {33d} τοὺς μὲν διαφθείρω τοὺς δὲ διέφθαρκα, χρῆν δήπου, εἴτε τινὲς αὐτῶν πρεσβύτεροι γενόμενοι ἔγνωσαν ὅτι νέοις οὖσιν αὐτοῖς ἐγὼ κακὸν πώποτέ τι συνεβούλευσα, νυνὶ αὐτοὺς ἀναβαίνοντας ἐμοῦ κατηγορεῖν καὶ τιμωρεῖσθαι·
+001.61.07@en For if I am corrupting some of the young men and have corrupted others, surely some of them who have grown older, if they recognize that I ever gave them any bad advice when they were young, ought now to have come forward to accuse me.
+001.61.08@grc εἰ δὲ μὴ αὐτοὶ ἤθελον, τῶν οἰκείων τινὰς τῶν ἐκείνων, πατέρας καὶ ἀδελφοὺς καὶ ἄλλους τοὺς προσήκοντας, εἴπερ ὑπ’ ἐμοῦ τι κακὸν ἐπεπόνθεσαν αὐτῶν οἱ οἰκεῖοι, νῦν μεμνῆσθαι καὶ τιμωρεῖσθαι.
+001.61.08@en Or if they did not wish to do it themselves, some of their relatives — fathers or brothers or other kinsfolk — ought now to tell the facts.
+001.61.09@grc πάντως δὲ πάρεισιν αὐτῶν πολλοὶ ἐνταυθοῖ οὓς ἐγὼ ὁρῶ, πρῶτον μὲν Κρίτων οὑτοσί, ἐμὸς ἡλικιώτης {33e} καὶ δημότης, Κριτοβούλου τοῦδε πατήρ, ἔπειτα Λυσανίας ὁ Σφήττιος, Αἰσχίνου τοῦδε πατήρ, ἔτι δ’ Ἀντιφῶν ὁ Κηφισιεὺς οὑτοσί, Ἐπιγένους πατήρ, ἄλλοι τοίνυν οὗτοι ὧν οἱ ἀδελφοὶ ἐν ταύτῃ τῇ διατριβῇ γεγόνασιν, Νικόστρατος Θεοζοτίδου, ἀδελφὸς Θεοδότου —
+001.61.09@en And there are many of them present, whom I see; first Crito here, who is of my own age and my own deme and father of Critobulus, who is also present; then there is Lysanias the Sphettian, father of Aeschines, who is here; and also Antiphon of Cephisus, father of Epigenes. Then here are others whose brothers joined in my conversations, Nicostratus, son of Theozotides and brother of Theodotus
+001.61.10@grc καὶ ὁ μὲν Θεόδοτος τετελεύτηκεν, ὥστε οὐκ ἂν ἐκεῖνός γε αὐτοῦ καταδεηθείη —
+001.61.10@en (now Theodotus is dead, so he could not stop him by entreaties),
+001.61.11@grc καὶ Παράλιος ὅδε, ὁ Δημοδόκου, οὗ ἦν Θεάγης ἀδελφός·
+001.61.11@en and Paralus, son of Demodocus; Theages was his brother;
+001.61.12@grc ὅδε δὲ {34a} Ἀδείμαντος, ὁ Ἀρίστωνος, οὗ ἀδελφὸς οὑτοσὶ Πλάτων, καὶ Αἰαντόδωρος, οὗ Ἀπολλόδωρος ὅδε ἀδελφός.
+001.61.12@en and Adimantus, son of Aristo, whose brother is Plato here; and Aeantodorus, whose brother Apollodorus is present.
+001.61.13@grc καὶ ἄλλους πολλοὺς ἐγὼ ἔχω ὑμῖν εἰπεῖν, ὧν τινα ἐχρῆν μάλιστα μὲν ἐν τῷ ἑαυτοῦ λόγῳ παρασχέσθαι Μέλητον μάρτυρα·
+001.61.13@en And I can mention to you many others, some one of whom Meletus ought certainly to have produced as a witness in his speech;
+001.61.14@grc εἰ δὲ τότε ἐπελάθετο, νῦν παρασχέσθω —
+001.61.14@en but if he forgot it then, let him do so now;
+001.61.15@grc ἐγὼ παραχωρῶ —
+001.61.15@en I yield the floor to him,
+001.61.16@grc καὶ λεγέτω εἴ τι ἔχει τοιοῦτον.
+001.61.16@en and let him say, if he has any such testimony.
+001.61.17@grc ἀλλὰ τούτου πᾶν τοὐναντίον εὑρήσετε, ὦ ἄνδρες, πάντας ἐμοὶ βοηθεῖν ἑτοίμους τῷ διαφθείροντι, τῷ κακὰ ἐργαζομένῳ τοὺς οἰκείους αὐτῶν, ὥς φασι Μέλητος καὶ {34b} Ἄνυτος.
+001.61.17@en But you will find that the exact opposite is the case, gentlemen, and that they are all ready to aid me, the man who corrupts and injures their relatives, as Meletus and Anytus say.
+001.61.18@grc αὐτοὶ μὲν γὰρ οἱ διεφθαρμένοι τάχ’ ἂν λόγον ἔχοιεν βοηθοῦντες·
+001.61.18@en Now those who are themselves corrupted might have some motive in aiding me;
+001.61.19@grc οἱ δὲ ἀδιάφθαρτοι, πρεσβύτεροι ἤδη ἄνδρες, οἱ τούτων προσήκοντες, τίνα ἄλλον ἔχουσι λόγον βοηθοῦντες ἐμοὶ ἀλλ’ ἢ τὸν ὀρθόν τε καὶ δίκαιον, ὅτι συνίσασι Μελήτῳ μὲν ψευδομένῳ, ἐμοὶ δὲ ἀληθεύοντι;
+001.61.19@en but what reason could their relatives have, who are not corrupted and are already older men, unless it be the right and true reason, that they know that Meletus is lying and I am speaking the truth?
+
+001.62.01@grc εἶεν δή, ὦ ἄνδρες·
+001.62.01@en {p} Well, gentlemen,
+001.62.02@grc ἃ μὲν ἐγὼ ἔχοιμ’ ἂν ἀπολογεῖσθαι, σχεδόν ἐστι ταῦτα καὶ ἄλλα ἴσως τοιαῦτα.
+001.62.02@en this, and perhaps more like this, is about all I have to say in my defence.
+001.62.03@grc τάχα δ’ ἄν τις {34c} ὑμῶν ἀγανακτήσειεν ἀναμνησθεὶς ἑαυτοῦ, εἰ ὁ μὲν καὶ ἐλάττω τουτουῒ τοῦ ἀγῶνος ἀγῶνα ἀγωνιζόμενος ἐδεήθη τε καὶ ἱκέτευσε τοὺς δικαστὰς μετὰ πολλῶν δακρύων, παιδία τε αὑτοῦ ἀναβιβασάμενος ἵνα ὅτι μάλιστα ἐλεηθείη, καὶ ἄλλους τῶν οἰκείων καὶ φίλων πολλούς, ἐγὼ δὲ οὐδὲν ἄρα τούτων ποιήσω, καὶ ταῦτα κινδυνεύων, ὡς ἂν δόξαιμι, τὸν ἔσχατον κίνδυνον.
+001.62.03@en Perhaps some one among you may be offended when he remembers his own conduct, if he, even in a case of less importance than this, begged and besought the judges with many tears, and brought forward his children to arouse compassion, and many other friends and relatives; whereas I will do none of these things, though I am, apparently, in the very greatest danger.
+001.62.04@grc τάχ’ ἂν οὖν τις ταῦτα ἐννοήσας αὐθαδέστερον ἂν πρός με σχοίη καὶ ὀργισθεὶς αὐτοῖς τούτοις θεῖτο ἂν μετ’ {34d} ὀργῆς τὴν ψῆφον.
+001.62.04@en Perhaps some one with these thoughts in mind may be harshly disposed toward me and may cast his vote in anger.
+001.62.05@grc εἰ δή τις ὑμῶν οὕτως ἔχει —
+001.62.05@en Now if any one of you is so disposed —
+001.62.06@grc οὐκ ἀξιῶ μὲν γὰρ ἔγωγε, εἰ δ’ οὖν —
+001.62.06@en I do not believe there is such a person —
+001.62.07@grc ἐπιεικῆ ἄν μοι δοκῶ πρὸς τοῦτον λέγειν λέγων ὅτι {q} ἐμοί, ὦ ἄριστε, εἰσὶν μέν πού τινες καὶ οἰκεῖοι·
+001.62.07@en but if there should be, I think I should be speaking fairly if I said to him, My friend, I too have relatives,
+001.62.08@grc καὶ γὰρ τοῦτο αὐτὸ τὸ τοῦ Ὁμήρου, οὐδ’ ἐγὼ {q} ἀπὸ δρυὸς οὐδ’ ἀπὸ πέτρης {/q} πέφυκα ἀλλ’ ἐξ ἀνθρώπων, ὥστε καὶ οἰκεῖοί μοί εἰσι καὶ ὑεῖς γε, ὦ ἄνδρες Ἀθηναῖοι, τρεῖς, εἷς μὲν μειράκιον ἤδη, δύο δὲ παιδία·
+001.62.08@en for I am, as Homer has it, {start-quote} not born of an oak or a rock, {end-quote} but of human parents, so that I have relatives and, men of {placeName} Athens {/placeName} , I have three sons, one nearly grown up, and two still children;
+001.62.09@grc ἀλλ’ ὅμως οὐδένα αὐτῶν δεῦρο ἀναβιβασάμενος δεήσομαι ὑμῶν ἀποψηφίσασθαι. {/q}
+001.62.09@en but nevertheless I shall not bring any of them here and beg you to acquit me.
+001.62.10@grc τί δὴ οὖν οὐδὲν τούτων ποιήσω;
+001.62.10@en And why shall I not do so?
+001.62.11@grc οὐκ αὐθαδιζόμενος, ὦ ἄνδρες {34e} Ἀθηναῖοι, οὐδ’ ὑμᾶς ἀτιμάζων, ἀλλ’ εἰ μὲν θαρραλέως ἐγὼ ἔχω πρὸς θάνατον ἢ μή, ἄλλος λόγος, πρὸς δ’ οὖν δόξαν καὶ ἐμοὶ καὶ ὑμῖν καὶ ὅλῃ τῇ πόλει οὔ μοι δοκεῖ καλὸν εἶναι ἐμὲ τούτων οὐδὲν ποιεῖν καὶ τηλικόνδε ὄντα καὶ τοῦτο τοὔνομα ἔχοντα, εἴτ’ οὖν ἀληθὲς εἴτ’ οὖν ψεῦδος, ἀλλ’ οὖν δεδογμένον {35a} γέ ἐστί τῳ Σωκράτη διαφέρειν τῶν πολλῶν ἀνθρώπων.
+001.62.11@en Not because I am stubborn, Athenians, or lack respect for you. Whether I fear death or not is another matter, but for the sake of my good name and yours and that of the whole state, I think it is not right for me to do any of these things in view of my age and my reputation, whether deserved or not; for at any rate the opinion prevails that Socrates is in some way superior to most men.
+001.62.12@grc εἰ οὖν ὑμῶν οἱ δοκοῦντες διαφέρειν εἴτε σοφίᾳ εἴτε ἀνδρείᾳ εἴτε ἄλλῃ ᾑτινιοῦν ἀρετῇ τοιοῦτοι ἔσονται, αἰσχρὸν ἂν εἴη·
+001.62.12@en If then those of you who are supposed to be superior either in wisdom or in courage or in any other virtue whatsoever are to behave in such a way, it would be disgraceful.
+001.62.13@grc οἵουσπερ ἐγὼ πολλάκις ἑώρακά τινας ὅταν κρίνωνται, δοκοῦντας μέν τι εἶναι, θαυμάσια δὲ ἐργαζομένους, ὡς δεινόν τι οἰομένους πείσεσθαι εἰ ἀποθανοῦνται, ὥσπερ ἀθανάτων ἐσομένων ἂν ὑμεῖς αὐτοὺς μὴ ἀποκτείνητε·
+001.62.13@en Why, I have often seen men who have some reputation behaving in the strangest manner, when they were on trial, as if they thought they were going to suffer something terrible if they were put to death, just as if they would be immortal if you did not kill them.
+001.62.14@grc οἳ ἐμοὶ δοκοῦσιν αἰσχύνην τῇ πόλει περιάπτειν, ὥστ’ ἄν τινα καὶ τῶν ξένων {35b} ὑπολαβεῖν ὅτι οἱ διαφέροντες Ἀθηναίων εἰς ἀρετήν, οὓς αὐτοὶ ἑαυτῶν ἔν τε ταῖς ἀρχαῖς καὶ ταῖς ἄλλαις τιμαῖς προκρίνουσιν, οὗτοι γυναικῶν οὐδὲν διαφέρουσιν.
+001.62.14@en It seems to me that they are a disgrace to the state and that any stranger might say that those of the Athenians who excel in virtue, men whom they themselves honor with offices and other marks of esteem, are no better than women.
+001.62.15@grc ταῦτα γάρ, ὦ ἄνδρες Ἀθηναῖοι, οὔτε ὑμᾶς χρὴ ποιεῖν τοὺς δοκοῦντας καὶ ὁπῃοῦν τι εἶναι, οὔτ’, ἂν ἡμεῖς ποιῶμεν, ὑμᾶς ἐπιτρέπειν, ἀλλὰ τοῦτο αὐτὸ ἐνδείκνυσθαι, ὅτι πολὺ μᾶλλον καταψηφιεῖσθε τοῦ τὰ ἐλεινὰ ταῦτα δράματα εἰσάγοντος καὶ καταγέλαστον τὴν πόλιν ποιοῦντος ἢ τοῦ ἡσυχίαν ἄγοντος.
+001.62.15@en Such acts, men of {placeName} Athens {/placeName} , we who have any reputation at all ought not to commit, and if we commit them you ought not to allow it, but you should make it clear that you will be much more ready to condemn a man who puts before you such pitiable scenes and makes the city ridiculous than one who keeps quiet.
+
+001.63.01@grc χωρὶς δὲ τῆς δόξης, ὦ ἄνδρες, οὐδὲ δίκαιόν μοι δοκεῖ {35c} εἶναι δεῖσθαι τοῦ δικαστοῦ οὐδὲ δεόμενον ἀποφεύγειν, ἀλλὰ διδάσκειν καὶ πείθειν.
+001.63.01@en {p} But apart from the question of reputation, gentlemen, I think it is not right to implore the judge or to get acquitted by begging; we ought to inform and convince him.
+001.63.02@grc οὐ γὰρ ἐπὶ τούτῳ κάθηται ὁ δικαστής, ἐπὶ τῷ καταχαρίζεσθαι τὰ δίκαια, ἀλλ’ ἐπὶ τῷ κρίνειν ταῦτα·
+001.63.02@en For the judge is not here to grant favors in matters of justice, but to give judgement;
+001.63.03@grc καὶ ὀμώμοκεν οὐ χαριεῖσθαι οἷς ἂν δοκῇ αὐτῷ, ἀλλὰ δικάσειν κατὰ τοὺς νόμους.
+001.63.03@en and his oath binds him not to do favors according to his pleasure, but to judge according to the laws;
+001.63.04@grc οὔκουν χρὴ οὔτε ἡμᾶς ἐθίζειν ὑμᾶς ἐπιορκεῖν οὔθ’ ὑμᾶς ἐθίζεσθαι·
+001.63.04@en therefore, we ought not to get you into the habit of breaking your oaths, nor ought you to fall into that habit;
+001.63.05@grc οὐδέτεροι γὰρ ἂν ἡμῶν εὐσεβοῖεν.
+001.63.05@en for neither of us would be acting piously.
+001.63.06@grc μὴ οὖν ἀξιοῦτέ με, ὦ ἄνδρες Ἀθηναῖοι, τοιαῦτα δεῖν πρὸς ὑμᾶς πράττειν ἃ μήτε ἡγοῦμαι καλὰ εἶναι μήτε {35d} δίκαια μήτε ὅσια, ἄλλως τε μέντοι νὴ Δία πάντως καὶ ἀσεβείας φεύγοντα ὑπὸ Μελήτου τουτουΐ.
+001.63.06@en Do not, therefore, men of {placeName} Athens {/placeName} , demand of me that I act before you in a way which I consider neither honorable nor right nor pious, especially when impiety is the very thing for which Meletus here has brought me to trial.
+001.63.07@grc σαφῶς γὰρ ἄν, εἰ πείθοιμι ὑμᾶς καὶ τῷ δεῖσθαι βιαζοίμην ὀμωμοκότας, θεοὺς ἂν διδάσκοιμι μὴ ἡγεῖσθαι ὑμᾶς εἶναι, καὶ ἀτεχνῶς ἀπολογούμενος κατηγοροίην ἂν ἐμαυτοῦ ὡς θεοὺς οὐ νομίζω.
+001.63.07@en For it is plain that if by persuasion and supplication I forced you to break your oaths I should teach you to disbelieve in the existence of the gods and in making my defence should accuse myself of not believing in them.
+001.63.08@grc ἀλλὰ πολλοῦ δεῖ οὕτως ἔχειν·
+001.63.08@en But that is far from the truth;
+001.63.09@grc νομίζω τε γάρ, ὦ ἄνδρες Ἀθηναῖοι, ὡς οὐδεὶς τῶν ἐμῶν κατηγόρων, καὶ ὑμῖν ἐπιτρέπω καὶ τῷ θεῷ κρῖναι περὶ ἐμοῦ ὅπῃ μέλλει ἐμοί τε ἄριστα εἶναι καὶ ὑμῖν.
+001.63.09@en for I do believe in them, men of {placeName} Athens {/placeName} , more than any of my accusers, and I entrust my case to you and to God to decide it as shall be best for me and for you.
+
+002.01.01@grc {35e} τὸ μὲν μὴ ἀγανακτεῖν, ὦ ἄνδρες Ἀθηναῖοι, ἐπὶ τούτῳ {36a} τῷ γεγονότι, ὅτι μου κατεψηφίσασθε, ἄλλα τέ μοι πολλὰ συμβάλλεται, καὶ οὐκ ἀνέλπιστόν μοι γέγονεν τὸ γεγονὸς τοῦτο, ἀλλὰ πολὺ μᾶλλον θαυμάζω ἑκατέρων τῶν ψήφων τὸν γεγονότα ἀριθμόν.
+002.01.01@en {sp2} I am not grieved, men of {placeName} Athens {/placeName} , at this vote of condemnation you have cast against me, and that for many reasons, among them the fact that your decision was not a surprise to me. I am much more surprised by the number of votes for and against it;
+002.01.02@grc οὐ γὰρ ᾠόμην ἔγωγε οὕτω παρ’ ὀλίγον ἔσεσθαι ἀλλὰ παρὰ πολύ·
+002.01.02@en for I did not expect so small a majority, but a large one.
+002.01.03@grc νῦν δέ, ὡς ἔοικεν, εἰ τριάκοντα μόναι μετέπεσον τῶν ψήφων, ἀπεπεφεύγη ἄν.
+002.01.03@en Now, it seems, if only thirty votes had been cast the other way, I should have been acquitted.
+002.01.04@grc Μέλητον μὲν οὖν, ὡς ἐμοὶ δοκῶ, καὶ νῦν ἀποπέφευγα, καὶ οὐ μόνον ἀποπέφευγα, ἀλλὰ παντὶ δῆλον τοῦτό γε, ὅτι εἰ μὴ ἀνέβη Ἄνυτος καὶ Λύκων κατηγορήσοντες ἐμοῦ, κἂν ὦφλε {36b} χιλίας δραχμάς, οὐ μεταλαβὼν τὸ πέμπτον μέρος τῶν ψήφων.
+002.01.04@en And so, I think, so far as Meletus is concerned, I have even now been acquitted, and not merely acquitted, but anyone can see that, if Anytus and Lycon had not come forward to accuse me, he would have been fined a thousand drachmas for not receiving a fifth part of the votes.
+
+002.02.01@grc τιμᾶται δ’ οὖν μοι ὁ ἀνὴρ θανάτου.
+002.02.01@en {p} And so the man proposes the penalty of death.
+002.02.02@grc εἶεν·
+002.02.02@en Well, then,
+002.02.03@grc ἐγὼ δὲ δὴ τίνος ὑμῖν ἀντιτιμήσομαι, ὦ ἄνδρες Ἀθηναῖοι;
+002.02.03@en what shall I propose as an alternative?
+002.02.04@grc ἢ δῆλον ὅτι τῆς ἀξίας;
+002.02.04@en Clearly that which I deserve,
+002.02.05@grc τί οὖν;
+002.02.05@en shall I not?
+002.02.06@grc τί ἄξιός εἰμι παθεῖν ἢ ἀποτεῖσαι, ὅτι μαθὼν ἐν τῷ βίῳ οὐχ ἡσυχίαν ἦγον, ἀλλ’ ἀμελήσας ὧνπερ οἱ πολλοί, χρηματισμοῦ τε καὶ οἰκονομίας καὶ στρατηγιῶν καὶ δημηγοριῶν καὶ τῶν ἄλλων ἀρχῶν καὶ συνωμοσιῶν καὶ στάσεων τῶν ἐν τῇ πόλει γιγνομένων, ἡγησάμενος ἐμαυτὸν {36c} ῷ ὄντι ἐπιεικέστερον εἶναι ἢ ὥστε εἰς ταῦτ’ ἰόντα σῴζεσθαι, ἐνταῦθα μὲν οὐκ ᾖα οἷ ἐλθὼν μήτε ὑμῖν μήτε ἐμαυτῷ ἔμελλον μηδὲν ὄφελος εἶναι, ἐπὶ δὲ τὸ ἰδίᾳ ἕκαστον ἰὼν εὐεργετεῖν τὴν μεγίστην εὐεργεσίαν, ὡς ἐγώ φημι, ἐνταῦθα ᾖα, ἐπιχειρῶν ἕκαστον ὑμῶν πείθειν μὴ πρότερον μήτε τῶν ἑαυτοῦ μηδενὸς ἐπιμελεῖσθαι πρὶν ἑαυτοῦ ἐπιμεληθείη ὅπως ὡς βέλτιστος καὶ φρονιμώτατος ἔσοιτο, μήτε τῶν τῆς πόλεως, πρὶν αὐτῆς τῆς πόλεως, τῶν τε ἄλλων οὕτω κατὰ τὸν {36d} αὐτὸν τρόπον ἐπιμελεῖσθαι —
+002.02.06@en And what do I deserve to suffer or to pay, because in my life I did not keep quiet, but neglecting what most men care for — money-making and property, and military offices, and public speaking, and the various offices and plots and parties that come up in the state — and thinking that I was really too honorable to engage in those activities and live, refrained from those things by which I should have been of no use to you or to myself, and devoted myself to conferring upon each citizen individually what I regard as the greatest benefit? For I tried to persuade each of you to care for himself and his own perfection in goodness and wisdom rather than for any of his belongings, and for the state itself rather than for its interests, and to follow the same method in his care for other things.
+002.02.07@grc τί οὖν εἰμι ἄξιος παθεῖν τοιοῦτος ὤν;
+002.02.07@en What, then, does such a man as I deserve?
+002.02.08@grc ἀγαθόν τι, ὦ ἄνδρες Ἀθηναῖοι, εἰ δεῖ γε κατὰ τὴν ἀξίαν τῇ ἀληθείᾳ τιμᾶσθαι·
+002.02.08@en Some good thing, men of {placeName} Athens {/placeName} , if I must propose something truly in accordance with my deserts;
+002.02.09@grc καὶ ταῦτά γε ἀγαθὸν τοιοῦτον ὅτι ἂν πρέποι ἐμοί.
+002.02.09@en and the good thing should be such as is fitting for me.
+002.02.10@grc τί οὖν πρέπει ἀνδρὶ πένητι εὐεργέτῃ δεομένῳ ἄγειν σχολὴν ἐπὶ τῇ ὑμετέρᾳ παρακελεύσει;
+002.02.10@en Now what is fitting for a poor man who is your benefactor, and who needs leisure to exhort you?
+002.02.11@grc οὐκ ἔσθ’ ὅτι μᾶλλον, ὦ ἄνδρες Ἀθηναῖοι, πρέπει οὕτως ὡς τὸν τοιοῦτον ἄνδρα ἐν πρυτανείῳ σιτεῖσθαι, πολύ γε μᾶλλον ἢ εἴ τις ὑμῶν ἵππῳ ἢ συνωρίδι ἢ ζεύγει νενίκηκεν Ὀλυμπίασιν·
+002.02.11@en There is nothing, men of {placeName} Athens {/placeName} , so fitting as that such a man be given his meals in the prytaneum. That is much more appropriate for me than for any of you who has won a race at the Olympic games with a pair of horses or a four-in-hand.
+002.02.12@grc ὁ μὲν γὰρ ὑμᾶς ποιεῖ εὐδαίμονας δοκεῖν εἶναι, ἐγὼ δὲ {36e} εἶναι, καὶ ὁ μὲν τροφῆς οὐδὲν δεῖται, ἐγὼ δὲ δέομαι.
+002.02.12@en For he makes you seem to be happy, whereas I make you happy in reality; and he is not at all in need of sustenance, but I am needy.
+002.02.13@grc εἰ οὖν δεῖ με κατὰ τὸ δίκαιον τῆς ἀξίας τιμᾶσθαι, τούτου {37a} τιμῶμαι, ἐν πρυτανείῳ σιτήσεως.
+002.02.13@en So if I must propose a penalty in accordance with my deserts, I propose maintenance in the prytaneum.
+
+002.03.01@grc ἴσως οὖν ὑμῖν καὶ ταυτὶ λέγων παραπλησίως δοκῶ λέγειν ὥσπερ περὶ τοῦ οἴκτου καὶ τῆς ἀντιβολήσεως, ἀπαυθαδιζόμενος·
+002.03.01@en {p} Perhaps some of you think that in saying this, as in what I said about lamenting and imploring, I am speaking in a spirit of bravado; but that is not the case.
+002.03.02@grc τὸ δὲ οὐκ ἔστιν, ὦ ἄνδρες Ἀθηναῖοι, τοιοῦτον ἀλλὰ τοιόνδε μᾶλλον.
+002.03.02@en The truth is rather that I am convinced that I never intentionally wronged anyone;
+002.03.03@grc πέπεισμαι ἐγὼ ἑκὼν εἶναι μηδένα ἀδικεῖν ἀνθρώπων, ἀλλὰ ὑμᾶς τοῦτο οὐ πείθω·
+002.03.03@en but I cannot convince you of this,
+002.03.04@grc ὀλίγον γὰρ χρόνον ἀλλήλοις διειλέγμεθα.
+002.03.04@en for we have conversed with each other only a little while.
+002.03.05@grc ἐπεί, ὡς ἐγᾦμαι, εἰ ἦν ὑμῖν νόμος, ὥσπερ καὶ ἄλλοις ἀνθρώποις, περὶ θανάτου μὴ μίαν ἡμέραν {37b} μόνον κρίνειν ἀλλὰ πολλάς, ἐπείσθητε ἄν·
+002.03.05@en I believe if you had a law, as some other people have, that capital cases should not be decided in one day, but only after several days, you would be convinced;
+002.03.06@grc νῦν δ’ οὐ ῥᾴδιον ἐν χρόνῳ ὀλίγῳ μεγάλας διαβολὰς ἀπολύεσθαι.
+002.03.06@en but now it is not easy to rid you of great prejudices in a short time.
+002.03.07@grc πεπεισμένος δὴ ἐγὼ μηδένα ἀδικεῖν πολλοῦ δέω ἐμαυτόν γε ἀδικήσειν καὶ κατ’ ἐμαυτοῦ ἐρεῖν αὐτὸς ὡς ἄξιός εἰμί του κακοῦ καὶ τιμήσεσθαι τοιούτου τινὸς ἐμαυτῷ.
+002.03.07@en Since, then, I am convinced that I never wronged any one, I am certainly not going to wrong myself, and to say of myself that I deserve anything bad, and to propose any penalty of that sort for myself.
+002.03.08@grc τί δείσας;
+002.03.08@en Why should I?
+002.03.09@grc ἦ μὴ πάθω τοῦτο οὗ Μέλητός μοι τιμᾶται, ὅ φημι οὐκ εἰδέναι οὔτ’ εἰ ἀγαθὸν οὔτ’ εἰ κακόν ἐστιν;
+002.03.09@en Through fear of the penalty that Meletus proposes, about which I say that I do not know whether it is a good thing or an evil?
+002.03.10@grc ἀντὶ τούτου δὴ ἕλωμαι ὧν εὖ οἶδά τι κακῶν ὄντων τούτου τιμησάμενος;
+002.03.10@en Shall I choose instead of that something which I know to be an evil?
+002.03.11@grc πότερον δεσμοῦ;
+002.03.11@en What penalty shall I propose? Imprisonment?
+002.03.12@grc {37c} καὶ τί με δεῖ ζῆν ἐν δεσμωτηρίῳ, δουλεύοντα τῇ ἀεὶ καθισταμένῃ ἀρχῇ, τοῖς ἕνδεκα;
+002.03.12@en And why should I live in prison a slave to those who may be in authority?
+002.03.13@grc ἀλλὰ χρημάτων καὶ δεδέσθαι ἕως ἂν ἐκτείσω;
+002.03.13@en Or shall I propose a fine, with imprisonment until it is paid?
+002.03.14@grc ἀλλὰ ταὐτόν μοί ἐστιν ὅπερ νυνδὴ ἔλεγον·
+002.03.14@en But that is the same as what I said just now,
+002.03.15@grc οὐ γὰρ ἔστι μοι χρήματα ὁπόθεν ἐκτείσω.
+002.03.15@en for I have no money to pay with.
+002.03.16@grc ἀλλὰ δὴ φυγῆς τιμήσωμαι;
+002.03.16@en Shall I then propose exile as my penalty?
+002.03.17@grc ἴσως γὰρ ἄν μοι τούτου τιμήσαιτε.
+002.03.17@en Perhaps you would accept that.
+002.03.18@grc πολλὴ μεντἄν με φιλοψυχία ἔχοι, ὦ ἄνδρες Ἀθηναῖοι, εἰ οὕτως ἀλόγιστός εἰμι ὥστε μὴ δύνασθαι λογίζεσθαι ὅτι ὑμεῖς μὲν ὄντες πολῖταί μου οὐχ οἷοί τε ἐγένεσθε ἐνεγκεῖν τὰς ἐμὰς {37d} διατριβὰς καὶ τοὺς λόγους, ἀλλ’ ὑμῖν βαρύτεραι γεγόνασιν καὶ ἐπιφθονώτεραι, ὥστε ζητεῖτε αὐτῶν νυνὶ ἀπαλλαγῆναι·
+002.03.18@en I must indeed be possessed by a great love of life if I am so irrational as not to know that if you, who are my fellow citizens, could not endure my conversation and my words, but found them too irksome and disagreeable, so that you are now seeking to be rid of them,
+002.03.19@grc ἄλλοι δὲ ἄρα αὐτὰς οἴσουσι ῥᾳδίως;
+002.03.19@en others will not be willing to endure them.
+002.03.20@grc πολλοῦ γε δεῖ, ὦ ἄνδρες Ἀθηναῖοι.
+002.03.20@en No, men of {placeName} Athens {/placeName} , they certainly will not.
+002.03.21@grc καλὸς οὖν ἄν μοι ὁ βίος εἴη ἐξελθόντι τηλικῷδε ἀνθρώπῳ ἄλλην ἐξ ἄλλης πόλεως ἀμειβομένῳ καὶ ἐξελαυνομένῳ ζῆν.
+002.03.21@en A fine life I should lead if I went away at my time of life, wandering from city to city and always being driven out!
+002.03.22@grc εὖ γὰρ οἶδ’ ὅτι ὅποι ἂν ἔλθω, λέγοντος ἐμοῦ ἀκροάσονται οἱ νέοι ὥσπερ ἐνθάδε·
+002.03.22@en For well I know that wherever I go, the young men will listen to my talk, as they do here;
+002.03.23@grc κἂν μὲν τούτους ἀπελαύνω, οὗτοί με αὐτοὶ ἐξελῶσι πείθοντες τοὺς πρεσβυτέρους·
+002.03.23@en and if I drive them away, they will themselves persuade their elders to drive me out,
+002.03.24@grc {37e} ἐὰν δὲ μὴ ἀπελαύνω, οἱ τούτων πατέρες δὲ καὶ οἰκεῖοι δι’ αὐτοὺς τούτους.
+002.03.24@en and if I do not drive them away, their fathers and relatives will drive me out for their sakes.
+
+002.04.01@grc ἴσως οὖν ἄν τις εἴποι·
+002.04.01@en {p} Perhaps someone might say,
+002.04.02@grc {q} σιγῶν δὲ καὶ ἡσυχίαν ἄγων, ὦ Σώκρατες, οὐχ οἷός τ’ ἔσῃ ἡμῖν ἐξελθὼν ζῆν; {/q}
+002.04.02@en {q} Socrates, can you not go away from us and live quietly, without talking? {/q}
+002.04.03@grc τουτὶ δή ἐστι πάντων χαλεπώτατον πεῖσαί τινας ὑμῶν.
+002.04.03@en Now this is the hardest thing to make some of you believe.
+002.04.04@grc ἐάντε γὰρ λέγω ὅτι τῷ θεῷ ἀπειθεῖν τοῦτ’ ἐστὶν καὶ διὰ τοῦτ’ ἀδύνατον {38a} ἡσυχίαν ἄγειν, οὐ πείσεσθέ μοι ὡς εἰρωνευομένῳ·
+002.04.04@en For if I say that such conduct would be disobedience to the god and that therefore I cannot keep quiet, you will think I am jesting and will not believe me;
+002.04.05@grc ἐάντ’ αὖ λέγω ὅτι καὶ τυγχάνει μέγιστον ἀγαθὸν ὂν ἀνθρώπῳ τοῦτο, ἑκάστης ἡμέρας περὶ ἀρετῆς τοὺς λόγους ποιεῖσθαι καὶ τῶν ἄλλων περὶ ὧν ὑμεῖς ἐμοῦ ἀκούετε διαλεγομένου καὶ ἐμαυτὸν καὶ ἄλλους ἐξετάζοντος, ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ, ταῦτα δ’ ἔτι ἧττον πείσεσθέ μοι λέγοντι.
+002.04.05@en and if again I say that to talk every day about virtue and the other things about which you hear me talking and examining myself and others is the greatest good to man, and that the unexamined life is not worth living, you will believe me still less.
+002.04.06@grc τὰ δὲ ἔχει μὲν οὕτως, ὡς ἐγώ φημι, ὦ ἄνδρες, πείθειν δὲ οὐ ῥᾴδιον.
+002.04.06@en This is as I say, gentlemen, but it is not easy to convince you.
+002.04.07@grc καὶ ἐγὼ ἅμα οὐκ εἴθισμαι ἐμαυτὸν ἀξιοῦν κακοῦ {38b} οὐδενός.
+002.04.07@en Besides, I am not accustomed to think that I deserve anything bad.
+002.04.08@grc εἰ μὲν γὰρ ἦν μοι χρήματα, ἐτιμησάμην ἂν χρημάτων ὅσα ἔμελλον ἐκτείσειν, οὐδὲν γὰρ ἂν ἐβλάβην·
+002.04.08@en If I had money, I would have proposed a fine, as large as I could pay; for that would have done me no harm.
+002.04.09@grc νῦν δὲ οὐ γὰρ ἔστιν, εἰ μὴ ἄρα ὅσον ἂν ἐγὼ δυναίμην ἐκτεῖσαι, τοσούτου βούλεσθέ μοι τιμῆσαι.
+002.04.09@en But as it is — I have no money, unless you are willing to impose a fine which I could pay.
+002.04.10@grc ἴσως δ’ ἂν δυναίμην ἐκτεῖσαι ὑμῖν που μνᾶν ἀργυρίου·
+002.04.10@en I might perhaps pay a mina of silver.
+002.04.11@grc τοσούτου οὖν τιμῶμαι.
+002.04.11@en So I propose that penalty;
+
+002.05.01@grc Πλάτων δὲ ὅδε, ὦ ἄνδρες Ἀθηναῖοι, καὶ Κρίτων καὶ Κριτόβουλος καὶ Ἀπολλόδωρος κελεύουσί με τριάκοντα μνῶν τιμήσασθαι, αὐτοὶ δ’ ἐγγυᾶσθαι·
+002.05.01@en but Plato here, men of {placeName} Athens {/placeName} , and Crito and Critobulus, and Aristobulus tell me to propose a fine of thirty minas, saying that they are sureties for it.
+002.05.02@grc τιμῶμαι οὖν τοσούτου, ἐγγυηταὶ δὲ ὑμῖν ἔσονται τοῦ ἀργυρίου οὗτοι ἀξιόχρεῳ.
+002.05.02@en So I propose a fine of that amount, and these men, who are amply sufficient, will be my sureties.
+
+003.01.01@grc {38c} οὐ πολλοῦ γ’ ἕνεκα χρόνου, ὦ ἄνδρες Ἀθηναῖοι, ὄνομα ἕξετε καὶ αἰτίαν ὑπὸ τῶν βουλομένων τὴν πόλιν λοιδορεῖν ὡς Σωκράτη ἀπεκτόνατε, ἄνδρα σοφόν —
+003.01.01@en {sp3} {p} It is no long time, men of {placeName} Athens {/placeName} , which you gain, and for that those who wish to cast a slur upon the state will give you the name and blame of having killed Socrates, a wise man;
+003.01.02@grc φήσουσι γὰρ δὴ σοφὸν εἶναι, εἰ καὶ μή εἰμι, οἱ βουλόμενοι ὑμῖν ὀνειδίζειν —
+003.01.02@en for, you know, those who wish to revile you will say I am wise, even though I am not.
+003.01.03@grc εἰ γοῦν περιεμείνατε ὀλίγον χρόνον, ἀπὸ τοῦ αὐτομάτου ἂν ὑμῖν τοῦτο ἐγένετο·
+003.01.03@en Now if you had waited a little while, what you desire would have come to you of its own accord;
+003.01.04@grc ὁρᾶτε γὰρ δὴ τὴν ἡλικίαν ὅτι πόρρω ἤδη ἐστὶ τοῦ βίου θανάτου δὲ ἐγγύς.
+003.01.04@en for you see how old I am, how far advanced in life and how near death.
+003.01.05@grc λέγω δὲ τοῦτο οὐ {38d} πρὸς πάντας ὑμᾶς, ἀλλὰ πρὸς τοὺς ἐμοῦ καταψηφισαμένους θάνατον.
+003.01.05@en I say this not to all of you, but to those who voted for my death.
+003.01.06@grc λέγω δὲ καὶ τόδε πρὸς τοὺς αὐτοὺς τούτους.
+003.01.06@en And to them also I have something else to say.
+003.01.07@grc ἴσως με οἴεσθε, ὦ ἄνδρες Ἀθηναῖοι, ἀπορίᾳ λόγων ἑαλωκέναι τοιούτων οἷς ἂν ὑμᾶς ἔπεισα, εἰ ᾤμην δεῖν ἅπαντα ποιεῖν καὶ λέγειν ὥστε ἀποφυγεῖν τὴν δίκην.
+003.01.07@en Perhaps you think, gentlemen, that I have been convicted through lack of such words as would have moved you to acquit me, if I had thought it right to do and say everything to gain an acquittal.
+003.01.08@grc πολλοῦ γε δεῖ.
+003.01.08@en Far from it.
+003.01.09@grc ἀλλ’ ἀπορίᾳ μὲν ἑάλωκα, οὐ μέντοι λόγων, ἀλλὰ τόλμης καὶ ἀναισχυντίας καὶ τοῦ μὴ ἐθέλειν λέγειν πρὸς ὑμᾶς τοιαῦτα οἷ’ ἂν ὑμῖν μὲν ἥδιστα ἦν ἀκούειν —
+003.01.09@en And yet it is through a lack that I have been convicted, not however a lack of words, but of impudence and shamelessness, and of willingness to say to you such things as you would have liked best to hear.
+003.01.10@grc θρηνοῦντός τέ μου καὶ ὀδυρομένου καὶ ἄλλα ποιοῦντος καὶ {38e} λέγοντος πολλὰ καὶ ἀνάξια ἐμοῦ, ὡς ἐγώ φημι, οἷα δὴ καὶ εἴθισθε ὑμεῖς τῶν ἄλλων ἀκούειν.
+003.01.10@en You would have liked to hear me wailing and lamenting and doing and saying many things which are, as I maintain, unworthy of me — such things as you are accustomed to hear from others.
+003.01.11@grc ἀλλ’ οὔτε τότε ᾠήθην δεῖν ἕνεκα τοῦ κινδύνου πρᾶξαι οὐδὲν ἀνελεύθερον, οὔτε νῦν μοι μεταμέλει οὕτως ἀπολογησαμένῳ, ἀλλὰ πολὺ μᾶλλον αἱροῦμαι ὧδε ἀπολογησάμενος τεθνάναι ἢ ἐκείνως ζῆν.
+003.01.11@en But I did not think at the time that I ought, on account of the danger I was in, to do anything unworthy of a free man, nor do I now repent of having made my defence as I did, but I much prefer to die after such a defence than to live after a defence of the other sort.
+003.01.12@grc οὔτε γὰρ ἐν δίκῃ οὔτ’ ἐν πολέμῳ οὔτ’ ἐμὲ οὔτ’ ἄλλον οὐδένα δεῖ {39a} τοῦτο μηχανᾶσθαι, ὅπως ἀποφεύξεται πᾶν ποιῶν θάνατον.
+003.01.12@en For neither in the court nor in war ought I or any other man to plan to escape death by every possible means.
+003.01.13@grc καὶ γὰρ ἐν ταῖς μάχαις πολλάκις δῆλον γίγνεται ὅτι τό γε ἀποθανεῖν ἄν τις ἐκφύγοι καὶ ὅπλα ἀφεὶς καὶ ἐφ’ ἱκετείαν τραπόμενος τῶν διωκόντων·
+003.01.13@en In battles it is often plain that a man might avoid death by throwing down his arms and begging mercy of his pursuers;
+003.01.14@grc καὶ ἄλλαι μηχαναὶ πολλαί εἰσιν ἐν ἑκάστοις τοῖς κινδύνοις ὥστε διαφεύγειν θάνατον, ἐάν τις τολμᾷ πᾶν ποιεῖν καὶ λέγειν.
+003.01.14@en and there are many other means of escaping death in dangers of various kinds if one is willing to do and say anything.
+003.01.15@grc ἀλλὰ μὴ οὐ τοῦτ’ ᾖ χαλεπόν, ὦ ἄνδρες, θάνατον ἐκφυγεῖν, ἀλλὰ πολὺ χαλεπώτερον πονηρίαν·
+003.01.15@en But, gentlemen, it is not hard to escape death; it is much harder to escape wickedness,
+003.01.16@grc {39b} θᾶττον γὰρ θανάτου θεῖ.
+003.01.16@en for that runs faster than death.
+003.01.17@grc καὶ νῦν ἐγὼ μὲν ἅτε βραδὺς ὢν καὶ πρεσβύτης ὑπὸ τοῦ βραδυτέρου ἑάλων, οἱ δ’ ἐμοὶ κατήγοροι ἅτε δεινοὶ καὶ ὀξεῖς ὄντες ὑπὸ τοῦ θάττονος, τῆς κακίας.
+003.01.17@en And now I, since I am slow and old, am caught by the slower runner, and my accusers, who are clever and quick, by the faster, wickedness.
+003.01.18@grc καὶ νῦν ἐγὼ μὲν ἄπειμι ὑφ’ ὑμῶν θανάτου δίκην ὀφλών, οὗτοι δ’ ὑπὸ τῆς ἀληθείας ὠφληκότες μοχθηρίαν καὶ ἀδικίαν.
+003.01.18@en And now I shall go away convicted by you and sentenced to death, and they go convicted by truth of villainy and wrong.
+003.01.19@grc καὶ ἐγώ τε τῷ τιμήματι ἐμμένω καὶ οὗτοι.
+003.01.19@en And I abide by my penalty, and they by theirs.
+003.01.20@grc ταῦτα μέν που ἴσως οὕτως καὶ ἔδει σχεῖν, καὶ οἶμαι αὐτὰ μετρίως ἔχειν.
+003.01.20@en Perhaps these things had to be so, and I think they are well.
+
+003.02.01@grc {39c} τὸ δὲ δὴ μετὰ τοῦτο ἐπιθυμῶ ὑμῖν χρησμῳδῆσαι, ὦ καταψηφισάμενοί μου·
+003.02.01@en And now I wish to prophesy to you, O ye who have condemned me;
+003.02.02@grc καὶ γάρ εἰμι ἤδη ἐνταῦθα ἐν ᾧ μάλιστα ἄνθρωποι χρησμῳδοῦσιν, ὅταν μέλλωσιν ἀποθανεῖσθαι.
+003.02.02@en for I am now at the time when men most do prophesy, the time just before death.
+003.02.03@grc φημὶ γάρ, ὦ ἄνδρες οἳ ἐμὲ ἀπεκτόνατε, τιμωρίαν ὑμῖν ἥξειν εὐθὺς μετὰ τὸν ἐμὸν θάνατον πολὺ χαλεπωτέραν νὴ Δία ἢ οἵαν ἐμὲ ἀπεκτόνατε·
+003.02.03@en And I say to you, ye men who have slain me, that punishment will come upon you straight-way after my death, far more grievous in sooth than the punishment of death which you have meted out to me.
+003.02.04@grc νῦν γὰρ τοῦτο εἴργασθε οἰόμενοι μὲν ἀπαλλάξεσθαι τοῦ διδόναι ἔλεγχον τοῦ βίου, τὸ δὲ ὑμῖν πολὺ ἐναντίον ἀποβήσεται, ὡς ἐγώ φημι.
+003.02.04@en For now you have done this to me because you hoped that you would be relieved from rendering an account of your lives, but I say that you will find the result far different.
+003.02.05@grc πλείους ἔσονται ὑμᾶς {39d} οἱ ἐλέγχοντες, οὓς νῦν ἐγὼ κατεῖχον, ὑμεῖς δὲ οὐκ ᾐσθάνεσθε·
+003.02.05@en Those who will force you to give an account will be more numerous than heretofore; men whom I restrained, though you knew it not;
+003.02.06@grc καὶ χαλεπώτεροι ἔσονται ὅσῳ νεώτεροί εἰσιν, καὶ ὑμεῖς μᾶλλον ἀγανακτήσετε.
+003.02.06@en and they will be harsher, inasmuch as they are younger, and you will be more annoyed.
+003.02.07@grc εἰ γὰρ οἴεσθε ἀποκτείνοντες ἀνθρώπους ἐπισχήσειν τοῦ ὀνειδίζειν τινὰ ὑμῖν ὅτι οὐκ ὀρθῶς ζῆτε, οὐ καλῶς διανοεῖσθε·
+003.02.07@en For if you think that by putting men to death you will prevent anyone from reproaching you because you do not act as you should, you are mistaken.
+003.02.08@grc οὐ γάρ ἐσθ’ αὕτη ἡ ἀπαλλαγὴ οὔτε πάνυ δυνατὴ οὔτε καλή, ἀλλ’ ἐκείνη καὶ καλλίστη καὶ ῥᾴστη, μὴ τοὺς ἄλλους κολούειν ἀλλ’ ἑαυτὸν παρασκευάζειν ὅπως ἔσται ὡς βέλτιστος.
+003.02.08@en That mode of escape is neither possible at all nor honorable, but the easiest and most honorable escape is not by suppressing others, but by making yourselves as good as possible.
+003.02.09@grc ταῦτα μὲν οὖν ὑμῖν τοῖς καταψηφισαμένοις μαντευσάμενος ἀπαλλάττομαι.
+003.02.09@en So with this prophecy to you who condemned me I take my leave.
+
+003.03.01@grc {39e} τοῖς δὲ ἀποψηφισαμένοις ἡδέως ἂν διαλεχθείην ὑπὲρ τοῦ γεγονότος τουτουῒ πράγματος, ἐν ᾧ οἱ ἄρχοντες ἀσχολίαν ἄγουσι καὶ οὔπω ἔρχομαι οἷ ἐλθόντα με δεῖ τεθνάναι.
+003.03.01@en {p} But with those who voted for my acquittal I should like to converse about this which has happened, while the authorities are busy and before I go to the place where I must die.
+003.03.02@grc ἀλλά μοι, ὦ ἄνδρες, παραμείνατε τοσοῦτον χρόνον·
+003.03.02@en Wait with me so long, my friends;
+003.03.03@grc οὐδὲν γὰρ κωλύει διαμυθολογῆσαι πρὸς ἀλλήλους ἕως ἔξεστιν.
+003.03.03@en for nothing prevents our chatting with each other while there is time.
+003.03.04@grc ὑμῖν {40a} γὰρ ὡς φίλοις οὖσιν ἐπιδεῖξαι ἐθέλω τὸ νυνί μοι συμβεβηκὸς τί ποτε νοεῖ.
+003.03.04@en I feel that you are my friends, and I wish to show you the meaning of this which has now happened to me.
+
+003.03.05@grc ἐμοὶ γάρ, ὦ ἄνδρες δικασταί —
+003.03.05@en For, judges —
+003.03.06@grc ὑμᾶς γὰρ δικαστὰς καλῶν ὀρθῶς ἂν καλοίην —
+003.03.06@en and in calling you judges I give you your right name —
+003.03.07@grc θαυμάσιόν τι γέγονεν.
+003.03.07@en a wonderful thing has happened to me.
+003.03.08@grc ἡ γὰρ εἰωθυῖά μοι μαντικὴ ἡ τοῦ δαιμονίου ἐν μὲν τῷ πρόσθεν χρόνῳ παντὶ πάνυ πυκνὴ ἀεὶ ἦν καὶ πάνυ ἐπὶ σμικροῖς ἐναντιουμένη, εἴ τι μέλλοιμι μὴ ὀρθῶς πράξειν.
+003.03.08@en For hitherto the customary prophetic monitor always spoke to me very frequently and opposed me even in very small matters, if I was going to do anything I should not;
+003.03.09@grc νυνὶ δὲ συμβέβηκέ μοι ἅπερ ὁρᾶτε καὶ αὐτοί, ταυτὶ ἅ γε δὴ οἰηθείη ἄν τις καὶ νομίζεται ἔσχατα κακῶν εἶναι·
+003.03.09@en but now, as you yourselves see, this thing which might be thought, and is generally considered, the greatest of evils has come upon me;
+003.03.10@grc ἐμοὶ δὲ {40b} οὔτε ἐξιόντι ἕωθεν οἴκοθεν ἠναντιώθη τὸ τοῦ θεοῦ σημεῖον, οὔτε ἡνίκα ἀνέβαινον ἐνταυθοῖ ἐπὶ τὸ δικαστήριον, οὔτε ἐν τῷ λόγῳ οὐδαμοῦ μέλλοντί τι ἐρεῖν.
+003.03.10@en but the divine sign did not oppose me either when I left my home in the morning, or when I came here to the court, or at any point of my speech, when I was going to say anything;
+003.03.11@grc καίτοι ἐν ἄλλοις λόγοις πολλαχοῦ δή με ἐπέσχε λέγοντα μεταξύ·
+003.03.11@en and yet on other occasions it stopped me at many points in the midst of a speech;
+003.03.12@grc νῦν δὲ οὐδαμοῦ περὶ ταύτην τὴν πρᾶξιν οὔτ’ ἐν ἔργῳ οὐδενὶ οὔτ’ ἐν λόγῳ ἠναντίωταί μοι.
+003.03.12@en but now, in this affair, it has not opposed me in anything I was doing or saying.
+003.03.13@grc τί οὖν αἴτιον εἶναι ὑπολαμβάνω;
+003.03.13@en What then do I suppose is the reason?
+003.03.14@grc ἐγὼ ὑμῖν ἐρῶ·
+003.03.14@en I will tell you.
+003.03.15@grc κινδυνεύει γάρ μοι τὸ συμβεβηκὸς τοῦτο ἀγαθὸν γεγονέναι, καὶ οὐκ ἔσθ’ ὅπως ἡμεῖς ὀρθῶς ὑπολαμβάνομεν, {40c} ὅσοι οἰόμεθα κακὸν εἶναι τὸ τεθνάναι.
+003.03.15@en This which has happened to me is doubtless a good thing, and those of us who think death is an evil must be mistaken.
+003.03.16@grc μέγα μοι τεκμήριον τούτου γέγονεν·
+003.03.16@en A convincing proof of this been given me;
+003.03.17@grc οὐ γὰρ ἔσθ’ ὅπως οὐκ ἠναντιώθη ἄν μοι τὸ εἰωθὸς σημεῖον, εἰ μή τι ἔμελλον ἐγὼ ἀγαθὸν πράξειν.
+003.03.17@en for the accustomed sign would surely have opposed me if I had not been going to meet with something good.
+
+003.04.01@grc ἐννοήσωμεν δὲ καὶ τῇδε ὡς πολλὴ ἐλπίς ἐστιν ἀγαθὸν αὐτὸ εἶναι.
+003.04.01@en {p} Let us consider in another way also how good reason there is to hope that it is a good thing.
+003.04.02@grc δυοῖν γὰρ θάτερόν ἐστιν τὸ τεθνάναι·
+003.04.02@en For the state of death is one of two things:
+003.04.03@grc ἢ γὰρ οἷον μηδὲν εἶναι μηδὲ αἴσθησιν μηδεμίαν μηδενὸς ἔχειν τὸν τεθνεῶτα, ἢ κατὰ τὰ λεγόμενα μεταβολή τις τυγχάνει οὖσα καὶ μετοίκησις τῇ ψυχῇ τοῦ τόπου τοῦ ἐνθένδε εἰς ἄλλον τόπον.
+003.04.03@en either it is virtually nothingness, so that the dead has no consciousness of anything, or it is, as people say, a change and migration of the soul from this to another place.
+003.04.04@grc καὶ εἴτε δὴ μηδεμία αἴσθησίς ἐστιν ἀλλ’ {40d} οἷον ὕπνος ἐπειδάν τις καθεύδων μηδ’ ὄναρ μηδὲν ὁρᾷ, θαυμάσιον κέρδος ἂν εἴη ὁ θάνατος —
+003.04.04@en And if it is unconsciousness, like a sleep in which the sleeper does not even dream, death would be a wonderful gain.
+003.04.05@grc ἐγὼ γὰρ ἂν οἶμαι, εἴ τινα ἐκλεξάμενον δέοι ταύτην τὴν νύκτα ἐν ᾗ οὕτω κατέδαρθεν ὥστε μηδὲ ὄναρ ἰδεῖν, καὶ τὰς ἄλλας νύκτας τε καὶ ἡμέρας τὰς τοῦ βίου τοῦ ἑαυτοῦ ἀντιπαραθέντα ταύτῃ τῇ νυκτὶ δέοι σκεψάμενον εἰπεῖν πόσας ἄμεινον καὶ ἥδιον ἡμέρας καὶ νύκτας ταύτης τῆς νυκτὸς βεβίωκεν ἐν τῷ ἑαυτοῦ βίῳ, οἶμαι ἂν μὴ ὅτι ἰδιώτην τινά, ἀλλὰ τὸν μέγαν βασιλέα εὐαριθμήτους {40e} ἂν εὑρεῖν αὐτὸν ταύτας πρὸς τὰς ἄλλας ἡμέρας καὶ νύκτας —
+003.04.05@en For I think if any one were to pick out that night in which he slept a dreamless sleep and, comparing with it the other nights and days of his life, were to say, after due consideration, how many days and nights in his life had passed more pleasantly than that night, — I believe that not only any private person, but even the great King of {placeName} Persia {/placeName} himself would find that they were few in comparison with the other days and nights.
+003.04.06@grc εἰ οὖν τοιοῦτον ὁ θάνατός ἐστιν, κέρδος ἔγωγε λέγω·
+003.04.06@en So if such is the nature of death, I count it a gain;
+003.04.07@grc καὶ γὰρ οὐδὲν πλείων ὁ πᾶς χρόνος φαίνεται οὕτω δὴ εἶναι ἢ μία νύξ.
+003.04.07@en for in that case, all time seems to be no longer than one night.
+003.04.08@grc εἰ δ’ αὖ οἷον ἀποδημῆσαί ἐστιν ὁ θάνατος ἐνθένδε εἰς ἄλλον τόπον, καὶ ἀληθῆ ἐστιν τὰ λεγόμενα, ὡς ἄρα ἐκεῖ εἰσι πάντες οἱ τεθνεῶτες, τί μεῖζον ἀγαθὸν τούτου εἴη ἄν, ὦ ἄνδρες δικασταί;
+003.04.08@en But on the other hand, if death is, as it were, a change of habitation from here to some other place, and if what we are told is true, that all the dead are there, what greater blessing could there be, judges?
+003.04.09@grc εἰ γάρ τις {41a} ἀφικόμενος εἰς Ἅιδου, ἀπαλλαγεὶς τουτωνὶ τῶν φασκόντων δικαστῶν εἶναι, εὑρήσει τοὺς ὡς ἀληθῶς δικαστάς, οἵπερ καὶ λέγονται ἐκεῖ δικάζειν, Μίνως τε καὶ Ῥαδάμανθυς καὶ Αἰακὸς καὶ Τριπτόλεμος καὶ ἄλλοι ὅσοι τῶν ἡμιθέων δίκαιοι ἐγένοντο ἐν τῷ ἑαυτῶν βίῳ, ἆρα φαύλη ἂν εἴη ἡ ἀποδημία;
+003.04.09@en For if a man when he reaches the other world, after leaving behind these who claim to be judges, shall find those who are really judges who are said to sit in judgment there, Minos and Rhadamanthus, and Aeacus and Triptolemus, and all the other demigods who were just men in their lives, would the change of habitation be undesirable?
+003.04.10@grc ἢ αὖ Ὀρφεῖ συγγενέσθαι καὶ Μουσαίῳ καὶ Ἡσιόδῳ καὶ Ὁμήρῳ ἐπὶ πόσῳ ἄν τις δέξαιτ’ ἂν ὑμῶν;
+003.04.10@en Or again, what would any of you give to meet with Orpheus and Musaeus and Hesiod and Homer?
+003.04.11@grc ἐγὼ μὲν γὰρ πολλάκις ἐθέλω τεθνάναι εἰ ταῦτ’ ἔστιν ἀληθῆ.
+003.04.11@en I am willing to die many times over, if these things are true;
+003.04.12@grc ἐπεὶ {41b} ἔμοιγε καὶ αὐτῷ θαυμαστὴ ἂν εἴη ἡ διατριβὴ αὐτόθι, ὁπότε ἐντύχοιμι Παλαμήδει καὶ Αἴαντι τῷ Τελαμῶνος καὶ εἴ τις ἄλλος τῶν παλαιῶν διὰ κρίσιν ἄδικον τέθνηκεν, ἀντιπαραβάλλοντι τὰ ἐμαυτοῦ πάθη πρὸς τὰ ἐκείνων —
+003.04.12@en for I personally should find the life there wonderful, when I met Palamedes or Ajax, the son of Telamon, or any other men of old who lost their lives through an unjust judgement, and compared my experience with theirs.
+003.04.13@grc ὡς ἐγὼ οἶμαι, οὐκ ἂν ἀηδὲς εἴη —
+003.04.13@en I think that would not be unpleasant.
+003.04.14@grc καὶ δὴ τὸ μέγιστον, τοὺς ἐκεῖ ἐξετάζοντα καὶ ἐρευνῶντα ὥσπερ τοὺς ἐνταῦθα διάγειν, τίς αὐτῶν σοφός ἐστιν καὶ τίς οἴεται μέν, ἔστιν δ’ οὔ.
+003.04.14@en And the greatest pleasure would be to pass my time in examining and investigating the people there, as I do those here, to find out who among them is wise and who thinks he is when he is not.
+003.04.15@grc ἐπὶ πόσῳ δ’ ἄν τις, ὦ ἄνδρες δικασταί, δέξαιτο ἐξετάσαι τὸν ἐπὶ Τροίαν ἀγαγόντα {41c} τὴν πολλὴν στρατιὰν ἢ Ὀδυσσέα ἢ Σίσυφον ἢ ἄλλους μυρίους ἄν τις εἴποι καὶ ἄνδρας καὶ γυναῖκας, οἷς ἐκεῖ διαλέγεσθαι καὶ συνεῖναι καὶ ἐξετάζειν ἀμήχανον ἂν εἴη εὐδαιμονίας;
+003.04.15@en What price would any of you pay, judges, to examine him who led the great army against {placeName} Troy {/placeName} , or Odysseus, or Sisyphus, or countless others, both men and women, whom I might mention? To converse and associate with them and examine them would be immeasurable happiness.
+003.04.16@grc πάντως οὐ δήπου τούτου γε ἕνεκα οἱ ἐκεῖ ἀποκτείνουσι·
+003.04.16@en At any rate, the folk there do not kill people for it;
+003.04.17@grc τά τε γὰρ ἄλλα εὐδαιμονέστεροί εἰσιν οἱ ἐκεῖ τῶν ἐνθάδε, καὶ ἤδη τὸν λοιπὸν χρόνον ἀθάνατοί εἰσιν, εἴπερ γε τὰ λεγόμενα ἀληθῆ.
+003.04.17@en since, if what we are told is true, they are immortal for all future time, besides being happier in other respects than men are here.
+
+003.05.01@grc ἀλλὰ καὶ ὑμᾶς χρή, ὦ ἄνδρες δικασταί, εὐέλπιδας εἶναι πρὸς τὸν θάνατον, καὶ ἕν τι τοῦτο διανοεῖσθαι ἀληθές, ὅτι {41d} οὐκ ἔστιν ἀνδρὶ ἀγαθῷ κακὸν οὐδὲν οὔτε ζῶντι οὔτε τελευτήσαντι, οὐδὲ ἀμελεῖται ὑπὸ θεῶν τὰ τούτου πράγματα·
+003.05.01@en {p} But you also, judges, must regard death hopefully and must bear in mind this one truth, that no evil can come to a good man either in life or after death, and God does not neglect him.
+003.05.02@grc οὐδὲ τὰ ἐμὰ νῦν ἀπὸ τοῦ αὐτομάτου γέγονεν, ἀλλά μοι δῆλόν ἐστι τοῦτο, ὅτι ἤδη τεθνάναι καὶ ἀπηλλάχθαι πραγμάτων βέλτιον ἦν μοι.
+003.05.02@en So, too, this which had come to me has not come by chance, but I see plainly that it was better for me to die now and be freed from troubles.
+003.05.03@grc διὰ τοῦτο καὶ ἐμὲ οὐδαμοῦ ἀπέτρεψεν τὸ σημεῖον, καὶ ἔγωγε τοῖς καταψηφισαμένοις μου καὶ τοῖς κατηγόροις οὐ πάνυ χαλεπαίνω.
+003.05.03@en That is the reason why the sign never interfered with me, and I am not at all angry with those who condemned me or with my accusers.
+003.05.04@grc καίτοι οὐ ταύτῃ τῇ διανοίᾳ κατεψηφίζοντό μου καὶ κατηγόρουν, ἀλλ’ οἰόμενοι βλάπτειν·
+003.05.04@en And yet it was not with that in view that they condemned and accused me, but because they thought to injure me.
+003.05.05@grc {41e} τοῦτο αὐτοῖς ἄξιον μέμφεσθαι.
+003.05.05@en They deserve blame for that.
+003.05.06@grc τοσόνδε μέντοι αὐτῶν δέομαι·
+003.05.06@en However, I make this request of them:
+003.05.07@grc τοὺς ὑεῖς μου, ἐπειδὰν ἡβήσωσι, τιμωρήσασθε, ὦ ἄνδρες, ταὐτὰ ταῦτα λυποῦντες ἅπερ ἐγὼ ὑμᾶς ἐλύπουν, ἐὰν ὑμῖν δοκῶσιν ἢ χρημάτων ἢ ἄλλου του πρότερον ἐπιμελεῖσθαι ἢ ἀρετῆς, καὶ ἐὰν δοκῶσί τι εἶναι μηδὲν ὄντες, ὀνειδίζετε αὐτοῖς ὥσπερ ἐγὼ ὑμῖν, ὅτι οὐκ ἐπιμελοῦνται ὧν δεῖ, καὶ οἴονταί τι εἶναι ὄντες οὐδενὸς ἄξιοι.
+003.05.07@en when my sons grow up, gentlemen, punish them by troubling them as I have troubled you; if they seem to you to care for money or anything else more than for virtue, and if they think they amount to something when they do not, rebuke them as I have rebuked you because they do not care for what they ought, and think they amount to something when they are worth nothing.
+003.05.08@grc καὶ ἐὰν {42a} ταῦτα ποιῆτε, δίκαια πεπονθὼς ἐγὼ ἔσομαι ὑφ’ ὑμῶν αὐτός τε καὶ οἱ ὑεῖς.
+003.05.08@en If you do this, both I and my sons shall have received just treatment from you.
+003.05.09@grc ἀλλὰ γὰρ ἤδη ὥρα ἀπιέναι, ἐμοὶ μὲν ἀποθανουμένῳ, ὑμῖν δὲ βιωσομένοις·
+003.05.09@en {p} But now the time has come to go away.I go to die, and you to live;
+003.05.10@grc ὁπότεροι δὲ ἡμῶν ἔρχονται ἐπὶ ἄμεινον πρᾶγμα, ἄδηλον παντὶ πλὴν ἢ τῷ θεῷ.
+003.05.10@en but which of us goes to the better lot, is known to none but God.
+
